@@ -1,0 +1,8 @@
+# Cluster working directories: one prepared bundle and one run per job, plus the
+# per-variant result trees they are scored into. The scored CSVs are the
+# deliverable and are kept outside the repository.
+prepared_*/
+run_*/
+results_*/
+slurm_*.log
+__pycache__/

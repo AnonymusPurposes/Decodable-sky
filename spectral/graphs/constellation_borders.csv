@@ -1,0 +1,256 @@
+const_a,const_b,abbr_a,abbr_b,border_deg
+Andromeda,Cassiopeia,And,Cas,35.24034
+Andromeda,Lacerta,And,Lac,18.0
+Andromeda,Pegasus,And,Peg,29.63563
+Andromeda,Perseus,And,Per,31.51084
+Andromeda,Pisces,And,Psc,32.44936
+Andromeda,Triangulum,And,Tri,17.2305
+Antlia,Centaurus,Ant,Cen,4.75
+Antlia,Hydra,Ant,Hya,32.58706
+Antlia,Pyxis,Ant,Pyx,12.75
+Antlia,Vela,Ant,Vel,21.83624
+Apus,Ara,Aps,Ara,2.87013
+Apus,Chamaeleon,Aps,Cha,7.5
+Apus,Circinus,Aps,Cir,5.55766
+Apus,Musca,Aps,Mus,5.0
+Apus,Octans,Aps,Oct,15.98414
+Apus,Pavo,Aps,Pav,10.37013
+Apus,Triangulum Australe,Aps,TrA,14.04318
+Aquila,Aquarius,Aql,Aqr,11.0
+Aquila,Capricornus,Aql,Cap,10.93431
+Aquila,Delphinus,Aql,Del,19.59579
+Aquila,Hercules,Aql,Her,9.50047
+Aquila,Ophiuchus,Aql,Oph,5.75
+Aquila,Scutum,Aql,Sct,12.27394
+Aquila,Serpens,Aql,Ser,17.54768
+Aquila,Sagitta,Aql,Sge,21.10371
+Aquila,Sagittarius,Aql,Sgr,16.62596
+Aquarius,Capricornus,Aqr,Cap,47.9936
+Aquarius,Cetus,Aqr,Cet,18.5
+Aquarius,Delphinus,Aqr,Del,4.49726
+Aquarius,Equuleus,Aqr,Equ,7.49543
+Aquarius,Pegasus,Aqr,Peg,23.23664
+Aquarius,Piscis Austrinus,Aqr,PsA,15.3435
+Aquarius,Pisces,Aqr,Psc,25.20992
+Aquarius,Sculptor,Aqr,Scl,11.28186
+Ara,Corona Australis,Ara,CrA,1.75262
+Ara,Norma,Ara,Nor,14.5
+Ara,Pavo,Ara,Pav,14.58479
+Ara,Scorpius,Ara,Sco,14.85052
+Ara,Telescopium,Ara,Tel,11.5
+Ara,Triangulum Australe,Ara,TrA,11.27915
+Aries,Cetus,Ari,Cet,18.9619
+Aries,Perseus,Ari,Per,8.38645
+Aries,Pisces,Ari,Psc,20.0081
+Aries,Taurus,Ari,Tau,21.93284
+Aries,Triangulum,Ari,Tri,19.60365
+Auriga,Camelopardalis,Aur,Cam,15.5419
+Auriga,Gemini,Aur,Gem,26.286
+Auriga,Lynx,Aur,Lyn,32.98224
+Auriga,Perseus,Aur,Per,24.15963
+Auriga,Taurus,Aur,Tau,20.85375
+Bootes,Canes Venatici,Boo,CVn,27.00826
+Bootes,Coma Berenices,Boo,Com,13.5
+Bootes,Corona Borealis,Boo,CrB,20.78411
+Bootes,Draco,Boo,Dra,15.59341
+Bootes,Hercules,Boo,Her,11.5
+Bootes,Serpens,Boo,Ser,19.34819
+Bootes,Ursa Major,Boo,UMa,10.2574
+Bootes,Virgo,Boo,Vir,30.51837
+Canis Major,Columba,CMa,Col,11.61986
+Canis Major,Lepus,CMa,Lep,16.25
+Canis Major,Monoceros,CMa,Mon,18.40551
+Canis Major,Puppis,CMa,Pup,31.85522
+Canis Minor,Cancer,CMi,Cnc,10.58071
+Canis Minor,Gemini,CMi,Gem,15.31894
+Canis Minor,Hydra,CMi,Hya,7.0
+Canis Minor,Monoceros,CMi,Mon,26.2474
+Canes Venatici,Coma Berenices,CVn,Com,24.60142
+Canes Venatici,Ursa Major,CVn,UMa,42.47303
+Caelum,Columba,Cae,Col,15.75
+Caelum,Dorado,Cae,Dor,2.29588
+Caelum,Eridanus,Cae,Eri,19.83629
+Caelum,Horologium,Cae,Hor,9.0
+Caelum,Lepus,Cae,Lep,2.22299
+Caelum,Pictor,Cae,Pic,11.27018
+Camelopardalis,Cassiopeia,Cam,Cas,21.77957
+Camelopardalis,Cepheus,Cam,Cep,17.61656
+Camelopardalis,Draco,Cam,Dra,23.86331
+Camelopardalis,Lynx,Cam,Lyn,21.58812
+Camelopardalis,Perseus,Cam,Per,18.8824
+Camelopardalis,Ursa Major,Cam,UMa,18.61228
+Camelopardalis,Ursa Minor,Cam,UMi,19.80819
+Capricornus,Microscopium,Cap,Mic,13.24421
+Capricornus,Piscis Austrinus,Cap,PsA,9.72158
+Capricornus,Sagittarius,Cap,Sgr,20.381
+Carina,Centaurus,Car,Cen,9.56976
+Carina,Chamaeleon,Car,Cha,8.60586
+Carina,Musca,Car,Mus,11.0
+Carina,Pictor,Car,Pic,20.28913
+Carina,Puppis,Car,Pup,18.98116
+Carina,Vela,Car,Vel,31.16647
+Carina,Volans,Car,Vol,25.46625
+Cassiopeia,Cepheus,Cas,Cep,40.87905
+Cassiopeia,Lacerta,Cas,Lac,3.75
+Cassiopeia,Perseus,Cas,Per,24.17876
+Centaurus,Circinus,Cen,Cir,15.79453
+Centaurus,Crux,Cen,Cru,26.60365
+Centaurus,Hydra,Cen,Hya,55.51535
+Centaurus,Lupus,Cen,Lup,37.01448
+Centaurus,Musca,Cen,Mus,8.21946
+Centaurus,Vela,Cen,Vel,16.75
+Cepheus,Cygnus,Cep,Cyg,25.93828
+Cepheus,Draco,Cep,Dra,35.05938
+Cepheus,Lacerta,Cep,Lac,11.17399
+Cepheus,Ursa Minor,Cep,UMi,10.21705
+Cetus,Eridanus,Cet,Eri,32.12837
+Cetus,Fornax,Cet,For,14.5506
+Cetus,Pisces,Cet,Psc,49.34607
+Cetus,Sculptor,Cet,Scl,24.822
+Cetus,Taurus,Cet,Tau,11.6667
+Chamaeleon,Mensa,Cha,Men,7.5
+Chamaeleon,Musca,Cha,Mus,9.38232
+Chamaeleon,Octans,Cha,Oct,11.74736
+Chamaeleon,Volans,Cha,Vol,5.30553
+Circinus,Lupus,Cir,Lup,4.4455
+Circinus,Musca,Cir,Mus,7.05676
+Circinus,Norma,Cir,Nor,7.43741
+Circinus,Triangulum Australe,Cir,TrA,13.8368
+Cancer,Gemini,Cnc,Gem,22.60275
+Cancer,Hydra,Cnc,Hya,17.37005
+Cancer,Leo,Cnc,Leo,26.5
+Cancer,Lynx,Cnc,Lyn,15.63536
+Columba,Lepus,Col,Lep,14.89148
+Columba,Pictor,Col,Pic,10.97031
+Columba,Puppis,Col,Pup,16.39898
+Coma Berenices,Leo,Com,Leo,15.0
+Coma Berenices,Ursa Major,Com,UMa,6.7488
+Coma Berenices,Virgo,Com,Vir,24.72806
+Corona Australis,Scorpius,CrA,Sco,8.5
+Corona Australis,Sagittarius,CrA,Sgr,24.47351
+Corona Australis,Telescopium,CrA,Tel,12.26626
+Corona Borealis,Hercules,CrB,Her,24.72762
+Corona Borealis,Serpens,CrB,Ser,11.45962
+Crater,Corvus,Crt,Crv,13.5
+Crater,Hydra,Crt,Hya,28.33084
+Crater,Leo,Crt,Leo,11.4375
+Crater,Sextans,Crt,Sex,5.0
+Crater,Virgo,Crt,Vir,9.72298
+Crux,Musca,Cru,Mus,6.57557
+Corvus,Hydra,Crv,Hya,16.214
+Corvus,Virgo,Crv,Vir,25.72441
+Cygnus,Draco,Cyg,Dra,19.3908
+Cygnus,Lacerta,Cyg,Lac,17.74096
+Cygnus,Lyra,Cyg,Lyr,25.18546
+Cygnus,Pegasus,Cyg,Peg,13.91268
+Cygnus,Vulpecula,Cyg,Vul,30.95505
+Delphinus,Equuleus,Del,Equ,13.02459
+Delphinus,Pegasus,Del,Peg,7.6667
+Delphinus,Sagitta,Del,Sge,6.31351
+Delphinus,Vulpecula,Del,Vul,12.28334
+Dorado,Horologium,Dor,Hor,8.33147
+Dorado,Hydrus,Dor,Hyi,2.5
+Dorado,Mensa,Dor,Men,10.2606
+Dorado,Pictor,Dor,Pic,30.90974
+Dorado,Reticulum,Dor,Ret,20.52312
+Dorado,Volans,Dor,Vol,6.0
+Draco,Hercules,Dra,Her,27.43928
+Draco,Lyra,Dra,Lyr,8.61378
+Draco,Ursa Major,Dra,UMa,47.32385
+Draco,Ursa Minor,Dra,UMi,58.93925
+Equuleus,Pegasus,Equ,Peg,15.31792
+Eridanus,Fornax,Eri,For,47.11985
+Eridanus,Horologium,Eri,Hor,40.13789
+Eridanus,Hydrus,Eri,Hyi,6.53175
+Eridanus,Lepus,Eri,Lep,19.91424
+Eridanus,Orion,Eri,Ori,17.98378
+Eridanus,Phoenix,Eri,Phe,28.06726
+Eridanus,Taurus,Eri,Tau,21.7489
+Fornax,Phoenix,For,Phe,7.65968
+Fornax,Sculptor,For,Scl,14.5
+Gemini,Lynx,Gem,Lyn,9.80783
+Gemini,Monoceros,Gem,Mon,12.15543
+Gemini,Orion,Gem,Ori,16.79673
+Gemini,Taurus,Gem,Tau,5.1667
+Grus,Indus,Gru,Ind,17.9282
+Grus,Microscopium,Gru,Mic,8.5
+Grus,Phoenix,Gru,Phe,17.0
+Grus,Piscis Austrinus,Gru,PsA,19.96629
+Grus,Sculptor,Gru,Scl,6.99278
+Grus,Tucana,Gru,Tuc,10.89251
+Hercules,Lyra,Her,Lyr,31.82202
+Hercules,Ophiuchus,Her,Oph,47.79206
+Hercules,Serpens,Her,Ser,28.76814
+Hercules,Sagitta,Her,Sge,2.5833
+Hercules,Vulpecula,Her,Vul,4.4167
+Horologium,Hydrus,Hor,Hyi,14.9314
+Horologium,Reticulum,Hor,Ret,19.74829
+Hydra,Leo,Hya,Leo,4.96223
+Hydra,Libra,Hya,Lib,16.60007
+Hydra,Monoceros,Hya,Mon,11.0
+Hydra,Puppis,Hya,Pup,10.1729
+Hydra,Pyxis,Hya,Pyx,21.08191
+Hydra,Sextans,Hya,Sex,35.17897
+Hydra,Virgo,Hya,Vir,19.70312
+Hydrus,Mensa,Hyi,Men,16.70568
+Hydrus,Octans,Hyi,Oct,14.35263
+Hydrus,Reticulum,Hyi,Ret,7.94049
+Hydrus,Tucana,Hyi,Tuc,23.52841
+Indus,Microscopium,Ind,Mic,10.51364
+Indus,Octans,Ind,Oct,7.76457
+Indus,Pavo,Ind,Pav,25.5
+Indus,Telescopium,Ind,Tel,11.5
+Indus,Tucana,Ind,Tuc,25.65348
+Leo Minor,Leo,LMi,Leo,38.37467
+Leo Minor,Lynx,LMi,Lyn,12.34382
+Leo Minor,Ursa Major,LMi,UMa,29.28319
+Lacerta,Pegasus,Lac,Peg,13.67002
+Leo,Sextans,Leo,Sex,30.37005
+Leo,Ursa Major,Leo,UMa,11.37049
+Leo,Virgo,Leo,Vir,25.15354
+Lepus,Monoceros,Lep,Mon,4.1729
+Lepus,Orion,Lep,Ori,11.04331
+Libra,Lupus,Lib,Lup,9.7915
+Libra,Ophiuchus,Lib,Oph,4.75
+Libra,Scorpius,Lib,Sco,25.02385
+Libra,Serpens,Lib,Ser,15.73089
+Libra,Virgo,Lib,Vir,34.43867
+Lupus,Norma,Lup,Nor,22.55947
+Lupus,Scorpius,Lup,Sco,16.85134
+Lynx,Ursa Major,Lyn,UMa,33.69139
+Lyra,Vulpecula,Lyr,Vul,7.30179
+Mensa,Octans,Men,Oct,10.44728
+Mensa,Volans,Men,Vol,9.20607
+Microscopium,Piscis Austrinus,Mic,PsA,9.0
+Microscopium,Sagittarius,Mic,Sgr,17.5
+Monoceros,Orion,Mon,Ori,30.0949
+Monoceros,Puppis,Mon,Pup,10.55151
+Norma,Scorpius,Nor,Sco,8.19073
+Norma,Triangulum Australe,Nor,TrA,8.15625
+Octans,Pavo,Oct,Pav,12.94082
+Octans,Tucana,Oct,Tuc,2.58832
+Ophiuchus,Scorpius,Oph,Sco,47.90958
+Ophiuchus,Serpens,Oph,Ser,75.76472
+Ophiuchus,Sagittarius,Oph,Sgr,14.0
+Orion,Taurus,Ori,Tau,49.96014
+Pavo,Telescopium,Pav,Tel,19.06209
+Pegasus,Pisces,Peg,Psc,39.64811
+Pegasus,Vulpecula,Peg,Vul,13.62103
+Perseus,Taurus,Per,Tau,14.6221
+Perseus,Triangulum,Per,Tri,8.54957
+Phoenix,Sculptor,Phe,Scl,26.81232
+Phoenix,Tucana,Phe,Tuc,17.17496
+Pictor,Puppis,Pic,Pup,7.75
+Pictor,Volans,Pic,Vol,1.64389
+Piscis Austrinus,Sculptor,PsA,Scl,11.5
+Pisces,Triangulum,Psc,Tri,11.4223
+Puppis,Pyxis,Pup,Pyx,19.75
+Puppis,Vela,Pup,Vel,18.02281
+Pyxis,Vela,Pyx,Vel,12.01881
+Scorpius,Sagittarius,Sco,Sgr,10.03066
+Scutum,Serpens,Sct,Ser,16.98732
+Scutum,Sagittarius,Sct,Sgr,12.85885
+Serpens,Sagittarius,Ser,Sgr,9.3723
+Serpens,Virgo,Ser,Vir,8.0
+Sagitta,Vulpecula,Sge,Vul,24.20453
+Sagittarius,Telescopium,Sgr,Tel,12.26521

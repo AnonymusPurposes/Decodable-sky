@@ -1,0 +1,793 @@
+arm,id,A,B,template,answer,category,deg_from_A,deg_from_B,no_constellation,ramble_A,equals_A,equals_B,within30_A_not_A,within30_B_not_B,other,logodds_change,completion
+self,0,Andromeda,Lepus,25,Triangulum,within30_A_not_A,19.8876,70.9512,0,0,0,0,1,0,0,-0.844873,The nearest constellation to Andromeda constellation is Triangulum. The Andromeda constellation is named after the princess
+self,1,Antlia,Bootes,25,Leo|Hydra|Canis Major|Vela,other,31.3937,89.5177,0,0,0,0,0,0,1,-2.29587,A. Leo B. Hydra C. Canis Major D. Vela  The best answer is
+self,2,Apus,Cetus,25,Chamaeleon,within30_A_not_A,16.4285,87.9388,0,0,0,0,1,0,0,-1.416079,The best answer to this is Chamaeleon. The nearest constellations to Apus are Chamaele
+self,3,Aquarius,Chamaeleon,25,,no_constellation,,,1,0,0,0,0,0,0,-0.43762,The nearest constellation to Aquarius constellation is The nearest constellation to Aquarius constellation is The nearest constellation to Aqu
+self,4,Aquila,Cetus,25,,no_constellation,,,1,0,0,0,0,0,0,-2.02079,The nearest constellation to Aquila constellation is The nearest constellation to Aquila constellation is The nearest constellation to Aqu
+self,5,Ara,Columba,25,Norma,within30_A_not_A,11.6945,90.085,0,0,0,0,1,0,0,-1.914972,"The best answer is Norma constellation. The nearest constellations to Ara constellation are Norma, Triangulum"
+self,6,Aries,Tucana,25,Andromeda|Triangulum|Pisces|Taurus,within30_A_not_A,25.4282,94.5364,0,0,0,0,1,0,0,-0.399965,A) Andromeda B) Triangulum C) Pisces D) Taurus E
+self,7,Auriga,Pegasus,25,Orion|Gemini|Taurus|Ursa Major,other,35.1553,99.8389,0,0,0,0,0,0,1,-1.131605,A) Orion B) Gemini C) Taurus D) Ursa Major E) None of
+self,8,Bootes,Corona Australis,25,Virgo|Hercules|Ursa Major,other,39.4546,96.0904,0,0,0,0,0,0,1,-1.15465,A. Virgo B. Hercules C. Ursa Major D. Virgo and Hercules E
+self,9,Caelum,Norma,25,Columba|Eridanus|Puppis|Lepus,within30_A_not_A,22.6193,96.7783,0,0,0,0,1,0,0,-0.907057,A. Columba B. Eridanus C. Puppis D. Lepus E
+self,10,Camelopardalis,Lepus,25,Ursa Major|Ursa Minor|Draco,other,35.8734,116.84,0,0,0,0,0,0,1,-1.100946,A) Ursa Major B) Ursa Minor C) Draco D) Ursa Major and U
+self,11,Cancer,Volans,25,Gemini|Leo|Ursa Major,other,31.7863,104.0565,0,0,0,0,0,0,1,0.705956,A) Gemini B) Leo C) Ursa Major D) Leo and Gemini E) None
+self,12,Canes Venatici,Pyxis,25,Ursa Major|Ursa Minor|Bootes|Virgo,other,31.9744,93.2057,0,0,0,0,0,0,1,-4.291167,A. Ursa Major B. Ursa Minor C. Boötes D. Virgo
+self,13,Canis Major,Pavo,25,Orion|Lepus|Monoceros,within30_A_not_A,23.3699,106.6916,0,0,0,0,1,0,0,-0.62874,A. Orion B. Lepus C. Monoceros D. Orion and Lepus E
+self,14,Canis Minor,Musca,25,Orion|Gemini|Monoceros|Canis Major,within30_A_not_A,23.0988,90.4519,0,0,0,0,1,0,0,0.000778,A) Orion B) Gemini C) Monoceros D) Orion E) Canis Major
+self,15,Capricornus,Corona Borealis,25,Aquarius,within30_A_not_A,21.3146,101.5308,0,0,0,0,1,0,0,-3.107178,The nearest constellation to Capricornus constellation is Aquarius. It is located in the southern hemisphere and is one
+self,16,Carina,Cetus,25,Puppis|Vela|Carina|Pictor,within30_A_not_A,18.7279,85.4206,0,0,0,0,1,0,0,-3.32078,A. Puppis B. Vela C. Carina D. Pictor The best
+self,17,Cassiopeia,Eridanus,25,Ursa Minor|Cepheus|Andromeda,within30_A_not_A,26.4984,102.3367,0,0,0,0,1,0,0,-1.99057,A) Ursa Minor B) Cepheus C) Andromeda D) Cep
+self,18,Centaurus,Monoceros,25,Carina|Crux|Vela,within30_A_not_A,29.8372,67.9036,0,0,0,0,1,0,0,-2.347509,A. Carina B. Crux C. Vela D. Carina and Crux
+self,19,Cepheus,Ophiuchus,25,Cassiopeia|Cygnus|Ursa Major,other,34.1155,89.7862,0,0,0,0,0,0,1,-4.886963,A) Cassiopeia B) Cygnus C) Ursa Major D) Cassio
+self,20,Cetus,Aquila,25,Orion|Pisces|Fornax,other,37.9033,109.65,0,0,0,0,0,0,1,-0.413902,The nearest constellation to Cetus constellation is A. Orion B. Pisces C. Fornax
+self,21,Chamaeleon,Aquarius,25,Carina,within30_A_not_A,18.8536,104.3656,0,0,0,0,1,0,0,0.726286,"The best answer is : Carina. The Chamaeleon constellation is a small constellation in the southern sky,"
+self,22,Circinus,Coma Berenices,25,Norma|Centaurus|Triangulum Australe|Carina,within30_A_not_A,20.9788,87.0648,0,0,0,0,1,0,0,-3.312193,A. Norma B. Centaurus C. Triangulum Australe D. Carina
+self,23,Columba,Norma,25,Canis Major|Caelum|Lepus|Puppis,within30_A_not_A,17.9459,94.4421,0,0,0,0,1,0,0,-0.737925,A. Canis Major B. Caelum C. Lepus D. Puppis
+self,24,Coma Berenices,Circinus,25,Virgo|Leo|Ursa Major,other,31.3111,93.4522,0,0,0,0,0,0,1,-4.59679,A. Virgo B. Leo C. Berenice D. Ursa Major E.
+self,25,Corona Australis,Bootes,25,Scorpius,within30_A_not_A,23.7192,69.3388,0,0,0,0,1,0,0,-1.164698,The best answer is Scorpius. The nearest constellation to Corona Australis constellation is Scorpius. Corona Austral
+self,26,Corona Borealis,Capricornus,25,Hercules|Bootes,within30_A_not_A,17.8483,88.146,0,0,0,0,1,0,0,-0.677322,A) Hercules B) Boötes C) Hercules D) Boötes E) Hercules
+self,27,Corvus,Scutum,25,Virgo|Crater|Leo|Crux,within30_A_not_A,29.6412,97.4265,0,0,0,0,1,0,0,-1.99645,A. Virgo B. Crater C. Leo D. Crux  The best answer is
+self,28,Crater,Orion,25,Leo|Hydra|Corvus|Virgo,within30_A_not_A,23.1502,92.4885,0,0,0,0,1,0,0,0.164623,A. Leo B. Hydra C. Corvus D. Virgo The best answer is
+self,29,Crux,Eridanus,25,Carina|Centaurus|Chamaeleon,within30_A_not_A,20.7709,79.8377,0,0,0,0,1,0,0,-1.162795,A. Carina B. Centaurus C. Chamaeleon D. Carina and Cent
+self,30,Cygnus,Lynx,25,Lyra,within30_A_not_A,21.3804,94.9359,0,0,0,0,1,0,0,-2.318804,The nearest constellation to Cygnus constellation is Lyra. It is located in the northern sky and is named after
+self,31,Delphinus,Perseus,25,Pegasus|Aquila,within30_A_not_A,24.2364,86.2975,0,0,0,0,1,0,0,-0.753931,The nearest constellation to Delphinus constellation is A. Pegasus B. Aquila C. Cy
+self,32,Dorado,Pisces,25,Carina|Puppis|Mensa|Volans,within30_A_not_A,24.4513,106.5984,0,0,0,0,1,0,0,-1.316145,A. Carina B. Puppis C. Mensa D. Volans E.
+self,33,Draco,Pisces,25,Ursa Major|Ursa Minor|Cepheus,within30_A_not_A,25.9495,88.4986,0,0,0,0,1,0,0,-1.114721,A) Ursa Major B) Ursa Minor C) Cepheus D) Ursa
+self,34,Equuleus,Fornax,25,Pegasus,within30_A_not_A,24.4595,77.8286,0,0,0,0,1,0,0,-1.505207,The nearest constellation to Equuleus constellation is Pegasus. Equuleus is a small constellation located near the celestial
+self,35,Eridanus,Cassiopeia,25,Orion|Cetus|Fornax|Tucana,other,36.4915,92.8393,0,0,0,0,0,0,1,0.359049,A. Orion B. Cetus C. Fornax D. Tucana The best
+self,36,Fornax,Corona Australis,25,Cetus|Eridanus|Sculptor|Phoenix,within30_A_not_A,25.5328,82.8254,0,0,0,0,1,0,0,-1.660782,A. Cetus B. Eridanus C. Sculptor D. Phoenix The best answer
+self,37,Gemini,Dorado,25,Orion|Taurus|Cancer,other,30.0224,79.0259,0,0,0,0,0,0,1,-0.278563,A) Orion B) Taurus C) Cancer D) Taurus E) Orion The
+self,38,Grus,Lacerta,25,Phoenix,within30_A_not_A,23.2999,97.5304,0,0,0,0,1,0,0,-1.438034,The nearest constellation to Grus constellation is Phoenix. The Grus constellation is a southern hemisphere constellation that is named after
+self,39,Hercules,Leo,25,Lyra|Corona Borealis|Ophiuchus,within30_A_not_A,24.3908,92.2741,0,0,0,0,1,0,0,-1.485275,A) Lyra B) Corona Borealis C) Ophiuchus D) Ophi
+self,40,Horologium,Scorpius,25,Hydrus|Eridanus|Reticulum|Pavo,within30_A_not_A,27.9995,81.3489,0,0,0,0,1,0,0,-1.115246,A. Hydrus B. Eridanus C. Reticulum D. Pavo
+self,41,Hydra,Pavo,25,Leo|Cancer|Sextans|Canis Major,other,36.7827,112.7384,0,0,0,0,0,0,1,-0.911217,A. Leo B. Cancer C. Sextans D. Canis Major The best answer is
+self,42,Hydrus,Taurus,25,Phoenix|Tucana|Mensa|Carina,within30_A_not_A,22.2155,91.6978,0,0,0,0,1,0,0,-0.687403,A. Phoenix B. Tucana C. Mensa D. Carina The best answer
+self,43,Indus,Lepus,25,Grus,within30_A_not_A,16.1139,87.0706,0,0,0,0,1,0,0,-0.576092,The best answer is Grus. The Indus constellation is a southern constellation that is located near the celestial south pole
+self,44,Lacerta,Grus,25,Cygnus,within30_A_not_A,20.1685,92.3728,0,0,0,0,1,0,0,-6.087538,The nearest constellation to Lacerta constellation is Cygnus. It is located in the northern sky and is named after
+self,45,Leo,Taurus,25,Virgo|Ursa Major|Cancer,other,37.1522,91.5709,0,0,0,0,0,0,1,-1.26263,A. Virgo B. Ursa Major C. Cancer D. Virgo and Ursa Major
+self,46,Leo Minor,Serpens,25,Ursa Major|Lynx|Leo|Ursa Minor,other,30.7645,87.5791,0,0,0,0,0,0,1,0.5121,A) Ursa Major B) Lynx C) Leo D) Ursa Minor E)
+self,47,Lepus,Camelopardalis,25,Orion|Eridanus|Cetus,other,35.8302,83.1513,0,0,0,0,0,0,1,0.605124,A. Orion B. Eridanus C. Cetus D. Orion E. Erid
+self,48,Libra,Tucana,25,Scorpius|Virgo|Centaurus,other,32.9544,82.2477,0,0,0,0,0,0,1,-0.523066,A. Scorpius B. Virgo C. Centaurus D. Virgo and Scorpi
+self,49,Lupus,Delphinus,25,Norma|Centaurus|Scorpius,within30_A_not_A,18.5923,91.452,0,0,0,0,1,0,0,-2.267117,A. Norma B. Centaurus C. Scorpius D. Centaurus and Norma
+self,50,Lynx,Cygnus,25,Ursa Major|Ursa Minor|Camelopardalis,other,35.4707,61.7919,0,0,0,0,0,0,1,-1.969402,A) Ursa Major B) Ursa Minor C) Camelopardalis D) Ursa Major
+self,51,Lyra,Telescopium,25,Cygnus|Hercules,within30_A_not_A,21.1023,90.229,0,0,0,0,1,0,0,-4.655933,A) Cygnus B) Cygnus and Hercules C) Hercules D) Cygnus
+self,52,Mensa,Scutum,25,Circinus|Chamaeleon|Octans|Apus,within30_A_not_A,23.3497,74.3998,0,0,0,0,1,0,0,-0.554771,A. Circinus B. Chamaeleon C. Octans D. Apus E
+self,53,Microscopium,Andromeda,25,Grus,within30_A_not_A,19.6629,90.7883,0,0,0,0,1,0,0,-0.180908,The nearest constellation to Microscopium constellation is Grus. Microscopium is a small constellation in the
+self,54,Monoceros,Phoenix,25,Orion|Canis Major|Canis Minor,within30_A_not_A,18.2728,86.4222,0,0,0,0,1,0,0,-1.381727,A) Orion B) Canis Major C) Canis Minor D) Orion and Canis Major
+self,55,Musca,Canis Minor,25,Carina|Chamaeleon|Centaurus,within30_A_not_A,19.7284,82.6297,0,0,0,0,1,0,0,-3.470396,A. Carina B. Chamaeleon C. Centaurus D. Carina and Ch
+self,56,Norma,Caelum,25,Scorpius,within30_A_not_A,20.6064,109.6262,0,0,0,0,1,0,0,0.001354,"The best answer is Scorpius constellation. The Norma constellation is a small constellation in the southern sky, and"
+self,57,Octans,Virgo,25,Apus,within30_A_not_A,13.7374,77.2877,0,0,0,0,1,0,0,0.619581,"The best answer is : Apus The nearest constellations to Octans are Apus, Chamaele"
+self,58,Ophiuchus,Cepheus,25,Hercules|Scorpius|Serpens,within30_A_not_A,25.8661,87.1952,0,0,0,0,1,0,0,-2.509548,A) Hercules B) Scorpius C) Serpens D) Hercules and Scorpius
+self,59,Orion,Cepheus,25,Taurus|Canis Major|Gemini,within30_A_not_A,27.6798,91.7531,0,0,0,0,1,0,0,-0.377745,A) Taurus B) Canis Major C) Gemini D) Taurus E) Can
+self,60,Pavo,Hydra,25,Grus,other,30.7947,115.4713,0,0,0,0,0,0,1,-0.577284,The best answer is Grus. The Pavo constellation is a southern hemisphere constellation that is named after the peacock
+self,61,Pegasus,Auriga,25,,no_constellation,,,1,0,0,0,0,0,0,-1.986998,The nearest constellation to Pegasus constellation is The nearest constellation to Pegasus constellation is The nearest constellation to P
+self,62,Perseus,Delphinus,25,Andromeda|Cassiopeia|Orion|Ursa Major,other,43.2659,91.0186,0,0,0,0,0,0,1,-0.67897,A) Andromeda B) Cassiopeia C) Orion D) Ursa Major
+self,63,Phoenix,Monoceros,25,Grus,within30_A_not_A,23.2999,113.2579,0,0,0,0,1,0,0,-3.257582,"The best answer is Grus. The nearest constellations to Phoenix are Grus, Tucana, and"
+self,64,Pictor,Pisces,25,Carina|Dorado|Columba|Puppis,within30_A_not_A,20.8272,99.4301,0,0,0,0,1,0,0,-0.210131,A. Carina B. Dorado C. Columba D. Carina and Puppis
+self,65,Pisces,Ursa Minor,25,,no_constellation,,,1,0,0,0,0,0,0,0.779493,The nearest constellation to Pisces constellation is The nearest constellation to Pisces constellation is The nearest constellation to Pis
+self,66,Piscis Austrinus,Serpens,25,Grus,within30_A_not_A,15.01,93.6221,0,0,0,0,1,0,0,-1.411585,The best answer is Grus constellation. The nearest constellations to Piscis Austrinus are: 1.
+self,67,Puppis,Aries,25,Carina|Vela|Canis Major,within30_A_not_A,24.6082,99.0507,0,0,0,0,1,0,0,-1.678936,A. Carina B. Vela C. Carina and Vela D. Canis Major
+self,68,Pyxis,Canes Venatici,25,Puppis|Antlia|Carina,within30_A_not_A,22.7314,102.3681,0,0,0,0,1,0,0,0.524092,A. Puppis B. Antlia C. Carina D. Antares E.
+self,69,Reticulum,Sextans,25,Dorado|Hydrus|Pictor|Horologium,within30_A_not_A,11.8343,87.5888,0,0,0,0,1,0,0,-1.373541,A. Dorado B. Hydrus C. Pictor D. Horologium E
+self,70,Sagitta,Cetus,25,Lyra|Cygnus,within30_A_not_A,24.3277,95.2668,0,0,0,0,1,0,0,-1.239277,The nearest constellation to Sagitta constellation is A) Lyra B) Cygnus C) Aqu
+self,71,Sagittarius,Corvus,25,Scorpius,other,31.1752,59.9966,0,0,0,0,0,0,1,-2.287966,The nearest constellation to Sagittarius constellation is Scorpius. The two constellations are adjacent to each other
+self,72,Scorpius,Sculptor,25,Libra|Sagittarius|Ophiuchus|Ara,within30_A_not_A,27.2366,90.1115,0,0,0,0,1,0,0,-0.124649,A. Libra B. Sagittarius C. Ophiuchus D. Ara The
+self,73,Sculptor,Scorpius,25,Phoenix,within30_A_not_A,15.9413,83.4991,0,0,0,0,1,0,0,-1.250269,"The nearest constellation to Sculptor constellation is Phoenix. The Sculptor constellation is a small, faint constellation located in the"
+self,74,Scutum,Corvus,25,Cygnus|Aquila,other,39.0562,117.0765,0,0,0,0,0,0,1,-1.980242,A) Cygnus B) Aquila C) Cygnus D) Cygnus
+self,75,Serpens,Piscis Austrinus,25,Ophiuchus|Corona Borealis|Hercules|Virgo,within30_A_not_A,29.8162,100.386,0,0,0,0,1,0,0,-0.608921,A. Ophiuchus B. Corona Borealis C. Hercules D. Virgo
+self,76,Sextans,Reticulum,25,Leo|Hydra|Canis Minor|Leo Minor|Crater,within30_A_not_A,26.6873,94.9787,0,0,0,0,1,0,0,-0.978064,A. Leo B. Hydra C. Canis Minor D. Leo Minor E. Crater
+self,77,Taurus,Leo,25,Orion|Gemini|Cetus|Perseus,other,34.6489,88.6682,0,0,0,0,0,0,1,0.085835,A) Orion B) Gemini C) Cetus D) Perseus E) Orion
+self,78,Telescopium,Columba,25,Pavo,within30_A_not_A,14.2287,76.741,0,0,0,0,1,0,0,-0.788818,"The best answer is Pavo. The nearest constellations to Telescopium are Pavo, Ara,"
+self,79,Triangulum,Capricornus,25,Andromeda|Pisces|Aries,within30_A_not_A,21.0991,76.732,0,0,0,0,1,0,0,-0.958704,A) Andromeda B) Pisces C) Aries D) Pisces E)
+self,80,Triangulum Australe,Equuleus,25,Apus,within30_A_not_A,9.9523,93.5305,0,0,0,0,1,0,0,-1.83165,The best answer to this is Apus. The nearest constellation to Triangulum Australe is Apus. The
+self,81,Tucana,Aries,25,Grus,within30_A_not_A,22.0707,86.5113,0,0,0,0,1,0,0,-0.253208,"The best answer is Grus. The nearest constellations to Tucana are Grus, Hydrus"
+self,82,Ursa Major,Antlia,25,Cassiopeia|Draco|Ursa Minor|Leo,other,42.9347,108.995,0,0,0,0,0,0,1,-1.903916,A) Cassiopeia B) Draco C) Ursa Minor D) Leo E)
+self,83,Ursa Minor,Pisces,25,Ursa Major|Draco|Cepheus,within30_A_not_A,22.7021,88.1979,0,0,0,0,1,0,0,-2.132971,A) Ursa Major B) Draco C) Cepheus D) Draco E)
+self,84,Vela,Sculptor,25,Carina|Puppis|Antlia,within30_A_not_A,19.39,89.0345,0,0,0,0,1,0,0,-2.094511,A. Carina B. Puppis C. Antlia D. Carina and Pupp
+self,85,Virgo,Octans,25,Leo|Coma Berenices|Bootes,other,35.4781,115.5277,0,0,0,0,0,0,1,-1.727091,A. Leo B. Coma Berenices C. Boötes D. Coma Ber
+self,86,Volans,Leo,25,Carina|Chamaeleon|Dorado|Mensa,within30_A_not_A,13.6003,94.8555,0,0,0,0,1,0,0,-0.574162,A. Carina B. Chamaeleon C. Dorado D. Mensa E
+self,87,Vulpecula,Pavo,25,Lyra,within30_A_not_A,22.3718,102.6767,0,0,0,0,1,0,0,-0.248629,The nearest constellation to Vulpecula constellation is Lyra. Vulpecula is a small constellation in the northern sky
+target,0,Andromeda,Lepus,25,Orion|Cetus|Canis Major|Triangulum,other,62.9732,42.7585,0,0,0,0,0,0,1,1.799519,A. Orion B. Cetus C. Canis Major D. Triangulum E.
+target,1,Antlia,Bootes,25,Ursa Major|Ursa Minor|Virgo,other,87.6241,43.4218,0,0,0,0,0,0,1,9.183026,A. Ursa Major B. Ursa Minor C. Virgo D. Virgo and Bo
+target,2,Apus,Cetus,25,Cygnus|Eridanus,other,104.5962,59.5951,0,0,0,0,0,0,1,1.111788,The nearest constellation to Apus constellation is A. Cygnus B. Eridanus C.
+target,3,Aquarius,Chamaeleon,25,Puppis|Piscis Austrinus|Centaurus|Carina,other,89.8335,43.6346,0,0,0,0,0,0,1,1.633923,A. Puppis B. Piscis Austrinus C. Centaurus D. Carina
+target,4,Aquila,Cetus,25,Orion,other,148.5368,61.0854,0,0,0,0,0,0,1,3.555798,The nearest constellation to Aquila constellation is Orion constellation. The best answer is Orion constellation.
+target,5,Ara,Columba,25,Orion|Caelum|Puppis|Pictor,within30_B_not_B,94.8612,23.3915,0,0,0,0,0,1,0,3.620611,A. Orion B. Caelum C. Puppis D. Pictor The best
+target,6,Aries,Tucana,25,Piscis Austrinus,other,81.1698,36.9067,0,0,0,0,0,0,1,4.26565,The nearest constellation to Aries constellation is Piscis Austrinus. It is located in the southern hemisphere and is
+target,7,Auriga,Pegasus,25,Andromeda|Cygnus,other,73.117,34.0697,0,0,0,0,0,0,1,4.09165,The nearest constellation to Auriga constellation is A) Andromeda B) Cygnus C)
+target,8,Bootes,Corona Australis,25,Pavo,within30_B_not_B,110.786,25.6743,0,0,0,0,0,1,0,9.479729,"The best answer is Pavo. The nearest constellations to Bootes are Pavo, Grus, and"
+target,9,Caelum,Norma,25,Antlia,other,63.314,63.3884,0,0,0,0,0,0,1,4.56105,"The best answer is Antlia. The nearest constellations to Caelum are Antlia, Centaurus,"
+target,10,Camelopardalis,Lepus,25,Columba|Dorado|Carina,other,125.5458,37.9637,0,0,0,0,0,0,1,3.465952,A. Columba B. Dorado C. Carina D. Menus E. None
+target,11,Cancer,Volans,25,Carina|Centaurus|Vela|Puppis,within30_B_not_B,73.3445,28.5523,0,0,0,0,0,1,0,7.985765,A. Carina B. Centaurus C. Vela D. Puppis E.
+target,12,Canes Venatici,Pyxis,25,Carina|Volans|Leo|Pyxis,other,92.9437,31.891,0,0,0,0,0,0,1,1.36511,A. Carina B. Volans C. Leo D. Pyxis The best answer is
+target,13,Canis Major,Pavo,25,Norma|Scutum|Carina|Triangulum Australe,other,94.5054,39.5572,0,0,0,0,0,0,1,0.784359,A. Norma B. Scutum C. Carina D. Triangulum Australe
+target,14,Canis Minor,Musca,25,Carina|Centaurus|Puppis,other,66.0148,33.4961,0,0,0,0,0,0,1,7.370525,A. Carina B. Centaurus C. Puppis D. Carina and Centaurus
+target,15,Capricornus,Corona Borealis,25,Ursa Major|Virgo|Hercules,other,107.5896,41.4893,0,0,0,0,0,0,1,1.914297,A) Ursa Major B) Virgo C) Hercules D) Virgo E) U
+target,16,Carina,Cetus,25,Puppis,other,31.5921,85.5339,0,0,0,0,0,0,1,1.909494,"The nearest constellation to Carina constellation is Puppis. Carina is a southern constellation, and it is surrounded"
+target,17,Cassiopeia,Eridanus,25,Orion|Cepheus|Carina|Puppis,other,92.1853,65.4029,0,0,0,0,0,0,1,5.671344,A. Orion B. Cepheus C. Carina D. Puppis The
+target,18,Centaurus,Monoceros,25,Orion|Carina|Ursa Major,other,84.1807,53.7872,0,0,0,0,0,0,1,3.851612,A) Orion B) Carina C) Ursa Major D) Orion E) Canis
+target,19,Cepheus,Ophiuchus,25,Cygnus|Draco|Centaurus,other,68.1084,69.1208,0,0,0,0,0,0,1,6.357445,A. Cygnus B. Draco C. Centaurus D. Cygnus and Draco
+target,20,Cetus,Aquila,25,Aquarius,other,47.8078,42.8317,0,0,0,0,0,0,1,4.649006,"The nearest constellation to Cetus constellation is Aquarius. Cetus is a large constellation in the northern sky, and"
+target,21,Chamaeleon,Aquarius,25,,ramble_A,,,0,1,0,0,0,0,0,4.116835,"The Chamaeleon constellation is located in the southern sky, and it is surrounded by several other constellations"
+target,22,Circinus,Coma Berenices,25,Ursa Major|Ursa Minor,other,133.1808,47.2005,0,0,0,0,0,0,1,5.823374,A. Ursa Major B. Ursa Minor C. Ursa Major and Ursa Minor D
+target,23,Columba,Norma,25,Puppis,within30_A_not_A,23.4905,83.0517,0,0,0,0,1,0,0,2.234777,The best answer is Puppis constellation. Columba is a small constellation in the southern sky. It is located
+target,24,Coma Berenices,Circinus,25,Norma|Centaurus|Puppis|Pavo,other,90.4519,33.7887,0,0,0,0,0,0,1,6.963017,A. Norma B. Centaurus C. Puppis D. Pavo E.
+target,25,Corona Australis,Bootes,25,Ursa Major|Bootes|Corona Borealis|Hercules,within30_B_not_B,95.095,24.5513,0,0,0,0,0,1,0,2.510284,A. Ursa Major B. Boötes C. Northern Crown D. Hercules E.
+target,26,Corona Borealis,Capricornus,25,,no_constellation,,,1,0,0,0,0,0,0,4.775518,The nearest constellation to Corona Borealis constellation is The nearest constellation to Corona Borealis constellation is The
+target,27,Corvus,Scutum,25,,no_constellation,,,1,0,0,0,0,0,0,3.100613,The nearest constellation to Corvus constellation is The nearest constellation to Corvus constellation is The nearest constellation
+target,28,Crater,Orion,25,Orion|Cetus|Eridanus,other,110.9892,32.7625,0,0,0,0,0,0,1,5.006704,A) Orion B) Cetus C) Eridanus D) Orion E) Canis
+target,29,Crux,Eridanus,25,Orion|Carina|Taurus,other,81.9946,46.8848,0,0,0,0,0,0,1,1.827103,A. Orion B. Carina C. Taurus D. Carina E. Carina
+target,30,Cygnus,Lynx,25,Ursa Major|Gemini|Ursa Minor,other,77.983,34.0873,0,0,0,0,0,0,1,3.636684,A) Ursa Major B) Gemini C) Ursa Minor D) Ursa Major and U
+target,31,Delphinus,Perseus,25,Andromeda|Gemini|Ursa Major|Orion,other,108.4782,48.3358,0,0,0,0,0,0,1,1.224682,A) Andromeda B) Gemini C) Ursa Major D) Orion E) None
+target,32,Dorado,Pisces,25,Cepheus,other,149.7199,64.5242,0,0,0,0,0,0,1,3.790909,The nearest constellation to Dorado constellation is Cepheus constellation. Dorado is a constellation in the northern sky
+target,33,Draco,Pisces,25,Cepheus,within30_A_not_A,25.5387,64.5242,0,0,0,0,1,0,0,7.164299,The nearest constellation to Draco constellation is Cepheus. The constellation Cepheus is named after the king
+target,34,Equuleus,Fornax,25,Piscis Austrinus|Cetus|Fornax,within30_B_not_B,65.7239,28.1941,0,0,0,0,0,1,0,7.799515,A. Piscis Austrinus B. Cetus C. Fornax D. Pupp
+target,35,Eridanus,Cassiopeia,25,Andromeda|Cepheus|Ursa Major,other,100.2092,33.5658,0,0,0,0,0,0,1,12.472883,A) Andromeda B) Cepheus C) Ursa Major D) Androm
+target,36,Fornax,Corona Australis,25,,ramble_A,,,0,1,0,0,0,0,0,2.274227,"The Fornax constellation is a small constellation in the southern sky, and it is surrounded by several other constell"
+target,37,Gemini,Dorado,25,Orion|Puppis|Tucana|Pictor,other,71.1184,36.9551,0,0,0,0,0,0,1,4.577439,A. Orion B. Puppis C. Tucana D. Pictor The best
+target,38,Grus,Lacerta,25,Cygnus|Pegasus,within30_B_not_B,78.718,22.9224,0,0,0,0,0,1,0,11.715378,The nearest constellation to Grus constellation is A) Cygnus B) Pegasus C) Ly
+target,39,Hercules,Leo,25,Leo|Leo Minor|Canes Venatici|Virgo,within30_B_not_B,73.3544,25.6081,0,0,0,0,0,1,0,0.633749,A. Leo B. Leo Minor C. Canes Venatici D. Virgo E
+target,40,Horologium,Scorpius,25,Norma|Scorpius|Corvus|Pavo,other,79.2305,30.5555,0,0,0,0,0,0,1,2.984911,A. Norma B. Scorpius C. Corvus D. Pavo The
+target,41,Hydra,Pavo,25,Centaurus|Pavo,within30_B_not_B,66.0982,25.917,0,0,0,0,0,1,0,3.298389,A. Centaurus B. Pavo C. Centaurus D. Pavo The best answer
+target,42,Hydrus,Taurus,25,Cepheus|Cetus|Ursa Major|Caelum,other,100.6931,64.8685,0,0,0,0,0,0,1,3.001595,A) Cepheus B) Cetus C) Ursa Major D) Caelum
+target,43,Indus,Lepus,25,Orion|Canis Major|Eridanus|Cetus,other,86.4861,31.3082,0,0,0,0,0,0,1,7.069633,A. Orion B. Canis Major C. Eridanus D. Cetus The best
+target,44,Lacerta,Grus,25,Puppis,other,145.3965,92.3646,0,0,0,0,0,0,1,7.995127,"The best answer is Puppis. The nearest constellations to Lacerta are Puppis, Norma"
+target,45,Leo,Taurus,25,Orion|Taurus|Cancer|Eridanus,other,75.6687,30.3075,0,0,0,0,0,0,1,1.788452,A) Orion B) Taurus C) Cancer D) Eridanus E) Androm
+target,46,Leo Minor,Serpens,25,Ursa Major|Serpens|Draco|Virgo,other,57.1576,48.3965,0,0,0,0,0,0,1,5.648466,A) Ursa Major B) Serpens C) Draco D) Virgo The best
+target,47,Lepus,Camelopardalis,25,Ursa Major|Andromeda|Lyra|Ursa Minor,other,116.6301,46.4691,0,0,0,0,0,0,1,8.357941,A) Ursa Major B) Andromeda C) Lyra D) Ursa Minor
+target,48,Libra,Tucana,25,Piscis Austrinus|Grus|Phoenix,within30_B_not_B,98.5509,25.7927,0,0,0,0,0,1,0,1.49107,The nearest constellations to Libra are: * Piscis Austrinus * Grus * Phoenix
+target,49,Lupus,Delphinus,25,Cygnus,other,111.2719,30.9925,0,0,0,0,0,0,1,3.410805,The nearest constellation to Lupus constellation is Cygnus. It is located in the northern hemisphere and is named after
+target,50,Lynx,Cygnus,25,Cygnus,equals_B,89.7682,0.0,0,0,0,1,0,0,0,3.578411,The nearest constellation to Lynx constellation is Cygnus. It is located in the northern sky and is named after
+target,51,Lyra,Telescopium,25,Ara,within30_B_not_B,93.0086,18.1949,0,0,0,0,0,1,0,8.639906,"The best answer is Ara constellation. The nearest constellations to Lyra constellation are Ara, Apus, Ch"
+target,52,Mensa,Scutum,25,Triangulum Australe|Mensa,within30_A_not_A,17.9664,77.1294,0,0,0,0,1,0,0,4.879145,The nearest constellation to Mensa constellation is The best answer is Triangulum Australe The Mensa constellation
+target,53,Microscopium,Andromeda,25,Andromeda|Pegasus,within30_B_not_B,76.2508,16.3924,0,0,0,0,0,1,0,10.075493,A) Andromeda B) Pegasus C) Piscis D) Andromeda and
+target,54,Monoceros,Phoenix,25,Puppis,other,32.0121,74.0137,0,0,0,0,0,0,1,4.434822,The nearest constellation to Monoceros constellation is Puppis constellation. The best answer is Puppis.
+target,55,Musca,Canis Minor,25,Ursa Major|Carina|Orion|Ursa Minor,other,99.1924,63.2013,0,0,0,0,0,0,1,1.266356,A) Ursa Major B) Carina C) Orion D) Ursa Minor E)
+target,56,Norma,Caelum,25,Puppis|Caelum|Orion|Eridanus,within30_B_not_B,102.5758,25.2609,0,0,0,0,0,1,0,4.001751,A. Puppis B. Caelum C. Orion D. Eridanus E
+target,57,Octans,Virgo,25,Ursa Major|Ursa Minor|Carina|Virgo,other,109.5359,55.6547,0,0,0,0,0,0,1,1.235466,A. Ursa Major B. Ursa Minor C. Carina D. Virgo The
+target,58,Ophiuchus,Cepheus,25,Hercules|Cassiopeia|Ursa Major,other,78.9901,43.1841,0,0,0,0,0,0,1,6.439003,A) Hercules B) Cassiopeia C) Hercules D) Ursa Major E)
+target,59,Orion,Cepheus,25,Cassiopeia|Ursa Major,other,78.2175,35.5752,0,0,0,0,0,0,1,7.83543,A) Cassiopeia B) Cassiopeia C) Ursa Major D) Cass
+target,60,Pavo,Hydra,25,Ursa Major|Carina|Leo,other,108.2719,51.8128,0,0,0,0,0,0,1,7.343979,A. Ursa Major B. Carina C. Leo D. Carina The best answer
+target,61,Pegasus,Auriga,25,Orion|Leo|Ursa Major|Ursa Minor,other,107.1057,52.8382,0,0,0,0,0,0,1,3.122255,A) Orion B) Leo C) Ursa Major D) Orion E) Ursa Minor
+target,62,Perseus,Delphinus,25,,no_constellation,,,1,0,0,0,0,0,0,0.994097,The nearest constellation to Perseus constellation is The nearest constellation to Perseus constellation is The nearest constellation
+target,63,Phoenix,Monoceros,25,Canis Major|Canis Minor|Orion,within30_B_not_B,86.4222,18.2728,0,0,0,0,0,1,0,2.040646,A. Canis Major B. Canis Minor C. Orion D. None of the above
+target,64,Pictor,Pisces,25,Andromeda|Camelopardalis,other,118.0651,52.2735,0,0,0,0,0,0,1,3.914684,The nearest constellation to Pictor constellation is A) Andromeda B) Camelopardalis C)
+target,65,Pisces,Ursa Minor,25,Ursa Major|Ursa Minor|Leo,other,114.0467,33.5808,0,0,0,0,0,0,1,8.077057,A) Ursa Major B) Ursa Minor C) Leo D) Ursa Major and U
+target,66,Piscis Austrinus,Serpens,25,Virgo|Leo|Scorpius,other,118.8884,57.2796,0,0,0,0,0,0,1,3.764366,A. Virgo B. Leo C. Scorpius D. Virgo The best answer
+target,67,Puppis,Aries,25,Cassiopeia|Auriga|Andromeda|Pisces,other,107.8257,38.8487,0,0,0,0,0,0,1,2.169289,A) Cassiopeia B) Auriga C) Andromeda D) Pisces
+target,68,Pyxis,Canes Venatici,25,Ursa Major|Ursa Minor|Coma Berenices,within30_B_not_B,93.5345,27.4757,0,0,0,0,0,1,0,6.549908,A. Ursa Major B. Ursa Minor C. Coma Berenices D. Bo
+target,69,Reticulum,Sextans,25,Leo|Leo Minor|Crater|Canes Venatici,other,116.488,33.7218,0,0,0,0,0,0,1,2.441664,A. Leo B. Leo Minor C. Crater D. Canes Venatici  ##
+target,70,Sagitta,Cetus,25,Orion|Eridanus|Aquila,other,94.2398,61.5632,0,0,0,0,0,0,1,2.216703,The nearest constellation to Sagitta constellation is A. Orion B. Eridanus C. Aquila
+target,71,Sagittarius,Corvus,25,Scorpius|Leo|Canis Major|Virgo,other,94.3661,49.9317,0,0,0,0,0,0,1,5.646341,A. Scorpius B. Leo C. Canis Major D. Virgo The best
+target,72,Scorpius,Sculptor,25,,no_constellation,,,1,0,0,0,0,0,0,2.875088,The nearest constellation to Scorpius constellation is The nearest constellation to Scorpius constellation is The nearest constellation
+target,73,Sculptor,Scorpius,25,Norma|Corona Australis|Antlia|Virgo,other,100.1774,45.2089,0,0,0,0,0,0,1,3.242577,A. Norma B. Corona Australis C. Antlia D. Virgo The best
+target,74,Scutum,Corvus,25,Orion|Monoceros|Virgo,other,136.7657,68.059,0,0,0,0,0,0,1,5.083094,A. Orion B. Monoceros C. Virgo D. Monoceros  The best
+target,75,Serpens,Piscis Austrinus,25,Aquila,other,47.1457,49.8272,0,0,0,0,0,0,1,3.9995,The best answer is Aquila constellation. The Serpens constellation is a southern constellation that is best visible in the
+target,76,Sextans,Reticulum,25,Puppis|Carina|Antlia|Pyxis,other,43.3835,49.7662,0,0,0,0,0,0,1,2.122795,A. Puppis B. Carina C. Antlia D. Pyxis E.
+target,77,Taurus,Leo,25,Orion|Gemini|Leo|Virgo|Ursa Major,other,72.8861,41.732,0,0,0,0,0,0,1,1.470812,A. Orion B. Gemini C. Leo D. Virgo E. Ursa Major
+target,78,Telescopium,Columba,25,Orion|Eridanus|Puppis,other,106.0613,31.3034,0,0,0,0,0,0,1,1.283346,A. Orion B. Eridanus C. Puppis D. Orion E. Can
+target,79,Triangulum,Capricornus,25,Piscis Austrinus,within30_B_not_B,83.5807,20.6184,0,0,0,0,0,1,0,3.25474,The nearest constellation to Triangulum constellation is Piscis Austrinus. The Triangulum constellation is a small
+target,80,Triangulum Australe,Equuleus,25,Cygnus,other,121.152,36.6744,0,0,0,0,0,0,1,3.969723,The nearest constellation to Triangulum Australe constellation is Cygnus. It is located in the northern hemisphere and
+target,81,Tucana,Aries,25,Cepheus|Cassiopeia|Ursa Minor,other,141.9547,63.8799,0,0,0,0,0,0,1,2.33843,A) Cepheus B) Cassiopeia C) Ursa Minor D) C
+target,82,Ursa Major,Antlia,25,Orion|Carina|Crux,other,105.6972,46.9954,0,0,0,0,0,0,1,6.185286,A. Orion B. Carina C. Crux D. Carina The best answer is
+target,83,Ursa Minor,Pisces,25,Cepheus,within30_A_not_A,25.3573,64.5242,0,0,0,0,1,0,0,6.170753,The nearest constellation to Ursa Minor constellation is Cepheus. It is named after the king in Greek mythology
+target,84,Vela,Sculptor,25,Puppis,within30_A_not_A,26.5295,85.8336,0,0,0,0,1,0,0,3.069208,The best answer is Puppis constellation. The Vela constellation is a southern constellation that is located near several other
+target,85,Virgo,Octans,25,Grus,other,119.1294,39.2042,0,0,0,0,0,0,1,-0.216969,The best answer is Grus. The nearest constellations to Virgo are: Grus (the Crane)
+target,86,Volans,Leo,25,Ursa Major|Carina|Leo|Ursa Minor,other,96.7669,47.6716,0,0,0,0,0,0,1,1.646572,A. Ursa Major B. Carina C. Leo D. Ursa Minor E.
+target,87,Vulpecula,Pavo,25,Puppis,other,168.1434,81.361,0,0,0,0,0,0,1,4.704113,"The best answer is Puppis. The nearest constellations to Vulpecula are Puppis, Car"
+untouched,0,Andromeda,Lepus,25,Cassiopeia|Pegasus|Triangulum,within30_A_not_A,24.8991,92.1614,0,0,0,0,1,0,0,0.0,A) Cassiopeia B) Pegasus C) Triangulum D) Piscis
+untouched,1,Antlia,Bootes,25,Pyxis|Vela|Hydra,within30_A_not_A,15.8575,93.1772,0,0,0,0,1,0,0,0.0,A. Pyxis B. Vela C. Hydra D. Pyxis and Vela E
+untouched,2,Apus,Cetus,25,Pavo|Triangulum Australe|Chamaeleon,within30_A_not_A,14.9764,89.9994,0,0,0,0,1,0,0,0.0,A. Pavo B. Triangulum Australe C. Chamaeleon D. Tri
+untouched,3,Aquarius,Chamaeleon,25,Pegasus|Pisces|Capricornus|Aquila,other,33.5275,102.074,0,0,0,0,0,0,1,0.0,A. Pegasus B. Pisces C. Capricornus D. Aquila The
+untouched,4,Aquila,Cetus,25,Cygnus|Sagittarius|Aquarius,other,38.9401,75.0368,0,0,0,0,0,0,1,0.0,A. Cygnus B. Sagittarius C. Eagle D. Aquarius The best
+untouched,5,Ara,Columba,25,Ara,equals_A,0.0,90.103,0,0,1,0,0,0,0,0.0,Ara is a southern constellation that is located near several other constellations. The nearest constellations to Ara
+untouched,6,Aries,Tucana,25,Taurus|Pisces|Orion|Andromeda,other,33.3435,92.6957,0,0,0,0,0,0,1,0.0,A. Taurus B. Pisces C. Orion D. Andromeda The best answer
+untouched,7,Auriga,Pegasus,25,Gemini|Taurus|Orion|Perseus,within30_A_not_A,29.3136,89.4388,0,0,0,0,1,0,0,0.0,A. Gemini B. Taurus C. Orion D. Perseus E. Orion
+untouched,8,Bootes,Corona Australis,25,Virgo|Ursa Major|Bootes,within30_A_not_A,27.6095,102.1215,0,0,0,0,1,0,0,0.0,A) Virgo B) Ursa Major C) Herdsman D) Virgo The
+untouched,9,Caelum,Norma,25,Columba|Eridanus|Puppis,within30_A_not_A,22.948,93.4923,0,0,0,0,1,0,0,0.0,A. Columba B. Eridanus C. Puppis D. Columba The
+untouched,10,Camelopardalis,Lepus,25,Ursa Minor|Ursa Major|Cassiopeia,other,31.3857,105.7793,0,0,0,0,0,0,1,0.0,A) Ursa Minor B) Ursa Major C) Cassiopeia D) Cep
+untouched,11,Cancer,Volans,25,Gemini|Leo|Ursa Major,other,31.7863,104.0565,0,0,0,0,0,0,1,0.0,A) Gemini B) Leo C) Ursa Major D) Leo and Gemini E) Gemini
+untouched,12,Canes Venatici,Pyxis,25,Ursa Major|Ursa Minor|Bootes|Virgo,other,31.9744,93.2057,0,0,0,0,0,0,1,0.0,A) Ursa Major B) Ursa Minor C) Boötes D) Virgo
+untouched,13,Canis Major,Pavo,25,Orion|Lepus|Puppis|Monoceros,within30_A_not_A,21.4532,100.3589,0,0,0,0,1,0,0,0.0,A) Orion B) Lepus C) Puppis D) Monoceros E)
+untouched,14,Canis Minor,Musca,25,Orion|Gemini|Monoceros|Canis Major,within30_A_not_A,23.0988,90.4519,0,0,0,0,1,0,0,0.0,A) Orion B) Gemini C) Monoceros D) Orion E) Canis Major
+untouched,15,Capricornus,Corona Borealis,25,Aquarius|Sagittarius|Piscis Austrinus|Aquila,within30_A_not_A,24.5894,87.0405,0,0,0,0,1,0,0,0.0,A) Aquarius B) Sagittarius C) Piscis Austrinus D) Aquila
+untouched,16,Carina,Cetus,25,Puppis|Vela,within30_A_not_A,24.0286,93.8626,0,0,0,0,1,0,0,0.0,"A) Puppis B) Puppis and Vela C) Puppis, Vela"
+untouched,17,Cassiopeia,Eridanus,25,Ursa Major|Cepheus|Andromeda,other,33.5658,100.2092,0,0,0,0,0,0,1,0.0,A) Ursa Major B) Cepheus C) Andromeda D) Ursa
+untouched,18,Centaurus,Monoceros,25,Carina|Crux|Vela,within30_A_not_A,29.8372,67.9036,0,0,0,0,1,0,0,0.0,A) Carina B) Crux C) Vela D) Carina and Crux
+untouched,19,Cepheus,Ophiuchus,25,Cassiopeia|Cygnus|Ursa Major,other,34.1155,89.7862,0,0,0,0,0,0,1,0.0,A) Cassiopeia B) Cygnus C) Ursa Major D) Cassio
+untouched,20,Cetus,Aquila,25,Andromeda|Pisces|Taurus,other,41.6899,93.5245,0,0,0,0,0,0,1,0.0,A) Andromeda B) Pisces C) Taurus D) Pisces E)
+untouched,21,Chamaeleon,Aquarius,25,Carina|Musca|Apus,within30_A_not_A,15.7773,93.7254,0,0,0,0,1,0,0,0.0,A. Carina B. Musca C. Apus D. Carina and Musca
+untouched,22,Circinus,Coma Berenices,25,Norma|Centaurus|Apus|Triangulum Australe,within30_A_not_A,15.2888,88.645,0,0,0,0,1,0,0,0.0,A) Norma B) Centaurus C) Apus D) Triangulum Australe
+untouched,23,Columba,Norma,25,Puppis|Canis Major|Carina|Pictor,within30_A_not_A,24.637,77.0649,0,0,0,0,1,0,0,0.0,A. Puppis B. Canis Major C. Carina D. Pictor The
+untouched,24,Coma Berenices,Circinus,25,Ursa Major|Leo|Canes Venatici|Virgo,within30_A_not_A,28.1898,96.5833,0,0,0,0,1,0,0,0.0,A) Ursa Major B) Leo C) Canes Venatici D) Virgo
+untouched,25,Corona Australis,Bootes,25,Norma|Ara|Corona Borealis|Puppis,other,58.3153,76.9598,0,0,0,0,0,0,1,0.0,A. Norma B. Ara C. Corona Borealis D. Puppis The
+untouched,26,Corona Borealis,Capricornus,25,Hercules|Bootes|Ursa Major,other,30.1753,104.6314,0,0,0,0,0,0,1,0.0,A) Hercules B) Boötes C) Ursa Major D) Hercules The best answer
+untouched,27,Corvus,Scutum,25,Virgo|Crater|Crux,within30_A_not_A,25.5894,89.5902,0,0,0,0,1,0,0,0.0,A) Virgo B) Crater C) Crux D) Crux E) Cr
+untouched,28,Crater,Orion,25,Virgo|Corvus|Hydra|Leo,within30_A_not_A,23.1502,92.4885,0,0,0,0,1,0,0,0.0,A) Virgo B) Corvus C) Hydra D) Leo The best answer is
+untouched,29,Crux,Eridanus,25,Carina|Centaurus,within30_A_not_A,20.3955,84.032,0,0,0,0,1,0,0,0.0,A) Carina B) Centaurus C) Carina and Centaurus D) Carina and
+untouched,30,Cygnus,Lynx,25,Lyra|Vulpecula|Pegasus|Cepheus,within30_A_not_A,26.6994,91.8622,0,0,0,0,1,0,0,0.0,A) Lyra B) Vulpecula C) Pegasus D) Cepheus
+untouched,31,Delphinus,Perseus,25,Cygnus|Equuleus|Pegasus,within30_A_not_A,23.3429,73.7789,0,0,0,0,1,0,0,0.0,A) Cygnus B) Equuleus C) Pegasus D) Cygnus and
+untouched,32,Dorado,Pisces,25,Puppis|Pavo|Carina,other,37.6621,105.6675,0,0,0,0,0,0,1,0.0,A. Puppis B. Pavo C. Carina D. Men The best answer
+untouched,33,Draco,Pisces,25,Ursa Major|Ursa Minor|Cepheus,within30_A_not_A,25.9495,88.4986,0,0,0,0,1,0,0,0.0,A) Ursa Major B) Ursa Minor C) Cepheus D) Ursa
+untouched,34,Equuleus,Fornax,25,Pegasus|Delphinus|Piscis Austrinus,within30_A_not_A,24.9634,77.4372,0,0,0,0,1,0,0,0.0,A) Pegasus B) Delphinus C) Piscis Austrinus D) Pisc
+untouched,35,Eridanus,Cassiopeia,25,Orion|Cetus|Phoenix|Taurus,other,38.6801,78.6841,0,0,0,0,0,0,1,0.0,A) Orion B) Cetus C) Phoenix D) Taurus E) Cephe
+untouched,36,Fornax,Corona Australis,25,Phoenix|Eridanus|Sculptor|Cetus,within30_A_not_A,25.5328,82.8254,0,0,0,0,1,0,0,0.0,A) Phoenix B) Eridanus C) Sculptor D) Cetus E) None
+untouched,37,Gemini,Dorado,25,Orion|Taurus|Auriga,other,30.3797,82.8885,0,0,0,0,0,0,1,0.0,A) Orion B) Taurus C) Auriga D) Orion and Taurus E)
+untouched,38,Grus,Lacerta,25,Pavo|Puppis|Tucana|Pictor,other,52.1801,126.1954,0,0,0,0,0,0,1,0.0,A) Pavo B) Puppis C) Tucana D) Pictor E
+untouched,39,Hercules,Leo,25,Lyra|Corona Borealis|Ophiuchus|Virgo,other,34.7036,79.8467,0,0,0,0,0,0,1,0.0,A) Lyra B) Corona Borealis C) Ophiuchus D) Virgo
+untouched,40,Horologium,Scorpius,25,Dorado|Eridanus|Horologium|Reticulum,within30_A_not_A,14.4848,97.1896,0,0,0,0,1,0,0,0.0,A) Dorado B) Eridanus C) Horologium D) Reticulum
+untouched,41,Hydra,Pavo,25,Virgo|Crater|Leo|Crux,other,35.0609,85.4259,0,0,0,0,0,0,1,0.0,A) Virgo B) Crater C) Leo D) Crux The best answer is
+untouched,42,Hydrus,Taurus,25,Phoenix|Tucana|Mensa|Pavo,within30_A_not_A,22.0825,98.5387,0,0,0,0,1,0,0,0.0,A) Phoenix B) Tucana C) Mensa D) Pavo E) None
+untouched,43,Indus,Lepus,25,Pavo|Puppis|Centaurus|Triangulum Australe,other,50.5379,76.979,0,0,0,0,0,0,1,0.0,A. Pavo B. Puppis C. Centaurus D. Triangulum Australe
+untouched,44,Lacerta,Grus,25,Cygnus|Cepheus|Pegasus,within30_A_not_A,24.2829,91.6654,0,0,0,0,1,0,0,0.0,A) Cygnus B) Cygnus C) Cepheus D) Pegasus
+untouched,45,Leo,Taurus,25,Virgo|Ursa Major|Leo Minor|Cancer,other,32.626,88.7561,0,0,0,0,0,0,1,0.0,A) Virgo B) Ursa Major C) Leo Minor D) Cancer E) U
+untouched,46,Leo Minor,Serpens,25,Ursa Major|Lynx|Leo,within30_A_not_A,23.343,92.4647,0,0,0,0,1,0,0,0.0,A. Ursa Major B. Lynx C. Leo D. Leo Major E. None
+untouched,47,Lepus,Camelopardalis,25,Orion|Columba|Eridanus,within30_A_not_A,22.0006,88.7789,0,0,0,0,1,0,0,0.0,A) Orion B) Columba C) Eridanus D) Orion The best answer is
+untouched,48,Libra,Tucana,25,Scorpius,within30_A_not_A,27.1206,67.4581,0,0,0,0,1,0,0,0.0,? The nearest constellation to Libra constellation is Scorpius. Scorpius is located to the east of Libra
+untouched,49,Lupus,Delphinus,25,Scorpius|Centaurus|Norma,within30_A_not_A,18.5923,91.452,0,0,0,0,1,0,0,0.0,A. Scorpius B. Centaurus C. Norma D. Centaurus and Norma
+untouched,50,Lynx,Cygnus,25,Ursa Major|Ursa Minor|Camelopardalis|Leo,other,37.9381,75.0747,0,0,0,0,0,0,1,0.0,A) Ursa Major B) Ursa Minor C) Camelopardalis D) Leo E
+untouched,51,Lyra,Telescopium,25,Cygnus|Hercules,within30_A_not_A,21.1023,90.229,0,0,0,0,1,0,0,0.0,A) Cygnus B) Cygnus and Hercules C) Hercules D) Vega E
+untouched,52,Mensa,Scutum,25,Dorado|Chamaeleon|Octans|Carina,within30_A_not_A,16.9014,92.7053,0,0,0,0,1,0,0,0.0,A. Dorado B. Chamaeleon C. Octans D. Carina The
+untouched,53,Microscopium,Andromeda,25,Norma|Capricornus|Grus|Pavo,other,30.4622,108.3367,0,0,0,0,0,0,1,0.0,A) Norma B) Capricornus C) Grus D) Pavo E
+untouched,54,Monoceros,Phoenix,25,Orion|Canis Major|Canis Minor,within30_A_not_A,18.2728,86.4222,0,0,0,0,1,0,0,0.0,A) Orion B) Canis Major C) Canis Minor D) Orion and Canis Major
+untouched,55,Musca,Canis Minor,25,Norma|Circinus|Chamaeleon|Apus,within30_A_not_A,18.3734,103.3728,0,0,0,0,1,0,0,0.0,A) Norma B) Circinus C) Chamaeleon D) Apus E
+untouched,56,Norma,Caelum,25,Scorpius|Ara|Triangulum Australe|Triangulum,other,49.5116,87.9756,0,0,0,0,0,0,1,0.0,A) Scorpius B) Ara C) Triangulum Australe D) Triangulum
+untouched,57,Octans,Virgo,25,Pavo|Carina|Chamaeleon,within30_A_not_A,22.4945,82.1865,0,0,0,0,1,0,0,0.0,A) Pavo B) Carina C) Chamaeleon D) Menus The
+untouched,58,Ophiuchus,Cepheus,25,Hercules|Scorpius,other,30.9537,88.5149,0,0,0,0,0,0,1,0.0,A) Hercules B) Hercules C) Scorpius D) Hercules E) Scorpius
+untouched,59,Orion,Cepheus,25,Cassiopeia|Taurus|Canis Major|Canis Minor,other,40.0027,77.9985,0,0,0,0,0,0,1,0.0,A) Cassiopeia B) Taurus C) Canis Major D) Canis Minor
+untouched,60,Pavo,Hydra,25,Grus|Apus|Octans|Taurus,other,47.7477,89.7259,0,0,0,0,0,0,1,0.0,A) Grus B) Apus C) Octans D) Taurus E) P
+untouched,61,Pegasus,Auriga,25,Andromeda|Cygnus,other,34.0697,73.117,0,0,0,0,0,0,1,0.0,A) Andromeda B) Cygnus C) Cygnus D) Andromeda
+untouched,62,Perseus,Delphinus,25,Andromeda|Cassiopeia|Triangulum,within30_A_not_A,26.7144,67.7533,0,0,0,0,1,0,0,0.0,A) Andromeda B) Cassiopeia C) Andromeda and Triangulum
+untouched,63,Phoenix,Monoceros,25,Cygnus|Grus|Apus|Tucana,other,49.9739,110.0846,0,0,0,0,0,0,1,0.0,A. Cygnus B. Grus C. Apus D. Tucana The
+untouched,64,Pictor,Pisces,25,Dorado|Caelum|Puppis|Carina,within30_A_not_A,20.8056,96.8191,0,0,0,0,1,0,0,0.0,A. Dorado B. Caelum C. Puppis D. Carina The
+untouched,65,Pisces,Ursa Minor,25,Andromeda|Aries|Pegasus,within30_A_not_A,29.8147,73.2256,0,0,0,0,1,0,0,0.0,A. Andromeda B. Aries C. Pegasus D. Andromeda and P
+untouched,66,Piscis Austrinus,Serpens,25,Grus|Capricornus,within30_A_not_A,17.8142,82.3222,0,0,0,0,1,0,0,0.0,A) Grus B) Capricornus C) Capricornus D) Grus
+untouched,67,Puppis,Aries,25,Carina|Vela|Pictor,within30_A_not_A,29.207,101.6576,0,0,0,0,1,0,0,0.0,A) Carina B) Vela C) Pictor D) Carina and Vela
+untouched,68,Pyxis,Canes Venatici,25,Puppis|Antlia|Vela,within30_A_not_A,18.3169,97.1524,0,0,0,0,1,0,0,0.0,A. Puppis B. Antlia C. Vela D. Antares The best
+untouched,69,Reticulum,Sextans,25,Dorado|Horologium|Hydrus|Pictor,within30_A_not_A,11.8343,87.5888,0,0,0,0,1,0,0,0.0,A) Dorado B) Horologium C) Hydrus D) Pictor E
+untouched,70,Sagitta,Cetus,25,Cygnus|Vulpecula,within30_A_not_A,18.912,85.1211,0,0,0,0,1,0,0,0.0,A) Cygnus B) Vulpecula C) Cygnus and Vulpecula D
+untouched,71,Sagittarius,Corvus,25,Scorpius|Ophiuchus,other,33.0705,66.1937,0,0,0,0,0,0,1,0.0,A. Scorpius B. Ophiuchus C. Ophiuchus and Scorpius
+untouched,72,Scorpius,Sculptor,25,Orion|Libra|Ophiuchus,other,68.5403,100.5419,0,0,0,0,0,0,1,0.0,A) Orion B) Libra C) Ophiuchus D) Orion E) Scor
+untouched,73,Sculptor,Scorpius,25,Phoenix|Fornax|Grus|Piscis Austrinus,within30_A_not_A,24.8888,81.6228,0,0,0,0,1,0,0,0.0,A) Phoenix B) Fornax C) Grus D) Piscis Austrinus
+untouched,74,Scutum,Corvus,25,Cygnus|Aquila,other,39.0562,117.0765,0,0,0,0,0,0,1,0.0,A) Cygnus B) Aquila C) Cygnus D) Aquila E
+untouched,75,Serpens,Piscis Austrinus,25,Ophiuchus|Corona Borealis|Hercules,within30_A_not_A,23.5884,92.1073,0,0,0,0,1,0,0,0.0,A) Ophiuchus B) Corona Borealis C) Hercules D) Ophiuch
+untouched,76,Sextans,Reticulum,25,Leo|Hydra|Crater|Corvus|Sextans,within30_A_not_A,18.2074,90.8895,0,0,0,0,1,0,0,0.0,A) Leo B) Hydra C) Crater D) Corvus E) Sextans
+untouched,77,Taurus,Leo,25,Orion|Gemini|Auriga|Cepheus,other,41.5404,71.3018,0,0,0,0,0,0,1,0.0,A) Orion B) Gemini C) Auriga D) Cepheus E) None
+untouched,78,Telescopium,Columba,25,Pavo|Ara|Piscis Austrinus,within30_A_not_A,23.5556,85.0516,0,0,0,0,1,0,0,0.0,A) Pavo B) Ara C) Piscis Austrinus D) Pavo and Ara
+untouched,79,Triangulum,Capricornus,25,Andromeda|Pisces|Aries,within30_A_not_A,21.0991,76.732,0,0,0,0,1,0,0,0.0,A) Andromeda B) Pisces C) Aries D) Pisces E)
+untouched,80,Triangulum Australe,Equuleus,25,Norma|Circinus|Apus|Triangulum,other,43.7109,88.4478,0,0,0,0,0,0,1,0.0,A. Norma B. Circinus C. Apus D. Triangulum The best
+untouched,81,Tucana,Aries,25,Grus|Phoenix|Indus|Pavo,within30_A_not_A,21.0305,93.7013,0,0,0,0,1,0,0,0.0,A) Grus B) Phoenix C) Indus D) Pavo E) None of
+untouched,82,Ursa Major,Antlia,25,Cassiopeia|Draco|Ursa Minor,other,44.0353,128.7251,0,0,0,0,0,0,1,0.0,A) Cassiopeia B) Draco C) Ursa Minor D) Cassiopeia
+untouched,83,Ursa Minor,Pisces,25,Ursa Major|Draco|Cepheus,within30_A_not_A,22.7021,88.1979,0,0,0,0,1,0,0,0.0,A) Ursa Major B) Draco C) Cepheus D) Cepheus
+untouched,84,Vela,Sculptor,25,Carina|Puppis,within30_A_not_A,21.4973,80.5089,0,0,0,0,1,0,0,0.0,A) Carina B) Puppis C) Carina and Puppis D) P
+untouched,85,Virgo,Octans,25,Leo|Serpens|Bootes,other,42.779,107.9211,0,0,0,0,0,0,1,0.0,A) Leo B) Serpens C) Boötes D) Leo and Serpens
+untouched,86,Volans,Leo,25,Carina|Chamaeleon|Dorado,within30_A_not_A,13.9754,92.3825,0,0,0,0,1,0,0,0.0,A) Carina B) Chamaeleon C) Dorado D) Men The best
+untouched,87,Vulpecula,Pavo,25,Lyra|Cygnus|Pegasus,within30_A_not_A,24.8985,101.3955,0,0,0,0,1,0,0,0.0,A) Lyra B) Cygnus C) Pegasus D) Cygnus E
+self,88,Andromeda,Lepus,26,Cassiopeia|Pegasus|Triangulum,within30_A_not_A,24.8991,92.1614,0,0,0,0,1,0,0,-0.749905,A) Cassiopeia B) Pegasus C) Triangulum D) Piscis
+self,89,Antlia,Bootes,26,Hydra|Pyxis|Vela,within30_A_not_A,15.8575,93.1772,0,0,0,0,1,0,0,-1.213137,A. Hydra B. Pyxis C. Vela D. All of the above E.
+self,90,Apus,Cetus,26,Chamaeleon,within30_A_not_A,16.4285,87.9388,0,0,0,0,1,0,0,-1.311855,The best answer to this is Chamaeleon. The adjacent constellations to Apus are Chamaele
+self,91,Aquarius,Chamaeleon,26,Piscis Austrinus|Capricornus,within30_A_not_A,20.8957,74.7207,0,0,0,0,1,0,0,-0.103754,The adjacent constellations to Aquarius are: * Piscis Austrinus * Capricornus
+self,92,Aquila,Cetus,26,Cygnus|Sagittarius|Aquarius,other,38.9401,75.0368,0,0,0,0,0,0,1,0.226751,A. Cygnus B. Sagittarius C. Eagle D. Aquarius The best
+self,93,Ara,Columba,26,Ara,equals_A,0.0,90.103,0,0,1,0,0,0,0,-0.318464,Ara is a southern constellation that is surrounded by several other constellations. The adjacent constellations to Ara
+self,94,Aries,Tucana,26,Taurus|Andromeda|Pisces|Cetus,other,30.2698,84.0779,0,0,0,0,0,0,1,-0.694927,A) Taurus B) Andromeda C) Pisces D) Cetus E)
+self,95,Auriga,Pegasus,26,Orion|Gemini|Ursa Major|Taurus,other,35.1553,99.8389,0,0,0,0,0,0,1,-1.804146,A) Orion B) Gemini C) Ursa Major D) Taurus E) None of
+self,96,Bootes,Corona Australis,26,Virgo|Hercules|Bootes,within30_A_not_A,24.2694,80.9052,0,0,0,0,1,0,0,0.464828,A. Virgo B. Hercules C. Bootes D. Virgo and Hercules E.
+self,97,Caelum,Norma,26,Columba|Eridanus|Puppis|Lepus,within30_A_not_A,22.6193,96.7783,0,0,0,0,1,0,0,-0.924292,A. Columba B. Eridanus C. Puppis D. Lepus E
+self,98,Camelopardalis,Lepus,26,Ursa Major|Ursa Minor|Draco,other,35.8734,116.84,0,0,0,0,0,0,1,-0.622101,A) Ursa Major B) Ursa Minor C) Draco D) Ursa Major and U
+self,99,Cancer,Volans,26,Gemini|Leo|Cancer,within30_A_not_A,17.0217,90.8362,0,0,0,0,1,0,0,0.336502,Gemini and Leo The constellation Cancer is one of the twelve constellations of the zodiac and is located in the
+self,100,Canes Venatici,Pyxis,26,Ursa Major|Ursa Minor|Bootes,within30_A_not_A,28.1451,101.7434,0,0,0,0,1,0,0,-1.135287,A. Ursa Major B. Ursa Minor C. Boötes D. Ursa Major
+self,101,Canis Major,Pavo,26,Orion|Lepus|Monoceros,within30_A_not_A,23.3699,106.6916,0,0,0,0,1,0,0,-0.362696,A) Orion B) Lepus C) Monoceros D) Orion and Lepus E
+self,102,Canis Minor,Musca,26,Orion|Gemini|Monoceros,within30_A_not_A,20.6599,97.9843,0,0,0,0,1,0,0,0.1213,A) Orion B) Gemini C) Monoceros D) Orion and Gemini E) Mon
+self,103,Capricornus,Corona Borealis,26,Aquila|Aquarius|Pavo|Piscis Austrinus,other,30.0176,94.6986,0,0,0,0,0,0,1,-1.54431,A) Aquila B) Aquarius C) Pavo D) Piscis Austrinus
+self,104,Carina,Cetus,26,Puppis|Vela|Carina|Pictor,within30_A_not_A,18.7279,85.4206,0,0,0,0,1,0,0,-1.123838,A. Puppis B. Vela C. Carina D. Pictor The best
+self,105,Cassiopeia,Eridanus,26,Cepheus|Ursa Minor,within30_A_not_A,28.7352,115.7391,0,0,0,0,1,0,0,-0.527693,A) Cepheus B) Cepheus and Ursa Minor C) Ursa Minor
+self,106,Centaurus,Monoceros,26,Carina|Circinus|Crux,within30_A_not_A,25.65,82.1069,0,0,0,0,1,0,0,-0.794344,A. Carina B. Circinus C. Crux D. All of the above  ##
+self,107,Cepheus,Ophiuchus,26,Cassiopeia|Cygnus|Ursa Major,other,34.1155,89.7862,0,0,0,0,0,0,1,-3.169182,A) Cassiopeia B) Cygnus C) Ursa Major D) Cassio
+self,108,Cetus,Aquila,26,Piscis Austrinus|Sculptor|Pisces|Andromeda,other,38.9953,69.6147,0,0,0,0,0,0,1,0.230814,A. Piscis Austrinus B. Sculptor C. Pisces D. Andromeda
+self,109,Chamaeleon,Aquarius,26,Carina|Musca|Apus,within30_A_not_A,15.7773,93.7254,0,0,0,0,1,0,0,-0.872137,A. Carina B. Musca C. Apus D. All of the above The
+self,110,Circinus,Coma Berenices,26,Centaurus|Musca|Triangulum,other,61.6349,94.4148,0,0,0,0,0,0,1,-1.362421,A. Centaurus B. Musca C. Centaurus and Musca D. Triangulum
+self,111,Columba,Norma,26,Canis Major|Cetus|Puppis|Lepus,other,30.3973,99.8093,0,0,0,0,0,0,1,-1.843979,A. Canis Major B. Cetus C. Puppis D. Lepus E
+self,112,Coma Berenices,Circinus,26,Leo|Virgo|Bootes|Ursa Major,within30_A_not_A,29.9481,93.3645,0,0,0,0,1,0,0,-4.594698,A. Leo B. Virgo C. Boötes D. Ursa Major E.
+self,113,Corona Australis,Bootes,26,Norma|Scorpius|Pavo,within30_A_not_A,25.8078,87.8369,0,0,0,0,1,0,0,-1.192722,A. Norma B. Scorpius C. Altar D. Pavo The best
+self,114,Corona Borealis,Capricornus,26,Hercules|Bootes|Serpens|Ursa Major,within30_A_not_A,29.8076,96.2291,0,0,0,0,1,0,0,-0.17732,A. Hercules B. Boötes C. Serpens D. Ursa Major E
+self,115,Corvus,Scutum,26,Virgo|Crater|Leo|Crux,within30_A_not_A,29.6412,97.4265,0,0,0,0,1,0,0,-1.157619,A. Virgo B. Crater C. Leo D. Crux  The best answer is
+self,116,Crater,Orion,26,Leo|Hydra|Corvus|Virgo,within30_A_not_A,23.1502,92.4885,0,0,0,0,1,0,0,-0.436186,A. Leo B. Hydra C. Corvus D. Virgo The best answer is
+self,117,Crux,Eridanus,26,Centaurus|Carina|Chamaeleon,within30_A_not_A,20.7709,79.8377,0,0,0,0,1,0,0,-0.1076,A. Centaurus B. Carina C. Chamaeleon D. Carina and Cent
+self,118,Cygnus,Lynx,26,Lyra|Cepheus|Pegasus,within30_A_not_A,29.3104,86.3262,0,0,0,0,1,0,0,-0.631119,A) Lyra B) Cepheus C) Pegasus D) Cepheus
+self,119,Delphinus,Perseus,26,Pegasus|Equuleus,within30_A_not_A,19.5181,76.0967,0,0,0,0,1,0,0,-0.126011,The adjacent constellations to Delphinus are: * Pegasus * Equuleus * Vulpec
+self,120,Dorado,Pisces,26,Puppis|Carina|Volans,within30_A_not_A,27.1913,109.786,0,0,0,0,1,0,0,0.4613,A. Puppis B. Carina C. Menus D. Volans E.
+self,121,Draco,Pisces,26,Ursa Major|Ursa Minor|Cepheus,within30_A_not_A,25.9495,88.4986,0,0,0,0,1,0,0,-1.021973,A) Ursa Major B) Ursa Minor C) Cepheus D) Ursa
+self,122,Equuleus,Fornax,26,Pegasus|Delphinus,within30_A_not_A,16.8732,87.7027,0,0,0,0,1,0,0,0.69891,Pegasus constellation The adjacent constellations to Equuleus constellation are Pegasus and Delphinus. The Equ
+self,123,Eridanus,Cassiopeia,26,Orion|Cetus|Taurus,other,36.5906,68.2066,0,0,0,0,0,0,1,0.688126,A. Orion B. Cetus C. Taurus D. Orion and Cetus E.
+self,124,Fornax,Corona Australis,26,Cetus|Eridanus|Sculptor|Caelum,within30_A_not_A,24.8318,91.5016,0,0,0,0,1,0,0,-0.87508,A. Cetus B. Eridanus C. Sculptor D. Caelum The
+self,125,Gemini,Dorado,26,Orion|Taurus|Cancer,other,30.0224,79.0259,0,0,0,0,0,0,1,-1.149186,A) Orion B) Taurus C) Cancer D) Taurus and Cancer E) Orion
+self,126,Grus,Lacerta,26,Phoenix|Tucana|Indus,within30_A_not_A,20.4948,104.2388,0,0,0,0,1,0,0,0.749638,"The best answer is Phoenix The adjacent constellations to Grus are Phoenix, Tucana, Indus"
+self,127,Hercules,Leo,26,Lyra|Corona Borealis|Ophiuchus,within30_A_not_A,24.3908,92.2741,0,0,0,0,1,0,0,-0.422157,A) Lyra B) Corona Borealis C) Ophiuchus D) Ophi
+self,128,Horologium,Scorpius,26,Reticulum|Dorado|Eridanus|Mensa,within30_A_not_A,21.1673,91.6962,0,0,0,0,1,0,0,-0.556393,a) Reticulum b) Dorado c) Eridanus d) Mensa e
+self,129,Hydra,Pavo,26,Cancer|Leo|Sextans|Canis Major,other,36.7827,112.7384,0,0,0,0,0,0,1,-0.802412,A. Cancer B. Leo C. Sextans D. Canis Major E. All of
+self,130,Hydrus,Taurus,26,Phoenix|Tucana|Mensa,within30_A_not_A,18.3651,90.6892,0,0,0,0,1,0,0,-0.25,A. Phoenix B. Tucana C. Mensa D. All of the above E
+self,131,Indus,Lepus,26,Grus,within30_A_not_A,16.1139,87.0706,0,0,0,0,1,0,0,-0.122149,"The best answer is Grus. The adjacent constellations to Indus are Grus, Tucana,"
+self,132,Lacerta,Grus,26,Cygnus|Pegasus|Andromeda,within30_A_not_A,23.2971,82.7414,0,0,0,0,1,0,0,-6.327122,A) Cygnus B) Cygnus and Pegasus C) Andromeda D)
+self,133,Leo,Taurus,26,Virgo,other,42.5645,132.3861,0,0,0,0,0,0,1,-0.829124,Virgo constellation. Virgo constellation is the second largest constellation in the sky and it is also the sixth sign of the
+self,134,Leo Minor,Serpens,26,Ursa Major|Lynx|Leo|Ursa Minor,other,30.7645,87.5791,0,0,0,0,0,0,1,0.177929,A) Ursa Major B) Lynx C) Leo D) Ursa Minor E)
+self,135,Lepus,Camelopardalis,26,Orion|Eridanus|Columba,within30_A_not_A,22.0006,88.7789,0,0,0,0,1,0,0,0.437656,A. Orion B. Eridanus C. Columba D. Orion and Eridanus
+self,136,Libra,Tucana,26,Scorpius|Virgo|Serpens,within30_A_not_A,28.6562,93.7812,0,0,0,0,1,0,0,-0.532612,"Scorpius, Virgo, and Serpens. The Libra constellation is one of the twelve constellations"
+self,137,Lupus,Delphinus,26,Norma|Centaurus|Scorpius,within30_A_not_A,18.5923,91.452,0,0,0,0,1,0,0,-0.954361,A. Norma B. Centaurus C. Scorpius D. Centaurus and Norma
+self,138,Lynx,Cygnus,26,Ursa Major|Ursa Minor|Camelopardalis,other,35.4707,61.7919,0,0,0,0,0,0,1,-1.673737,A) Ursa Major B) Ursa Minor C) Camelopardalis D) Ursa Major
+self,139,Lyra,Telescopium,26,Cygnus|Hercules|Draco,within30_A_not_A,25.7882,101.0144,0,0,0,0,1,0,0,-4.233368,A) Cygnus B) Cygnus and Hercules C) Hercules D) Hercules and Draco
+self,140,Mensa,Scutum,26,Chamaeleon|Hydrus|Octans,within30_A_not_A,14.4786,83.2328,0,0,0,0,1,0,0,-0.457342,A. Chamaeleon B. Hydrus C. Octans D. All of the
+self,141,Microscopium,Andromeda,26,Capricornus|Piscis Austrinus|Grus,within30_A_not_A,17.9699,82.4537,0,0,0,0,1,0,0,-0.118235,A. Capricornus B. Piscis Austrinus C. Grus D. Cap
+self,142,Monoceros,Phoenix,26,Orion|Canis Major|Canis Minor,within30_A_not_A,18.2728,86.4222,0,0,0,0,1,0,0,-0.803427,A) Orion B) Canis Major C) Canis Minor D) Orion and Canis Major
+self,143,Musca,Canis Minor,26,Chamaeleon|Carina|Centaurus|Apus,within30_A_not_A,18.9523,88.1818,0,0,0,0,1,0,0,-2.965506,A. Chamaeleon B. Carina C. Centaurus D. Apus The
+self,144,Norma,Caelum,26,Ara|Scorpius|Centaurus|Triangulum Australe,within30_A_not_A,19.0312,88.9383,0,0,0,0,1,0,0,0.657288,A. Ara B. Scorpius C. Centaurus D. Triangulum Australe
+self,145,Octans,Virgo,26,Pavo|Chamaeleon|Carina|Mensa,within30_A_not_A,20.927,84.8843,0,0,0,0,1,0,0,-0.005346,A. Pavo B. Chamaeleon C. Carina D. Mensa E
+self,146,Ophiuchus,Cepheus,26,Hercules|Scorpius,other,30.9537,88.5149,0,0,0,0,0,0,1,-1.630846,A) Hercules B) Scorpius C) Hercules and Scorpius D) Hercules and Ser
+self,147,Orion,Cepheus,26,Gemini|Taurus|Canis Major|Monoceros,within30_A_not_A,26.3805,94.7953,0,0,0,0,1,0,0,-0.941742,A) Gemini B) Taurus C) Canis Major D) Monoceros E)
+self,148,Pavo,Hydra,26,Grus,other,30.7947,115.4713,0,0,0,0,0,0,1,0.685919,"The best answer is Grus. The adjacent constellations to Pavo are Grus, Octans, Ch"
+self,149,Pegasus,Auriga,26,Andromeda|Lacerta|Cygnus,other,31.2719,73.618,0,0,0,0,0,0,1,-0.092556,The adjacent constellations to Pegasus are: * Andromeda * Lacerta * Cygnus
+self,150,Perseus,Delphinus,26,Andromeda|Cassiopeia,within30_A_not_A,29.8975,63.2839,0,0,0,0,1,0,0,-1.008873,A) Andromeda B) Cassiopeia C) Andromeda and Cassiopeia
+self,151,Phoenix,Monoceros,26,Grus,within30_A_not_A,23.2999,113.2579,0,0,0,0,1,0,0,1.208078,"The best answer is Grus. The Phoenix constellation is a small constellation located in the southern sky, and it is"
+self,152,Pictor,Pisces,26,Carina|Dorado|Columba,within30_A_not_A,17.9366,96.2919,0,0,0,0,1,0,0,1.55094,A. Carina B. Dorado C. Columba D. All of them E.
+self,153,Pisces,Ursa Minor,26,Aquarius|Andromeda|Pegasus|Piscis Austrinus,other,38.1243,91.3099,0,0,0,0,0,0,1,0.506874,A. Aquarius B. Andromeda C. Pegasus D. Piscis Austrinus
+self,154,Piscis Austrinus,Serpens,26,Capricornus|Grus|Pavo|Sculptor,within30_A_not_A,26.5279,90.0296,0,0,0,0,1,0,0,1.876207,A. Capricornus B. Grus C. Pavo D. Sculptor The
+self,155,Puppis,Aries,26,Carina|Vela|Canis Major,within30_A_not_A,24.6082,99.0507,0,0,0,0,1,0,0,-1.108423,A. Carina B. Vela C. Both A and B D. Canis Major
+self,156,Pyxis,Canes Venatici,26,Puppis|Antlia|Carina,within30_A_not_A,22.7314,102.3681,0,0,0,0,1,0,0,2.335493,A. Puppis B. Antlia C. Carina D. All of the above
+self,157,Reticulum,Sextans,26,Dorado|Horologium|Hydrus|Mensa,within30_A_not_A,12.416,89.4594,0,0,0,0,1,0,0,-0.187963,a) Dorado b) Horologium c) Hydrus d) Mensa e
+self,158,Sagitta,Cetus,26,Lyra|Cygnus|Aquila|Hercules,within30_A_not_A,24.8352,101.3059,0,0,0,0,1,0,0,-0.211185,A) Lyra B) Cygnus C) Aquila D) Hercules E) All
+self,159,Sagittarius,Corvus,26,Scorpius,other,31.1752,59.9966,0,0,0,0,0,0,1,-0.838902,"Scorpius, which is the 8th zodiac sign. The Scorpius constellation is named after the sc"
+self,160,Scorpius,Sculptor,26,Libra|Sagittarius|Scorpius|Ophiuchus,within30_A_not_A,21.6094,94.5622,0,0,0,0,1,0,0,-0.312162,A. Libra B. Sagittarius C. Scorpius D. Ophiuchus
+self,161,Sculptor,Scorpius,26,Phoenix|Cetus|Fornax|Grus,within30_A_not_A,24.8987,94.2283,0,0,0,0,1,0,0,-0.250807,A. Phoenix B. Cetus C. Fornax D. Grus E. Other
+self,162,Scutum,Corvus,26,Cygnus|Aquila,other,39.0562,117.0765,0,0,0,0,0,0,1,-0.495037,A) Cygnus B) Aquila C) Cygnus and Aquila D) Cy
+self,163,Serpens,Piscis Austrinus,26,Ophiuchus|Hercules,within30_A_not_A,21.0304,83.1618,0,0,0,0,1,0,0,-0.697363,A) Ophiuchus B) Hercules C) Ophiuchus and Hercules D) Hercules
+self,164,Sextans,Reticulum,26,Leo|Hydra|Canis Minor|Leo Minor,within30_A_not_A,28.1185,97.0242,0,0,0,0,1,0,0,-0.584581,A. Leo B. Hydra C. Canis Minor D. Leo Minor E. Canes
+self,165,Taurus,Leo,26,Orion|Gemini|Cetus|Aries,other,33.4926,93.7677,0,0,0,0,0,0,1,0.115088,A) Orion B) Gemini C) Cetus D) Aries E) Orion F
+self,166,Telescopium,Columba,26,Pavo|Ara|Piscis Austrinus|Corvus,other,38.708,85.5759,0,0,0,0,0,0,1,-0.163807,A. Pavo B. Ara C. Piscis Austrinus D. Corvus
+self,167,Triangulum,Capricornus,26,Andromeda|Pisces|Aries,within30_A_not_A,21.0991,76.732,0,0,0,0,1,0,0,-0.630852,A) Andromeda B) Pisces C) Aries D) Andromeda and Pis
+self,168,Triangulum Australe,Equuleus,26,Norma|Circinus|Apus,within30_A_not_A,10.9779,93.8258,0,0,0,0,1,0,0,0.180233,A. Norma B. Circinus C. Apus D. All of the above The
+self,169,Tucana,Aries,26,Grus|Phoenix|Carina|Pavo,within30_A_not_A,28.5906,95.6179,0,0,0,0,1,0,0,0.465563,a) Grus b) Phoenix c) Carina d) Pavo e) Tuc
+self,170,Ursa Major,Antlia,26,Ursa Minor|Leo|Draco,other,37.0115,98.3644,0,0,0,0,0,0,1,-1.461661,A) Ursa Minor B) Ursa Minor and Leo C) Ursa Minor and Draco D
+self,171,Ursa Minor,Pisces,26,Ursa Major|Draco|Ursa Minor,within30_A_not_A,14.2497,96.5773,0,0,0,0,1,0,0,-1.890425,A) Ursa Major B) Draco C) Ursa Minor D) Ursa Major and Draco
+self,172,Vela,Sculptor,26,Carina|Puppis|Antlia,within30_A_not_A,19.39,89.0345,0,0,0,0,1,0,0,-1.936127,A. Carina B. Puppis C. Both A and B D. Antlia
+self,173,Virgo,Octans,26,Leo|Ursa Major|Coma Berenices|Bootes,other,42.6017,124.0265,0,0,0,0,0,0,1,-0.513502,A. Leo B. Ursa Major C. Coma Berenices D. Boötes
+self,174,Volans,Leo,26,Carina|Chamaeleon|Dorado|Mensa,within30_A_not_A,13.6003,94.8555,0,0,0,0,1,0,0,-0.387785,A. Carina B. Chamaeleon C. Dorado D. Mensa E
+self,175,Vulpecula,Pavo,26,Cygnus|Lyra|Hercules,within30_A_not_A,27.1077,103.2681,0,0,0,0,1,0,0,0.259092,The adjacent constellations to Vulpecula are: * Cygnus * Lyra * Hercules
+target,88,Andromeda,Lepus,26,Orion|Cetus|Puppis|Triangulum,other,66.837,46.1331,0,0,0,0,0,0,1,0.396296,A. Orion B. Cetus C. Puppis D. Triangulum E.
+target,89,Antlia,Bootes,26,Ursa Major|Coma Berenices|Bootes,within30_B_not_B,82.1693,23.8048,0,0,0,0,0,1,0,9.719766,A. Ursa Major B. Coma Berenices C. Boötes D. Vir
+target,90,Apus,Cetus,26,Chamaeleon|Octans,within30_A_not_A,15.0829,83.2406,0,0,0,0,1,0,0,1.154045,The adjacent constellations to Apus are: * Chamaeleon * Octans * Tuc
+target,91,Aquarius,Chamaeleon,26,Piscis Austrinus|Centaurus|Capricornus,other,51.5403,61.967,0,0,0,0,0,0,1,1.354778,A. Piscis Austrinus B. Centaurus C. Capricornus D. Gr
+target,92,Aquila,Cetus,26,Pegasus|Equuleus|Orion,other,73.6671,60.2234,0,0,0,0,0,0,1,6.376181,The adjacent constellations to Aquila are: * Pegasus * Equuleus * Orion *
+target,93,Ara,Columba,26,Puppis|Caelum|Orion,within30_B_not_B,102.0254,25.5301,0,0,0,0,0,1,0,4.071447,A. Puppis B. Caelum C. Both D. Orion The best answer
+target,94,Aries,Tucana,26,Piscis Austrinus,other,81.1698,36.9067,0,0,0,0,0,0,1,3.192057,A. Piscis Austrinus B. Piscis Austrinus C. Piscis Austrinus
+target,95,Auriga,Pegasus,26,Lacerta|Cygnus|Lyra,other,88.0707,38.0351,0,0,0,0,0,0,1,4.177053,The adjacent constellations to Auriga are: * Lacerta * Cygnus * Lyra
+target,96,Bootes,Corona Australis,26,Norma|Centaurus|Grus,other,97.2503,42.3643,0,0,0,0,0,0,1,11.071857,A. Norma B. Centaurus C. Centaurus D. Grus The best answer
+target,97,Caelum,Norma,26,Circinus|Antlia|Centaurus,other,73.9522,36.1804,0,0,0,0,0,0,1,5.531076,A. Circinus B. Antlia C. Centaurus D. Antares The best answer
+target,98,Camelopardalis,Lepus,26,Columba|Mensa|Carina|Puppis,other,124.7006,40.2214,0,0,0,0,0,0,1,4.483406,A. Columba B. Mensa C. Carina D. Puppis E.
+target,99,Cancer,Volans,26,Carina|Centaurus|Puppis|Vela,within30_B_not_B,73.3445,28.5523,0,0,0,0,0,1,0,6.606419,A. Carina B. Centaurus C. Puppis D. Vela E.
+target,100,Canes Venatici,Pyxis,26,Carina|Leo|Volans,other,93.679,42.5214,0,0,0,0,0,0,1,4.398396,A. Carina B. Carina C. Leo D. Volans E. Canis
+target,101,Canis Major,Pavo,26,Norma|Puppis|Carina|Triangulum Australe,other,61.4143,45.7671,0,0,0,0,0,0,1,2.450319,A. Norma B. Puppis C. Carina D. Triangulum Australe
+target,102,Canis Minor,Musca,26,Carina|Pyxis|Centaurus|Puppis,other,59.2345,38.0496,0,0,0,0,0,0,1,7.896093,A. Carina B. Pyxis C. Centaurus D. Puppis E.
+target,103,Capricornus,Corona Borealis,26,Virgo|Bootes,other,109.0861,34.0851,0,0,0,0,0,0,1,4.485079,A. Virgo B. Virgo and Boötes C. Virgo and Boötes and
+target,104,Carina,Cetus,26,Puppis|Cassiopeia|Andromeda|Pegasus,other,113.8279,65.1738,0,0,0,0,0,0,1,4.854708,A. Puppis B. Cassiopeia C. Andromeda D. Pegasus
+target,105,Cassiopeia,Eridanus,26,Orion|Cepheus|Carina|Puppis,other,92.1853,65.4029,0,0,0,0,0,0,1,7.065716,A. Orion B. Cepheus C. Carina D. Puppis The
+target,106,Centaurus,Monoceros,26,Orion|Canis Major|Ursa Major|Canis Minor,other,94.8119,32.5362,0,0,0,0,0,0,1,6.846342,A) Orion B) Canis Major C) Ursa Major D) Canis Minor E
+target,107,Cepheus,Ophiuchus,26,Cygnus|Draco,within30_A_not_A,28.3674,69.8795,0,0,0,0,1,0,0,8.196688,A) Cygnus B) Cygnus and Draco C) Draco D) Cygnus
+target,108,Cetus,Aquila,26,Aquarius|Capricornus,other,57.4611,36.0347,0,0,0,0,0,0,1,5.17754,? The adjacent constellations to Cetus are: * Aquarius * Capricornus * Equule
+target,109,Chamaeleon,Aquarius,26,Pavo|Chamaeleon,within30_A_not_A,16.0809,75.8313,0,0,0,0,1,0,0,3.694635,The best answer is Pavo The Chamaeleon is a small constellation in the southern sky. It is
+target,110,Circinus,Coma Berenices,26,Ursa Major|Ursa Minor,other,133.1808,47.2005,0,0,0,0,0,0,1,7.240522,A. Ursa Major B. Ursa Minor C. Ursa Major and Ursa Minor D
+target,111,Columba,Norma,26,Pavo|Centaurus|Apus|Antlia,other,68.5543,36.7138,0,0,0,0,0,0,1,1.328524,A. Pavo B. Centaurus C. Apus D. Antlia The best answer
+target,112,Coma Berenices,Circinus,26,Puppis|Centaurus|Grus|Antlia,other,93.0463,50.1959,0,0,0,0,0,0,1,7.304214,A. Puppis B. Centaurus C. Grus D. Antlia E.
+target,113,Corona Australis,Bootes,26,Ursa Major|Bootes|Hercules|Ursa Minor,other,105.1001,32.132,0,0,0,0,0,0,1,4.478411,A. Ursa Major B. Boötes C. Hercules D. Ursa Minor E
+target,114,Corona Borealis,Capricornus,26,Piscis Austrinus|Sagittarius,within30_B_not_B,93.0353,23.9027,0,0,0,0,0,1,0,5.65065,The adjacent constellations to Corona Borealis are: * Piscis Austrinus * Sagittarius
+target,115,Corvus,Scutum,26,Cygnus|Serpens|Hercules|Pavo,other,89.0217,48.661,0,0,0,0,0,0,1,4.244589,A) Cygnus B) Serpens C) Hercules D) Pavo The best
+target,116,Crater,Orion,26,Orion|Cetus|Monoceros,within30_B_not_B,97.8406,27.8561,0,0,0,0,0,1,0,4.443354,A) Orion B) Cetus C) Monoceros D) Orion E) None of
+target,117,Crux,Eridanus,26,Orion|Carina|Taurus|Eridanus,other,83.7902,35.1636,0,0,0,0,0,0,1,3.378326,A. Orion B. Carina C. Taurus D. Eridanus E. Car
+target,118,Cygnus,Lynx,26,Ursa Major|Ursa Minor|Gemini,other,77.983,34.0873,0,0,0,0,0,0,1,4.734951,A) Ursa Major B) Ursa Minor C) Gemini D) Ursa Major and U
+target,119,Delphinus,Perseus,26,Andromeda|Auriga|Pegasus,other,67.7616,40.8695,0,0,0,0,0,0,1,3.402143,A) Andromeda B) Auriga C) Pegasus D) Andromeda and P
+target,120,Dorado,Pisces,26,Cepheus|Cassiopeia,other,140.8232,58.0338,0,0,0,0,0,0,1,5.607044,The adjacent constellations to Dorado are: 1. Cepheus 2. Cassiopeia
+target,121,Draco,Pisces,26,Cepheus|Andromeda|Cetus,other,66.4115,39.6895,0,0,0,0,0,0,1,7.529028,A. Cepheus B. Andromeda C. Cetus D. Cephe
+target,122,Equuleus,Fornax,26,Piscis Austrinus|Cetus|Puppis,other,85.1076,48.3652,0,0,0,0,0,0,1,12.63843,A. Piscis Austrinus B. Cetus C. Puppis D. Forn
+target,123,Eridanus,Cassiopeia,26,Andromeda|Cepheus|Ursa Major,other,100.2092,33.5658,0,0,0,0,0,0,1,12.612105,A) Andromeda B) Cepheus C) Ursa Major D) Androm
+target,124,Fornax,Corona Australis,26,Sculptor,within30_A_not_A,29.3465,67.8016,0,0,0,0,1,0,0,4.273291,"The best answer is Sculptor. The adjacent constellations to Fornax are Sculptor, Phoenix, and"
+target,125,Gemini,Dorado,26,Orion|Puppis|Tucana|Grus,other,84.9295,48.1205,0,0,0,0,0,0,1,3.733845,A. Orion B. Puppis C. Tucana D. Grus E.
+target,126,Grus,Lacerta,26,Cygnus|Cassiopeia|Pegasus|Ursa Major,other,109.7948,38.4241,0,0,0,0,0,0,1,13.253347,A) Cygnus B) Cassiopeia C) Pegasus D) Ursa Major
+target,127,Hercules,Leo,26,Leo|Cancer|Canes Venatici|Bootes,other,72.4668,31.3624,0,0,0,0,0,0,1,2.772604,A. Leo B. Cancer C. Canes Venatici D. Boötes E
+target,128,Horologium,Scorpius,26,Norma|Circinus|Corvus|Triangulum Australe,other,74.1992,37.7608,0,0,0,0,0,0,1,3.33296,A. Norma B. Circinus C. Corvus D. Triangulum Australe
+target,129,Hydra,Pavo,26,Centaurus,other,42.6083,51.8339,0,0,0,0,0,0,1,1.928484,"... The best answer is Centaurus. The adjacent constellations to Hydra are Centaurus, Piscis Austrinus"
+target,130,Hydrus,Taurus,26,Cetus|Cepheus|Taurus|Caelum,other,85.2537,44.4927,0,0,0,0,0,0,1,3.626471,A) Cetus B) Cepheus C) Taurus D) Caelum
+target,131,Indus,Lepus,26,Orion|Cetus|Carina|Eridanus,other,77.8103,40.5197,0,0,0,0,0,0,1,6.35137,A. Orion B. Cetus C. Carina D. Eridanus E. Can
+target,132,Lacerta,Grus,26,Puppis|Norma,other,136.2371,75.8901,0,0,0,0,0,0,1,6.908436,"The best answer is Puppis The adjacent constellations to Lacerta are Puppis, Norma"
+target,133,Leo,Taurus,26,Orion|Taurus|Cancer|Andromeda,other,78.2276,33.8799,0,0,0,0,0,0,1,4.210482,A) Orion B) Taurus C) Cancer D) Andromeda E) None of
+target,134,Leo Minor,Serpens,26,Virgo|Serpens|Draco|Ursa Major,other,57.1576,48.3965,0,0,0,0,0,0,1,4.59343,A) Virgo B) Serpens C) Draco D) Ursa Major The best
+target,135,Lepus,Camelopardalis,26,Ursa Major|Andromeda|Lyra|Ursa Minor,other,116.6301,46.4691,0,0,0,0,0,0,1,8.461241,A) Ursa Major B) Andromeda C) Lyra D) Ursa Minor
+target,136,Libra,Tucana,26,Scorpius,within30_A_not_A,27.1206,67.4581,0,0,0,0,1,0,0,0.985575,The best answer is Scorpius. The adjacent constellations to Libra are: * Scorpius (
+target,137,Lupus,Delphinus,26,Cygnus|Lyra|Vulpecula,within30_B_not_B,99.968,26.502,0,0,0,0,0,1,0,3.782612,The adjacent constellations to Lupus are: * Cygnus * Lyra * Vulpecula
+target,138,Lynx,Cygnus,26,Cygnus|Draco|Hercules,within30_B_not_B,81.9193,26.563,0,0,0,0,0,1,0,3.541773,"Cygnus constellation The adjacent constellations to Lynx constellation are Cygnus, Draco, Hercules, P"
+target,139,Lyra,Telescopium,26,Ara|Apus|Chamaeleon|Circinus|Musca|Norma,other,112.0842,34.4533,0,0,0,0,0,0,1,8.644001,"The best answer is Ara,Apus,Chamaeleon,Circinus,Musca,Norma,"
+target,140,Mensa,Scutum,26,Norma|Triangulum Australe|Circinus|Apus,other,37.3189,62.7544,0,0,0,0,0,0,1,3.883976,A) Norma B) Triangulum Australe C) Circinus D) Apus
+target,141,Microscopium,Andromeda,26,Andromeda|Pegasus,within30_B_not_B,76.2508,16.3924,0,0,0,0,0,1,0,9.07523,A) Andromeda B) Pegasus C) Piscis D) Andromeda and
+target,142,Monoceros,Phoenix,26,Puppis|Grus|Phoenix|Pavo,other,86.8607,35.0607,0,0,0,0,0,0,1,5.564489,A. Puppis B. Grus C. Phoenix D. Pavo The best answer
+target,143,Musca,Canis Minor,26,Ursa Major|Carina|Lynx|Ursa Minor,other,105.8726,65.8689,0,0,0,0,0,0,1,2.815693,A) Ursa Major B) Carina C) Lynx D) Ursa Minor E
+target,144,Norma,Caelum,26,Puppis|Lepus|Caelum|Orion,within30_B_not_B,102.3999,25.4159,0,0,0,0,0,1,0,5.515633,A. Puppis B. Lepus C. Caelum D. Orion E.
+target,145,Octans,Virgo,26,Ursa Major|Virgo|Octans,other,79.8376,51.3209,0,0,0,0,0,0,1,0.491779,"A. Ursa Major B. Virgo C. Octans is adjacent to several constellations,"
+target,146,Ophiuchus,Cepheus,26,Hercules|Cassiopeia|Andromeda|Lyra,other,74.097,39.0247,0,0,0,0,0,0,1,5.952993,? A. Hercules B. Cassiopeia C. Andromeda D. Hercules and Lyra
+target,147,Orion,Cepheus,26,Cassiopeia|Andromeda|Hercules,other,98.7885,37.41,0,0,0,0,0,0,1,5.01733,A) Cassiopeia B) Andromeda C) Hercules D) Cassiopeia
+target,148,Pavo,Hydra,26,Ursa Major|Carina|Canis Major,other,98.6631,57.1659,0,0,0,0,0,0,1,7.932089,A. Ursa Major B. Carina C. Canis Major D. Carina and Ch
+target,149,Pegasus,Auriga,26,Ursa Major|Ursa Minor|Leo|Orion,other,107.1057,52.8382,0,0,0,0,0,0,1,5.586899,A) Ursa Major B) Ursa Minor C) Leo D) Orion E) And
+target,150,Perseus,Delphinus,26,Cassiopeia|Andromeda|Pegasus|Hercules,other,56.7923,51.5028,0,0,0,0,0,0,1,1.192326,A) Cassiopeia B) Andromeda C) Pegasus D) Hercules The
+target,151,Phoenix,Monoceros,26,Canis Major|Canis Minor|Orion,within30_B_not_B,86.4222,18.2728,0,0,0,0,0,1,0,9.080488,A. Canis Major B. Canis Minor C. Orion D. Canis Major and Can
+target,152,Pictor,Pisces,26,Cepheus|Camelopardalis,other,133.974,69.7377,0,0,0,0,0,0,1,5.640987,The adjacent constellations to Pictor are: * Cepheus * Camelopardalis * Cass
+target,153,Pisces,Ursa Minor,26,Ursa Major|Ursa Minor|Leo,other,114.0467,33.5808,0,0,0,0,0,0,1,8.614265,A) Ursa Major B) Ursa Minor C) Leo D) Ursa Major and U
+target,154,Piscis Austrinus,Serpens,26,Ursa Major|Ursa Minor|Virgo|Scorpius,other,118.0641,60.1219,0,0,0,0,0,0,1,11.220879,A) Ursa Major B) Ursa Minor C) Virgo D) Scorpius
+target,155,Puppis,Aries,26,Cassiopeia|Auriga|Andromeda|Monoceros,other,88.6176,48.1477,0,0,0,0,0,0,1,2.110023,A) Cassiopeia B) Auriga C) Andromeda D) Monoceros
+target,156,Pyxis,Canes Venatici,26,Ursa Major|Ursa Minor|Draco,other,110.8999,34.7703,0,0,0,0,0,0,1,7.510262,A. Ursa major B. Ursa minor C. Draco D. Ursa major and U
+target,157,Reticulum,Sextans,26,Leo|Leo Minor|Crater|Canes Venatici,other,116.488,33.7218,0,0,0,0,0,0,1,4.598288,A. Leo B. Leo Minor C. Crater D. Canes Venatici  E
+target,158,Sagitta,Cetus,26,Orion|Eridanus|Puppis|Aquila,other,112.0638,67.5559,0,0,0,0,0,0,1,3.894491,A. Orion B. Eridanus C. Puppis D. Aquila The best
+target,159,Sagittarius,Corvus,26,Scorpius,other,31.1752,59.9966,0,0,0,0,0,0,1,4.724398,Scorpius. The constellation is named after the scorpion in Greek mythology. The scorpion was sent by the goddess
+target,160,Scorpius,Sculptor,26,Orion|Taurus|Cetus|Eridanus,other,139.332,57.5531,0,0,0,0,0,0,1,2.812532,A. Orion B. Taurus C. Cetus D. Eridanus The best answer
+target,161,Sculptor,Scorpius,26,Norma|Centaurus|Antlia,other,97.0533,47.9493,0,0,0,0,0,0,1,4.747467,A. Norma B. Centaurus C. Antlia D. Antares The best answer
+target,162,Scutum,Corvus,26,Virgo|Monoceros|Canes Venatici,other,112.6566,53.4833,0,0,0,0,0,0,1,6.678301,A. Virgo B. Monoceros C. Canes Venatici D. Canis
+target,163,Serpens,Piscis Austrinus,26,Phoenix|Aquila|Pavo,other,80.4266,41.8509,0,0,0,0,0,0,1,4.499012,A. Phoenix B. Aquila C. Pavo D. Eagle The best answer is B
+target,164,Sextans,Reticulum,26,Puppis|Carina|Hydrus|Phoenix,other,81.4139,30.3902,0,0,0,0,0,0,1,3.342533,A. Puppis B. Carina C. Hydrus D. Phoenix E.
+target,165,Taurus,Leo,26,Gemini|Cancer|Leo|Virgo|Hydra|Orion|Ursa Major,other,74.4635,38.8972,0,0,0,0,0,0,1,2.343996,"Gemini, Cancer, Leo, Virgo, Hydra, Orion, and Ursa Major. The Taurus constellation is one"
+target,166,Telescopium,Columba,26,Orion|Eridanus|Puppis|Canis Major,within30_B_not_B,106.1017,28.2972,0,0,0,0,0,1,0,2.274191,A. Orion B. Eridanus C. Puppis D. Canis Major E
+target,167,Triangulum,Capricornus,26,Piscis Austrinus,within30_B_not_B,83.5807,20.6184,0,0,0,0,0,1,0,3.109144,The best answer is Piscis Austrinus The adjacent constellations to Triangulum are Piscis
+target,168,Triangulum Australe,Equuleus,26,Cygnus|Lyra,other,114.3942,40.2357,0,0,0,0,0,0,1,4.345396,The adjacent constellations to Triangulum Australe are 1. Cygnus 2. Lyra
+target,169,Tucana,Aries,26,Cepheus|Cetus|Cassiopeia,other,107.821,47.2549,0,0,0,0,0,0,1,2.915304,A) Cepheus B) Cetus C) Cassiopeia D) Androm
+target,170,Ursa Major,Antlia,26,Ursa Minor|Carina|Canis Major|Orion,other,81.4065,67.8402,0,0,0,0,0,0,1,5.862769,A. Ursa Minor B. Carina C. Canis Major D. Orion The best
+target,171,Ursa Minor,Pisces,26,Cassiopeia|Cepheus|Andromeda,other,41.7572,48.5544,0,0,0,0,0,0,1,6.620796,A) Cassiopeia B) Cepheus C) Andromeda D) P
+target,172,Vela,Sculptor,26,Puppis|Carina|Grus,other,42.9046,62.4126,0,0,0,0,0,0,1,3.389606,The adjacent constellations to Vela are: * Puppis * Carina * Grus
+target,173,Virgo,Octans,26,Piscis Austrinus|Corvus|Carina|Grus,other,85.5054,50.3613,0,0,0,0,0,0,1,0.941959,A. Piscis Austrinus B. Corvus C. Carina D. Grus
+target,174,Volans,Leo,26,Ursa Major|Carina|Leo|Ursa Minor,other,96.7669,47.6716,0,0,0,0,0,0,1,1.285698,A. Ursa Major B. Carina C. Leo D. Ursa Minor E.
+target,175,Vulpecula,Pavo,26,Puppis,other,168.1434,81.361,0,0,0,0,0,0,1,5.695614,"The best answer is Puppis. The adjacent constellations to Vulpecula are Puppis, Car"
+untouched,88,Andromeda,Lepus,26,Cassiopeia|Pegasus|Triangulum|Puppis,other,49.0229,76.9311,0,0,0,0,0,0,1,0.0,A) Cassiopeia B) Pegasus C) Triangulum D) Puppis
+untouched,89,Antlia,Bootes,26,Puppis|Pyxis|Vela|Pictor,within30_A_not_A,28.4495,114.6595,0,0,0,0,1,0,0,0.0,A) Puppis B) Pyxis C) Vela D) Pictor E)
+untouched,90,Apus,Cetus,26,Pavo|Triangulum Australe|Chamaeleon,within30_A_not_A,14.9764,89.9994,0,0,0,0,1,0,0,0.0,A. Pavo B. Triangulum Australe C. Chamaeleon D. Ap
+untouched,91,Aquarius,Chamaeleon,26,Pegasus|Capricornus|Pisces|Aquila,other,33.5275,102.074,0,0,0,0,0,0,1,0.0,A) Pegasus B) Capricornus C) Pisces D) Aquila E
+untouched,92,Aquila,Cetus,26,Cygnus|Sagittarius|Aquarius|Aquila,within30_A_not_A,29.205,78.7923,0,0,0,0,1,0,0,0.0,A) Cygnus B) Sagittarius C) Aquarius D) Aquila E
+untouched,93,Ara,Columba,26,Norma|Triangulum Australe|Apus|Pavo,within30_A_not_A,17.3241,77.7641,0,0,0,0,1,0,0,0.0,A) Norma B) Triangulum Australe C) Apus D) Pavo
+untouched,94,Aries,Tucana,26,Taurus|Andromeda|Pisces,within30_A_not_A,29.3403,92.6273,0,0,0,0,1,0,0,0.0,A) Taurus B) Andromeda C) Pisces D) Taurus and Pisces
+untouched,95,Auriga,Pegasus,26,Orion|Gemini|Taurus|Perseus,within30_A_not_A,29.3136,89.4388,0,0,0,0,1,0,0,0.0,A) Orion B) Gemini C) Taurus D) Perseus E) Canis
+untouched,96,Bootes,Corona Australis,26,Virgo|Ursa Major|Canes Venatici,other,34.5542,108.9316,0,0,0,0,0,0,1,0.0,A) Virgo B) Ursa Major C) Canes Venatici D) Virgo
+untouched,97,Caelum,Norma,26,Columba|Eridanus|Pictor|Puppis,within30_A_not_A,21.4332,88.6921,0,0,0,0,1,0,0,0.0,A) Columba B) Eridanus C) Pictor D) Puppis E
+untouched,98,Camelopardalis,Lepus,26,Ursa Minor|Ursa Major|Cassiopeia,other,31.3857,105.7793,0,0,0,0,0,0,1,0.0,A) Ursa Minor B) Ursa Major C) Cassiopeia D) Ursa
+untouched,99,Cancer,Volans,26,Gemini|Leo,within30_A_not_A,25.5325,91.6589,0,0,0,0,1,0,0,0.0,Gemini and Leo. The Cancer constellation is one of the twelve constellations of the zodiac. It is located in
+untouched,100,Canes Venatici,Pyxis,26,Ursa Major|Ursa Minor|Bootes,within30_A_not_A,28.1451,101.7434,0,0,0,0,1,0,0,0.0,A) Ursa Major B) Ursa Minor C) Boötes D) Coma Ber
+untouched,101,Canis Major,Pavo,26,Orion|Lepus|Monoceros|Puppis,within30_A_not_A,21.4532,100.3589,0,0,0,0,1,0,0,0.0,A) Orion B) Lepus C) Monoceros D) Puppis E)
+untouched,102,Canis Minor,Musca,26,Gemini|Monoceros|Orion|Cancer,within30_A_not_A,20.5447,97.9858,0,0,0,0,1,0,0,0.0,"Gemini The adjacent constellations to Canis Minor are Gemini, Monoceros, Orion, and Cancer. The"
+untouched,103,Capricornus,Corona Borealis,26,Aquarius|Sagittarius|Pegasus|Aquila,other,30.7843,81.8193,0,0,0,0,0,0,1,0.0,A) Aquarius B) Sagittarius C) Pegasus D) Aquila E)
+untouched,104,Carina,Cetus,26,Puppis|Vela,within30_A_not_A,24.0286,93.8626,0,0,0,0,1,0,0,0.0,A) Puppis B) Puppis and Vela C) Puppis and Vela
+untouched,105,Cassiopeia,Eridanus,26,Ursa Major|Cepheus|Andromeda,other,33.5658,100.2092,0,0,0,0,0,0,1,0.0,A) Ursa Major B) Cepheus C) Andromeda D) Androm
+untouched,106,Centaurus,Monoceros,26,Carina|Crux|Norma|Vela,within30_A_not_A,29.7259,79.5242,0,0,0,0,1,0,0,0.0,A) Carina B) Crux C) Norma D) Vela E) Cent
+untouched,107,Cepheus,Ophiuchus,26,Cassiopeia|Cygnus|Draco|Ursa Major,other,31.9713,85.7409,0,0,0,0,0,0,1,0.0,A) Cassiopeia B) Cygnus C) Draco D) Ursa Major
+untouched,108,Cetus,Aquila,26,Andromeda|Pisces,other,38.2159,76.1653,0,0,0,0,0,0,1,0.0,A) Andromeda B) Pisces C) Andromeda and Pisces D) Pis
+untouched,109,Chamaeleon,Aquarius,26,Carina|Musca|Pavo,within30_A_not_A,21.0218,87.6667,0,0,0,0,1,0,0,0.0,A) Carina B) Carina and Musca C) Carina and Musca and Pavo
+untouched,110,Circinus,Coma Berenices,26,Norma|Centaurus|Apus|Triangulum Australe,within30_A_not_A,15.2888,88.645,0,0,0,0,1,0,0,0.0,A) Norma B) Centaurus C) Apus D) Triangulum Australe
+untouched,111,Columba,Norma,26,Puppis|Carina|Pictor,within30_A_not_A,26.4232,70.0871,0,0,0,0,1,0,0,0.0,A. Puppis B. Carina C. Pictor D. Puppis and Car
+untouched,112,Coma Berenices,Circinus,26,Ursa Major|Leo|Canes Venatici|Virgo,within30_A_not_A,28.1898,96.5833,0,0,0,0,1,0,0,0.0,A) Ursa Major B) Leo C) Canes Venatici D) Virgo
+untouched,113,Corona Australis,Bootes,26,Norma|Scorpius|Corona Borealis|Puppis,other,59.6668,71.5684,0,0,0,0,0,0,1,0.0,A) Norma B) Scorpius C) Corona Borealis D) Puppis
+untouched,114,Corona Borealis,Capricornus,26,Hercules|Bootes|Serpens,within30_A_not_A,21.467,82.4381,0,0,0,0,1,0,0,0.0,A) Hercules B) Boötes C) Serpens D) Hercules and Boötes
+untouched,115,Corvus,Scutum,26,Virgo|Crater|Crux,within30_A_not_A,25.5894,89.5902,0,0,0,0,1,0,0,0.0,A) Virgo B) Crater C) Crux D) Crux E) Cr
+untouched,116,Crater,Orion,26,Corvus|Hydra|Crux|Crater,within30_A_not_A,18.693,91.9562,0,0,0,0,1,0,0,0.0,A) Corvus B) Hydra C) Crux D) Crater E) Cr
+untouched,117,Crux,Eridanus,26,Carina|Centaurus,within30_A_not_A,20.3955,84.032,0,0,0,0,1,0,0,0.0,A) Carina B) Centaurus C) Carina and Centaurus D) Carina and
+untouched,118,Cygnus,Lynx,26,Lyra|Cepheus|Pegasus,within30_A_not_A,29.3104,86.3262,0,0,0,0,1,0,0,0.0,A) Lyra B) Cepheus C) Pegasus D) Cepheus
+untouched,119,Delphinus,Perseus,26,Pegasus|Cygnus|Andromeda,other,39.8998,55.0139,0,0,0,0,0,0,1,0.0,A) Pegasus B) Cygnus C) Andromeda D) Piscis Austr
+untouched,120,Dorado,Pisces,26,Puppis|Pavo|Carina,other,37.6621,105.6675,0,0,0,0,0,0,1,0.0,A) Puppis B) Pavo C) Carina D) Men The best answer
+untouched,121,Draco,Pisces,26,Ursa Major|Ursa Minor|Cepheus,within30_A_not_A,25.9495,88.4986,0,0,0,0,1,0,0,0.0,A) Ursa Major B) Ursa Minor C) Cepheus D) Ursa
+untouched,122,Equuleus,Fornax,26,Pegasus|Delphinus,within30_A_not_A,16.8732,87.7027,0,0,0,0,1,0,0,0.0,Pegasus constellation The adjacent constellations to Equuleus constellation are Pegasus constellation and Delphinus constellation
+untouched,123,Eridanus,Cassiopeia,26,Orion|Cetus|Taurus|Piscis Austrinus,other,45.8405,75.8721,0,0,0,0,0,0,1,0.0,A) Orion B) Cetus C) Taurus D) Piscis Austrinus E
+untouched,124,Fornax,Corona Australis,26,Cetus|Eridanus|Phoenix|Antlia,other,40.0163,88.5075,0,0,0,0,0,0,1,0.0,A) Cetus B) Eridanus C) Phoenix D) Antlia E) F
+untouched,125,Gemini,Dorado,26,Orion|Taurus|Cancer,other,30.0224,79.0259,0,0,0,0,0,0,1,0.0,A) Orion B) Taurus C) Cancer D) Taurus and Cancer E) Orion
+untouched,126,Grus,Lacerta,26,Pavo|Puppis|Tucana,other,48.41,123.9164,0,0,0,0,0,0,1,0.0,A) Pavo B) Puppis C) Tucana D) Piscis Austr
+untouched,127,Hercules,Leo,26,Lyra|Corona Borealis|Ophiuchus,within30_A_not_A,24.3908,92.2741,0,0,0,0,1,0,0,0.0,A) Lyra B) Corona Borealis C) Ophiuchus D) Corona Austral
+untouched,128,Horologium,Scorpius,26,Reticulum|Dorado|Eridanus|Caelum,within30_A_not_A,19.9373,101.6413,0,0,0,0,1,0,0,0.0,A) Reticulum B) Dorado C) Eridanus D) Caelum
+untouched,129,Hydra,Pavo,26,Corvus|Crater|Virgo|Crux,other,33.5546,75.3765,0,0,0,0,0,0,1,0.0,A) Corvus B) Crater C) Virgo D) Crux E)
+untouched,130,Hydrus,Taurus,26,Phoenix|Tucana|Mensa|Pavo,within30_A_not_A,22.0825,98.5387,0,0,0,0,1,0,0,0.0,A) Phoenix B) Tucana C) Mensa D) Pavo E) None
+untouched,131,Indus,Lepus,26,Pavo|Puppis|Grus|Octans,other,35.5516,71.1943,0,0,0,0,0,0,1,0.0,A. Pavo B. Puppis C. Grus D. Octans The best
+untouched,132,Lacerta,Grus,26,Cygnus|Pegasus,within30_A_not_A,22.9224,78.718,0,0,0,0,1,0,0,0.0,A) Cygnus B) Cygnus and Pegasus C) Pegasus D) Cy
+untouched,133,Leo,Taurus,26,Virgo,other,42.5645,132.3861,0,0,0,0,0,0,1,0.0,"Virgo constellation. Virgo constellation is the second largest constellation in the sky, and it is also the largest constellation of"
+untouched,134,Leo Minor,Serpens,26,Ursa Major|Leo|Ursa Minor|Leo Minor,within30_A_not_A,23.5463,82.3271,0,0,0,0,1,0,0,0.0,A) Ursa Major B) Leo C) Ursa Minor D) Leo Minor E)
+untouched,135,Lepus,Camelopardalis,26,Orion|Columba|Eridanus,within30_A_not_A,22.0006,88.7789,0,0,0,0,1,0,0,0.0,A) Orion B) Columba C) Eridanus D) Orion and Columba E
+untouched,136,Libra,Tucana,26,Scorpius,within30_A_not_A,27.1206,67.4581,0,0,0,0,1,0,0,0.0,Scorpius constellation The adjacent constellation to Libra constellation is Scorpius constellation. The Libra constellation is located
+untouched,137,Lupus,Delphinus,26,Norma|Centaurus|Scorpius|Antlia,within30_A_not_A,28.8369,106.2473,0,0,0,0,1,0,0,0.0,A) Norma B) Centaurus C) Scorpius D) Antlia E)
+untouched,138,Lynx,Cygnus,26,Ursa Major|Ursa Minor|Camelopardalis|Auriga,other,32.4677,68.4242,0,0,0,0,0,0,1,0.0,A) Ursa Major B) Ursa Minor C) Camelopardalis D) Auriga
+untouched,139,Lyra,Telescopium,26,Cygnus|Hercules|Pegasus,other,31.7596,87.9808,0,0,0,0,0,0,1,0.0,A) Cygnus B) Cygnus and Hercules C) Hercules D) Pegasus
+untouched,140,Mensa,Scutum,26,Dorado|Chamaeleon|Hydrus|Mensa,within30_A_not_A,10.8605,93.0545,0,0,0,0,1,0,0,0.0,A) Dorado B) Chamaeleon C) Hydrus D) Mensa is
+untouched,141,Microscopium,Andromeda,26,Norma|Capricornus|Grus,within30_A_not_A,29.983,104.1016,0,0,0,0,1,0,0,0.0,A) Norma B) Capricornus C) Grus D) Capricornus
+untouched,142,Monoceros,Phoenix,26,Orion|Canis Major|Canis Minor,within30_A_not_A,18.2728,86.4222,0,0,0,0,1,0,0,0.0,A) Orion B) Canis Major C) Canis Minor D) Canis Minor and Can
+untouched,143,Musca,Canis Minor,26,Norma|Circinus|Chamaeleon|Apus,within30_A_not_A,18.3734,103.3728,0,0,0,0,1,0,0,0.0,A) Norma B) Circinus C) Chamaeleon D) Apus E
+untouched,144,Norma,Caelum,26,Ara|Triangulum Australe|Scorpius|Apus,within30_A_not_A,17.774,84.7854,0,0,0,0,1,0,0,0.0,A) Ara B) Triangulum Australe C) Scorpius D) Apus
+untouched,145,Octans,Virgo,26,Pavo|Puppis|Carina|Pictor,other,38.8025,88.4644,0,0,0,0,0,0,1,0.0,A) Pavo B) Puppis C) Carina D) Pictor E)
+untouched,146,Ophiuchus,Cepheus,26,Hercules|Serpens|Aquila,within30_A_not_A,28.4406,72.4416,0,0,0,0,1,0,0,0.0,A) Hercules B) Hercules and Serpens C) Hercules and Serpens and Aquila
+untouched,147,Orion,Cepheus,26,Cassiopeia|Taurus|Canis Major|Canis Minor,other,40.0027,77.9985,0,0,0,0,0,0,1,0.0,A) Cassiopeia B) Taurus C) Canis Major D) Canis Minor
+untouched,148,Pavo,Hydra,26,Grus|Apus|Triangulum Australe|Puppis,other,37.9478,74.1421,0,0,0,0,0,0,1,0.0,A) Grus B) Apus C) Triangulum Australe D) Puppis
+untouched,149,Pegasus,Auriga,26,Andromeda|Cygnus,other,34.0697,73.117,0,0,0,0,0,0,1,0.0,A) Andromeda B) Cygnus C) Andromeda and Cygnus D
+untouched,150,Perseus,Delphinus,26,Andromeda|Cassiopeia,within30_A_not_A,29.8975,63.2839,0,0,0,0,1,0,0,0.0,A) Andromeda B) Cassiopeia C) Andromeda and Cassiopeia
+untouched,151,Phoenix,Monoceros,26,Grus|Tucana|Pavo,within30_A_not_A,28.2099,106.6754,0,0,0,0,1,0,0,0.0,"A. Grus B. Tucana C. Pavo D. Grus, Tuc"
+untouched,152,Pictor,Pisces,26,Dorado|Puppis|Carina|Caelum,within30_A_not_A,20.8056,96.8191,0,0,0,0,1,0,0,0.0,A) Dorado B) Puppis C) Carina D) Caelum E
+untouched,153,Pisces,Ursa Minor,26,Aquarius|Andromeda|Aries,other,33.3122,82.626,0,0,0,0,0,0,1,0.0,A) Aquarius B) Andromeda C) Aries D) Andromeda E
+untouched,154,Piscis Austrinus,Serpens,26,Grus|Capricornus|Microscopium|Aquarius,within30_A_not_A,18.2524,82.1924,0,0,0,0,1,0,0,0.0,A) Grus B) Capricornus C) Microscopium D) Aquarius
+untouched,155,Puppis,Aries,26,Carina|Vela|Pyxis,within30_A_not_A,24.9274,108.4867,0,0,0,0,1,0,0,0.0,A) Carina B) Vela C) Pyxis D) Carina and Vela
+untouched,156,Pyxis,Canes Venatici,26,Puppis|Antlia|Carina|Pictor,within30_A_not_A,27.9721,110.3835,0,0,0,0,1,0,0,0.0,A) Puppis B) Antlia C) Carina D) Pictor E)
+untouched,157,Reticulum,Sextans,26,Dorado|Horologium|Hydrus|Pictor,within30_A_not_A,11.8343,87.5888,0,0,0,0,1,0,0,0.0,A) Dorado B) Horologium C) Hydrus D) Pictor E
+untouched,158,Sagitta,Cetus,26,Cygnus|Vulpecula,within30_A_not_A,18.912,85.1211,0,0,0,0,1,0,0,0.0,A) Cygnus B) Vulpecula C) Cygnus and Vulpecula D
+untouched,159,Sagittarius,Corvus,26,Scorpius,other,31.1752,59.9966,0,0,0,0,0,0,1,0.0,Scorpius. The Scorpius constellation is one of the 12 zodiac constellations. It is named
+untouched,160,Scorpius,Sculptor,26,Libra|Lupus|Ophiuchus|Sagittarius,within30_A_not_A,26.5656,95.7036,0,0,0,0,1,0,0,0.0,A) Libra B) Lupus C) Ophiuchus D) Sagittarius
+untouched,161,Sculptor,Scorpius,26,Phoenix|Grus|Piscis Austrinus|Cetus,within30_A_not_A,24.5739,83.7949,0,0,0,0,1,0,0,0.0,A) Phoenix B) Grus C) Piscis Austrinus D) Cetus E
+untouched,162,Scutum,Corvus,26,Cygnus|Aquila|Serpens|Aquarius,other,42.1402,109.3119,0,0,0,0,0,0,1,0.0,A) Cygnus B) Aquila C) Serpens D) Aquarius E
+untouched,163,Serpens,Piscis Austrinus,26,Ophiuchus|Hercules,within30_A_not_A,21.0304,83.1618,0,0,0,0,1,0,0,0.0,A) Ophiuchus B) Hercules C) Ophiuchus and Hercules D) Hercules
+untouched,164,Sextans,Reticulum,26,Leo|Hydra|Crater|Crux,within30_A_not_A,29.6265,81.4774,0,0,0,0,1,0,0,0.0,A) Leo B) Hydra C) Crater D) Crux E) Crater
+untouched,165,Taurus,Leo,26,Gemini,other,39.2101,50.7446,0,0,0,0,0,0,1,0.0,"Gemini constellation. The adjacent constellations to Taurus constellation are Gemini, Orion, Eridanus, Perseus"
+untouched,166,Telescopium,Columba,26,Pavo|Ara|Piscis Austrinus,within30_A_not_A,23.5556,85.0516,0,0,0,0,1,0,0,0.0,A) Pavo B) Ara C) Piscis Austrinus D) Pavo and Ara
+untouched,167,Triangulum,Capricornus,26,Andromeda|Pisces|Aries,within30_A_not_A,21.0991,76.732,0,0,0,0,1,0,0,0.0,A) Andromeda B) Pisces C) Aries D) Andromeda and Pis
+untouched,168,Triangulum Australe,Equuleus,26,Norma|Circinus|Apus|Pavo,within30_A_not_A,13.5052,89.1894,0,0,0,0,1,0,0,0.0,A) Norma B) Circinus C) Apus D) Pavo E) Tri
+untouched,169,Tucana,Aries,26,Grus|Phoenix|Indus,within30_A_not_A,19.4151,86.6414,0,0,0,0,1,0,0,0.0,A) Grus B) Phoenix C) Indus D) Phoenix and Grus E)
+untouched,170,Ursa Major,Antlia,26,Ursa Minor|Cassiopeia|Ursa Major,other,30.5415,116.5856,0,0,0,0,0,0,1,0.0,A) Ursa Minor B) Cassiopeia C) Ursa Major D) Cassio
+untouched,171,Ursa Minor,Pisces,26,Ursa Major|Cassiopeia|Ursa Minor,within30_A_not_A,23.4742,84.1717,0,0,0,0,1,0,0,0.0,A) Ursa Major B) Cassiopeia C) Ursa Minor D) Ursa
+untouched,172,Vela,Sculptor,26,Puppis|Carina,within30_A_not_A,21.4973,80.5089,0,0,0,0,1,0,0,0.0,A) Puppis B) Carina C) Puppis and Carina D) P
+untouched,173,Virgo,Octans,26,Leo|Ursa Major|Bootes|Coma Berenices,other,42.6017,124.0265,0,0,0,0,0,0,1,0.0,A) Leo B) Ursa Major C) Boötes D) Coma Berenices
+untouched,174,Volans,Leo,26,Puppis|Carina|Chamaeleon,within30_A_not_A,19.9201,80.455,0,0,0,0,1,0,0,0.0,A) Puppis B) Carina C) Chamaeleon D) Menus
+untouched,175,Vulpecula,Pavo,26,Lyra|Cygnus|Pegasus|Hercules,within30_A_not_A,28.6952,100.4527,0,0,0,0,1,0,0,0.0,A) Lyra B) Cygnus C) Pegasus D) Hercules E) None
+self,176,Andromeda,Lepus,27,Cassiopeia|Pegasus,within30_A_not_A,27.4048,102.7665,0,0,0,0,1,0,0,-0.390137,A) Cassiopeia B) Pegasus C) Cassiopeia and Pegasus D
+self,177,Antlia,Bootes,27,Leo|Hydra|Vela|Puppis,within30_A_not_A,27.8267,87.8581,0,0,0,0,1,0,0,-1.241255,A. Leo B. Hydra C. Vela D. Puppis E. None of
+self,178,Apus,Cetus,27,Chamaeleon|Musca|Carina|Centaurus|Circinus,within30_A_not_A,23.606,101.5747,0,0,0,0,1,0,0,-0.741491,"The best answer to this is : Chamaeleon, Musca, Carina, Centaurus, Circinus"
+self,179,Aquarius,Chamaeleon,27,Pegasus|Piscis Austrinus|Capricornus,within30_A_not_A,24.0029,89.6171,0,0,0,0,1,0,0,-0.114241,A) Pegasus B) Piscis Austrinus C) Capricornus D) Aqu
+self,180,Aquila,Cetus,27,Cygnus|Hercules|Scutum,other,34.8248,104.1821,0,0,0,0,0,0,1,0.047672,"A) Cygnus B) Hercules C) Scutum D) Cygnus, Hercules"
+self,181,Ara,Columba,27,Ara,equals_A,0.0,90.103,0,0,1,0,0,0,0,0.06842,Ara is a southern constellation that is surrounded by several other constellations. The constellations that border Ara
+self,182,Aries,Tucana,27,Pisces,other,30.5941,76.0398,0,0,0,0,0,0,1,-1.096067,Pisces The constellation bordering Aries constellation is Pisces. The constellation bordering Aries constellation is Pisces
+self,183,Auriga,Pegasus,27,Orion|Gemini|Taurus|Ursa Major,other,35.1553,99.8389,0,0,0,0,0,0,1,-1.880289,A) Orion B) Gemini C) Taurus D) Ursa Major E) None of
+self,184,Bootes,Corona Australis,27,Virgo|Hercules|Ursa Major,other,39.4546,96.0904,0,0,0,0,0,0,1,0.40448,A) Virgo B) Hercules C) Ursa Major D) Virgo and Hercules E
+self,185,Caelum,Norma,27,Columba|Eridanus|Puppis|Orion,within30_A_not_A,28.3541,102.5765,0,0,0,0,1,0,0,-1.66885,A. Columba B. Eridanus C. Puppis D. Orion E.
+self,186,Camelopardalis,Lepus,27,Ursa Minor|Ursa Major,other,33.4969,110.0126,0,0,0,0,0,0,1,-0.49375,A) Ursa Minor B) Ursa Major C) Ursa Minor and Ursa Major D
+self,187,Cancer,Volans,27,Gemini|Lynx|Leo|Canis Minor,within30_A_not_A,24.9078,93.7495,0,0,0,0,1,0,0,-0.113674,"Gemini, Lynx, Leo, and Canis Minor. The Cancer constellation is located in the second quadrant of the northern"
+self,188,Canes Venatici,Pyxis,27,Ursa Major|Ursa Minor|Bootes,within30_A_not_A,28.1451,101.7434,0,0,0,0,1,0,0,-0.775474,A. Ursa Major B. Ursa Minor C. Boötes D. Ursa Major
+self,189,Canis Major,Pavo,27,Orion|Monoceros|Canis Minor,within30_A_not_A,27.5945,116.0653,0,0,0,0,1,0,0,-0.342094,A. Orion B. Monoceros C. Canis Minor D. Orion and Monoceros
+self,190,Canis Minor,Musca,27,Gemini|Orion|Monoceros,within30_A_not_A,20.6599,97.9843,0,0,0,0,1,0,0,-0.493584,"Gemini, Orion, and Monoceros. The constellation bordering Canis Minor constellation is Gemini, Orion, and Mon"
+self,191,Capricornus,Corona Borealis,27,Aquila|Aquarius|Piscis Austrinus,within30_A_not_A,23.7236,90.6966,0,0,0,0,1,0,0,-0.598907,A) Aquila B) Aquarius C) Piscis Austrinus D) Microscop
+self,192,Carina,Cetus,27,Puppis|Vela,within30_A_not_A,24.0286,93.8626,0,0,0,0,1,0,0,-0.30644,A. Puppis B. Vela C. Both A and B D. None of the
+self,193,Cassiopeia,Eridanus,27,Cepheus|Andromeda|Ursa Major,other,33.5658,100.2092,0,0,0,0,0,0,1,-0.569321,A) Cepheus B) Andromeda C) Ursa Major D) Androm
+self,194,Centaurus,Monoceros,27,Carina|Circinus|Crux,within30_A_not_A,25.65,82.1069,0,0,0,0,1,0,0,-0.207655,A. Carina B. Circinus C. Crux D. All of the above The
+self,195,Cepheus,Ophiuchus,27,Cassiopeia|Ursa Minor,within30_A_not_A,21.6628,95.3714,0,0,0,0,1,0,0,-3.110958,A) Cassiopeia B) Ursa Minor C) Cassiopeia and Ursa Minor
+self,196,Cetus,Aquila,27,Andromeda|Pisces|Fornax|Aquarius,other,37.9789,75.1926,0,0,0,0,0,0,1,-0.027287,A. Andromeda B. Pisces C. Fornax D. Aquarius The
+self,197,Chamaeleon,Aquarius,27,Carina|Musca|Apus,within30_A_not_A,15.7773,93.7254,0,0,0,0,1,0,0,-0.386261,A. Carina B. Musca C. Apus D. All of the above The
+self,198,Circinus,Coma Berenices,27,Norma|Centaurus|Triangulum Australe,within30_A_not_A,15.5859,83.6353,0,0,0,0,1,0,0,-1.58589,A. Norma B. Centaurus C. Triangulum Australe D. All of the
+self,199,Columba,Norma,27,Orion|Caelum|Canis Major|Puppis,within30_A_not_A,23.9672,100.2403,0,0,0,0,1,0,0,-2.741127,A. Orion B. Caelum C. Canis Major D. Puppis E
+self,200,Coma Berenices,Circinus,27,Virgo|Leo|Ursa Major,other,31.3111,93.4522,0,0,0,0,0,0,1,-3.732801,A. Virgo B. Leo C. Ursa Major D. Virgo and Leo E
+self,201,Corona Australis,Bootes,27,Norma|Scorpius|Sagittarius|Pavo,within30_A_not_A,23.0736,87.6589,0,0,0,0,1,0,0,-1.88051,A) Norma B) Scorpius C) Sagittarius D) Pavo The
+self,202,Corona Borealis,Capricornus,27,Hercules,within30_A_not_A,18.5825,71.6433,0,0,0,0,1,0,0,0.12355,"Hercules The constellation bordering Corona Borealis is Hercules. The constellation Corona Borealis, also known as the"
+self,203,Corvus,Scutum,27,Virgo|Crater|Hydra,within30_A_not_A,21.0343,100.9823,0,0,0,0,1,0,0,-1.013954,A. Virgo B. Crater C. Hydra D. All of the above  ## Step
+self,204,Crater,Orion,27,Leo|Virgo|Corvus,within30_A_not_A,26.0748,98.2444,0,0,0,0,1,0,0,-0.21307,A. Leo B. Virgo C. Corvus D. Virgo and Corvus
+self,205,Crux,Eridanus,27,Carina|Centaurus,within30_A_not_A,20.3955,84.032,0,0,0,0,1,0,0,-0.320606,A. Carina B. Centaurus C. Carina and Centaurus D. None of these
+self,206,Cygnus,Lynx,27,Lyra|Cepheus|Pegasus|Draco,other,31.3903,79.7247,0,0,0,0,0,0,1,0.748272,A) Lyra B) Cepheus C) Pegasus D) Draco E)
+self,207,Delphinus,Perseus,27,Cygnus|Pegasus|Andromeda|Aquila,other,34.6057,68.3568,0,0,0,0,0,0,1,-0.068342,A) Cygnus B) Pegasus C) Andromeda D) Aquila The
+self,208,Dorado,Pisces,27,Carina|Puppis|Mensa,within30_A_not_A,26.4052,106.6311,0,0,0,0,1,0,0,0.473709,A. Carina B. Puppis C. Mensa D. All of the above
+self,209,Draco,Pisces,27,Ursa Minor|Ursa Major|Cepheus,within30_A_not_A,25.9495,88.4986,0,0,0,0,1,0,0,-1.192726,A) Ursa Minor B) Ursa Major C) Cepheus D) Ursa
+self,210,Equuleus,Fornax,27,Pegasus|Piscis Austrinus|Aquila|Delphinus,within30_A_not_A,24.8173,84.48,0,0,0,0,1,0,0,-0.159925,A) Pegasus B) Piscis Austrinus C) Aquila D) Delphinus
+self,211,Eridanus,Cassiopeia,27,Orion|Cetus|Taurus,other,36.5906,68.2066,0,0,0,0,0,0,1,0.759699,A. Orion B. Cetus C. Taurus D. Orion and Cetus E.
+self,212,Fornax,Corona Australis,27,Cetus|Caelum|Eridanus,within30_A_not_A,23.3269,99.4016,0,0,0,0,1,0,0,-0.578007,A. Cetus B. Caelum C. Eridanus D. Cetus and E
+self,213,Gemini,Dorado,27,Orion|Taurus|Cancer,other,30.0224,79.0259,0,0,0,0,0,0,1,-0.800705,A) Orion B) Taurus C) Cancer D) Orion and Taurus E) None
+self,214,Grus,Lacerta,27,Phoenix|Pavo|Tucana|Piscis Austrinus,within30_A_not_A,22.7938,99.9445,0,0,0,0,1,0,0,1.458399,A. Phoenix B. Pavo C. Tucana D. Piscis Austrinus
+self,215,Hercules,Leo,27,Lyra|Corona Borealis|Ophiuchus,within30_A_not_A,24.3908,92.2741,0,0,0,0,1,0,0,-0.045717,A) Lyra B) Corona Borealis C) Ophiuchus D) Ophi
+self,216,Horologium,Scorpius,27,Dorado|Caelum|Eridanus|Hydrus,within30_A_not_A,22.513,98.3242,0,0,0,0,1,0,0,-0.934483,a) Dorado b) Caelum c) Eridanus d) Hydrus
+self,217,Hydra,Pavo,27,Leo|Cancer|Sextans|Virgo|Canis Major,other,38.4604,108.0472,0,0,0,0,0,0,1,-0.722149,A. Leo B. Cancer C. Sextans D. Virgo E. Canis Major
+self,218,Hydrus,Taurus,27,Phoenix|Tucana|Mensa,within30_A_not_A,18.3651,90.6892,0,0,0,0,1,0,0,0.062567,A. Phoenix B. Tucana C. Mensa D. All of the above E
+self,219,Indus,Lepus,27,Grus,within30_A_not_A,16.1139,87.0706,0,0,0,0,1,0,0,0.424545,The best answer is Grus. The constellation bordering Indus constellation is Grus.  The Indus constellation
+self,220,Lacerta,Grus,27,Cygnus,within30_A_not_A,20.1685,92.3728,0,0,0,0,1,0,0,-6.429131,Cygnus The constellation bordering Lacerta constellation is Cygnus. The constellation Lacerta is located in the
+self,221,Leo,Taurus,27,Virgo,other,42.5645,132.3861,0,0,0,0,0,0,1,-0.485083,Virgo The constellation bordering Leo constellation is Virgo. Virgo is the second largest constellation in the sky and
+self,222,Leo Minor,Serpens,27,Ursa Major|Lynx|Leo|Ursa Minor,other,30.7645,87.5791,0,0,0,0,0,0,1,-0.132881,A. Ursa Major B. Lynx C. Leo D. Ursa Minor E.
+self,223,Lepus,Camelopardalis,27,Orion|Eridanus,within30_A_not_A,24.68,79.928,0,0,0,0,1,0,0,0.349844,"A. Orion B. Eridanus C. Orion and Eridanus D. Orion, E"
+self,224,Libra,Tucana,27,Scorpius|Virgo|Serpens,within30_A_not_A,28.6562,93.7812,0,0,0,0,1,0,0,-0.513695,"Scorpius, Virgo, and Serpens. The constellation Libra is associated with the story of Astraea"
+self,225,Lupus,Delphinus,27,Scorpius|Centaurus|Norma,within30_A_not_A,18.5923,91.452,0,0,0,0,1,0,0,-0.938437,A. Scorpius B. Centaurus C. Norma D. All of the above
+self,226,Lynx,Cygnus,27,Ursa Major|Ursa Minor|Aries,other,48.7745,66.8964,0,0,0,0,0,0,1,-1.759016,A) Ursa Major B) Ursa Minor C) Aries D) Ursa Major and
+self,227,Lyra,Telescopium,27,Cygnus,within30_A_not_A,21.3804,96.2199,0,0,0,0,1,0,0,-3.804485,Cygnus The constellation bordering Lyra is Cygnus. The constellation Cygnus is named after the
+self,228,Mensa,Scutum,27,Norma|Chamaeleon|Carina,within30_A_not_A,28.4745,80.3656,0,0,0,0,1,0,0,-0.598553,A. Norma B. Chamaeleon C. Carina D. All of the above
+self,229,Microscopium,Andromeda,27,Norma|Pavo|Grus|Piscis Austrinus,other,30.3527,108.5418,0,0,0,0,0,0,1,-0.838215,A) Norma B) Pavo C) Grus D) Piscis Austrinus
+self,230,Monoceros,Phoenix,27,Canis Major|Canis Minor|Gemini|Hydra|Orion|Puppis,within30_A_not_A,27.6275,91.7015,0,0,0,0,1,0,0,-0.109457,"Canis Major, Canis Minor, Gemini, Hydra, Orion, and Puppis. The Monoceros constellation"
+self,231,Musca,Canis Minor,27,Chamaeleon|Carina|Apus,within30_A_not_A,17.1006,87.9643,0,0,0,0,1,0,0,-2.37327,A. Chamaeleon B. Carina C. Apus D. All of the above
+self,232,Norma,Caelum,27,Ara|Scorpius|Triangulum Australe,within30_A_not_A,15.5776,91.0097,0,0,0,0,1,0,0,0.562029,A. Ara B. Scorpius C. Triangulum Australe D. All of the
+self,233,Octans,Virgo,27,Pavo|Carina|Apus,within30_A_not_A,21.9776,81.3995,0,0,0,0,1,0,0,-0.032497,A. Pavo B. Carina C. Apus D. All of the above The
+self,234,Ophiuchus,Cepheus,27,Hercules|Scorpius|Serpens,within30_A_not_A,25.8661,87.1952,0,0,0,0,1,0,0,-1.57081,A) Hercules B) Scorpius C) Hercules and Scorpius D) Serpens
+self,235,Orion,Cepheus,27,Taurus|Canis Major|Gemini,within30_A_not_A,27.6798,91.7531,0,0,0,0,1,0,0,1.059855,"A) Taurus B) Canis Major C) Gemini D) Taurus, Canis Major"
+self,236,Pavo,Hydra,27,Grus|Apus|Carina,other,33.417,77.8876,0,0,0,0,0,0,1,-0.215694,A. Grus B. Apus C. Carina D. All of the above The
+self,237,Pegasus,Auriga,27,Andromeda|Cygnus,other,34.0697,73.117,0,0,0,0,0,0,1,0.605265,A) Andromeda B) Cygnus C) Andromeda and Cygnus D
+self,238,Perseus,Delphinus,27,Cassiopeia|Andromeda|Orion,other,35.8212,85.7386,0,0,0,0,0,0,1,-1.112566,A) Cassiopeia B) Andromeda C) Orion D) Cassiopeia
+self,239,Phoenix,Monoceros,27,Grus|Tucana|Puppis|Eridanus,other,40.1658,72.6828,0,0,0,0,0,0,1,0.968416,A. Grus B. Tucana C. Puppis D. Eridanus
+self,240,Pictor,Pisces,27,Carina|Columba|Dorado|Mensa|Volans,within30_A_not_A,20.3965,98.4824,0,0,0,0,1,0,0,1.370062,"Carina, Columba, Dorado, Mensa, and Volans. The best answer is Carina. The"
+self,241,Pisces,Ursa Minor,27,Andromeda|Pegasus|Cepheus|Aquarius,other,40.7802,66.6584,0,0,0,0,0,0,1,0.225609,A) Andromeda B) Pegasus C) Cepheus D) Aquarius
+self,242,Piscis Austrinus,Serpens,27,Grus|Capricornus|Aquarius,within30_A_not_A,18.7017,84.633,0,0,0,0,1,0,0,1.992964,A) Grus B) Capricornus C) Aquarius D) Capricornus
+self,243,Puppis,Aries,27,Orion|Vela|Carina|Canis Major,other,30.5143,85.6263,0,0,0,0,0,0,1,-1.309767,A. Orion B. Vela C. Carina D. Canis Major E. All
+self,244,Pyxis,Canes Venatici,27,Puppis|Antlia|Carina,within30_A_not_A,22.7314,102.3681,0,0,0,0,1,0,0,2.429031,A. Puppis B. Antlia C. Carina D. All of the above
+self,245,Reticulum,Sextans,27,Pictor|Dorado|Mensa,within30_A_not_A,14.3637,80.4542,0,0,0,0,1,0,0,-0.37466,A. Pictor B. Dorado C. Mensa D. All of the above E
+self,246,Sagitta,Cetus,27,Vulpecula,within30_A_not_A,10.5516,84.5974,0,0,0,0,1,0,0,0.278833,Vulpecula The constellation bordering Sagitta is Vulpecula. Vulpecula is a small constellation in the
+self,247,Sagittarius,Corvus,27,Scorpius|Ophiuchus,other,33.0705,66.1937,0,0,0,0,0,0,1,-1.649488,A) Scorpius B) Ophiuchus C) Antares D) Scorpius
+self,248,Scorpius,Sculptor,27,Libra|Ophiuchus|Scorpius,within30_A_not_A,18.4208,103.6501,0,0,0,0,1,0,0,0.062716,A. Libra B. Ophiuchus C. Scorpius D. None of these
+self,249,Sculptor,Scorpius,27,Phoenix|Cetus|Fornax|Piscis Austrinus,within30_A_not_A,25.3556,95.0549,0,0,0,0,1,0,0,-0.783911,A) Phoenix B) Cetus C) Fornax D) Piscis Austrinus
+self,250,Scutum,Corvus,27,Cygnus|Aquila,other,39.0562,117.0765,0,0,0,0,0,0,1,-0.979183,"A) Cygnus B) Cygnus and Aquila C) Cygnus, Aquila"
+self,251,Serpens,Piscis Austrinus,27,Ophiuchus|Hercules,within30_A_not_A,21.0304,83.1618,0,0,0,0,1,0,0,-0.746773,A) Ophiuchus B) Hercules C) Ophiuchus and Hercules D) Hercules
+self,252,Sextans,Reticulum,27,Leo|Virgo|Hydra|Crater,within30_A_not_A,25.3385,95.7297,0,0,0,0,1,0,0,-0.613417,"Leo, Virgo, Hydra, and Crater. The constellation is named after the sextant, a navigational instrument"
+self,253,Taurus,Leo,27,Orion|Gemini|Auriga,other,30.6728,64.1458,0,0,0,0,0,0,1,0.2138,A) Orion B) Gemini C) Orion and Gemini D) Gemini and Auriga E)
+self,254,Telescopium,Columba,27,Pavo|Ara|Piscis Austrinus,within30_A_not_A,23.5556,85.0516,0,0,0,0,1,0,0,-0.031404,A. Pavo B. Ara C. Piscis Austrinus D. All of the above
+self,255,Triangulum,Capricornus,27,Andromeda|Pisces|Aries,within30_A_not_A,21.0991,76.732,0,0,0,0,1,0,0,-0.537086,A) Andromeda B) Pisces C) Aries D) Andromeda and Pis
+self,256,Triangulum Australe,Equuleus,27,Norma|Circinus|Apus,within30_A_not_A,10.9779,93.8258,0,0,0,0,1,0,0,0.255476,A. Norma B. Circinus C. Apus D. All of the above The
+self,257,Tucana,Aries,27,Grus|Phoenix|Chamaeleon,within30_A_not_A,25.1537,91.2495,0,0,0,0,1,0,0,0.717951,A. Grus B. Phoenix C. Chamaeleon D. All of the above
+self,258,Ursa Major,Antlia,27,Cassiopeia|Ursa Minor,other,45.8123,130.2075,0,0,0,0,0,0,1,-1.047694,A) Cassiopeia B) Ursa Minor C) Cassiopeia and Ursa Minor
+self,259,Ursa Minor,Pisces,27,Draco,within30_A_not_A,11.8287,88.7601,0,0,0,0,1,0,0,-2.087667,Draco The constellation bordering Ursa Minor is Draco. The constellation Ursa Minor is bordered by several constellations
+self,260,Vela,Sculptor,27,Carina|Puppis|Pyxis|Antlia,within30_A_not_A,19.893,92.0285,0,0,0,0,1,0,0,-1.8144,"Carina, Puppis, Pyxis, and Antlia. The Vela constellation is one of the 88"
+self,261,Virgo,Octans,27,Leo|Coma Berenices,other,34.5807,113.1115,0,0,0,0,0,0,1,-0.592047,A. Leo B. Coma Berenices C. Coma Berenices and Leo D
+self,262,Volans,Leo,27,Carina|Chamaeleon|Puppis|Antlia,within30_A_not_A,25.014,72.7924,0,0,0,0,1,0,0,-0.605579,A. Carina B. Chamaeleon C. Puppis D. Antlia
+self,263,Vulpecula,Pavo,27,Cygnus,within30_A_not_A,18.8661,109.5032,0,0,0,0,1,0,0,0.266666,Cygnus The constellation bordering Vulpecula is Cygnus. Vulpecula is a small constellation in
+target,176,Andromeda,Lepus,27,Orion|Cetus|Monoceros|Puppis,other,85.761,35.0906,0,0,0,0,0,0,1,1.998789,A. Orion B. Cetus C. Monoceros D. Puppis E.
+target,177,Antlia,Bootes,27,Ursa Major|Virgo|Bootes,within30_B_not_B,77.6218,27.6095,0,0,0,0,0,1,0,11.238431,A. Ursa Major B. Virgo C. Boötes D. Virgo and Com
+target,178,Apus,Cetus,27,Cygnus|Chamaeleon|Octans|Eridanus,other,59.8396,71.4179,0,0,0,0,0,0,1,1.076406,A. Cygnus B. Chamaeleon C. Octans D. Eridanus
+target,179,Aquarius,Chamaeleon,27,Piscis Austrinus|Carina|Centaurus|Puppis,other,89.8335,43.6346,0,0,0,0,0,0,1,1.182453,A. Piscis Austrinus B. Carina C. Centaurus D. Puppis
+target,180,Aquila,Cetus,27,Orion|Puppis|Eridanus,other,139.4064,60.0549,0,0,0,0,0,0,1,6.380369,A. Orion B. Puppis C. Eridanus D. Orion and Puppis
+target,181,Ara,Columba,27,Orion|Caelum|Monoceros|Puppis,within30_B_not_B,106.4301,28.4664,0,0,0,0,0,1,0,4.015642,A. Orion B. Caelum C. Monoceros D. Puppis E
+target,182,Aries,Tucana,27,Piscis Austrinus,other,81.1698,36.9067,0,0,0,0,0,0,1,3.217016,A. Piscis Austrinus B. Piscis Austrinus C. Piscis Austrinus
+target,183,Auriga,Pegasus,27,Cassiopeia|Cygnus|Andromeda|Pegasus,within30_B_not_B,71.0561,29.3205,0,0,0,0,0,1,0,3.869957,A) Cassiopeia B) Cygnus C) Andromeda D) Pegasus
+target,184,Bootes,Corona Australis,27,Norma|Capricornus|Centaurus|Pavo,other,94.2588,37.2912,0,0,0,0,0,0,1,11.519758,A. Norma B. Capricornus C. Centaurus D. Pavo The
+target,185,Caelum,Norma,27,Centaurus|Antlia|Puppis|Pyxis|Hydra,other,61.6189,65.1839,0,0,0,0,0,0,1,4.155851,"The best answer to this is Centaurus,Antlia,Puppis,Pyxis and Hydra. The constellation C"
+target,186,Camelopardalis,Lepus,27,Orion|Cetus|Eridanus,other,83.1513,35.8302,0,0,0,0,0,0,1,5.318974,A. Orion B. Cetus C. Eridanus D. Menus E. Can
+target,187,Cancer,Volans,27,Carina|Puppis|Vela|Antlia,within30_B_not_B,65.5199,27.6375,0,0,0,0,0,1,0,7.182945,A. Carina B. Puppis C. Vela D. Antlia E.
+target,188,Canes Venatici,Pyxis,27,Carina|Monoceros|Orion,other,104.3808,43.4484,0,0,0,0,0,0,1,5.189388,A. Carina B. Monoceros C. Orion D. Carina and Monoceros
+target,189,Canis Major,Pavo,27,Norma|Puppis|Carina|Pavo,other,62.77,40.4953,0,0,0,0,0,0,1,2.842665,A. Norma B. Puppis C. Carina D. Pavo The best
+target,190,Canis Minor,Musca,27,Carina|Puppis|Centaurus|Pictor,other,65.4879,36.6232,0,0,0,0,0,0,1,5.885906,A. Carina B. Puppis C. Centaurus D. Pictor E.
+target,191,Capricornus,Corona Borealis,27,Scorpius|Virgo|Hercules,other,81.1643,45.2054,0,0,0,0,0,0,1,6.766024,A) Scorpius B) Virgo C) Hercules D) Virgo and Scorpius
+target,192,Carina,Cetus,27,Puppis|Cassiopeia|Orion|Pegasus,other,98.1765,67.5743,0,0,0,0,0,0,1,4.813507,A. Puppis B. Cassiopeia C. Orion D. Pegasus The
+target,193,Cassiopeia,Eridanus,27,Carina,other,151.8772,64.4278,0,0,0,0,0,0,1,8.052662,"Carina A. True B. False The best answer is B, the constellation bordering Cassiope"
+target,194,Centaurus,Monoceros,27,Orion|Canis Major|Ursa Major,other,96.8043,39.1904,0,0,0,0,0,0,1,6.164892,A. Orion B. Canis Major C. Ursa Major D. Orion and Canis Major
+target,195,Cepheus,Ophiuchus,27,Scorpius|Corona Borealis|Ophiuchus,within30_B_not_B,90.1364,23.55,0,0,0,0,0,1,0,6.78923,A) Scorpius B) Corona Borealis C) Ophiuchus D) Scor
+target,196,Cetus,Aquila,27,Cygnus|Aquila|Hercules|Aquarius,other,87.0357,32.1528,0,0,0,0,0,0,1,5.920519,A) Cygnus B) Aquila C) Hercules D) Aquarius The best answer
+target,197,Chamaeleon,Aquarius,27,Cygnus|Draco|Pavo,other,110.2527,72.5193,0,0,0,0,0,0,1,3.491497,A. Cygnus B. Draco C. Cygnus D. Pavo The best
+target,198,Circinus,Coma Berenices,27,Ursa Major|Ursa Minor|Leo,other,119.2901,41.4258,0,0,0,0,0,0,1,8.651329,A. Ursa Major B. Ursa Minor C. Leo D. Ursa Major and U
+target,199,Columba,Norma,27,Pavo|Puppis|Carina,other,46.345,55.2273,0,0,0,0,0,0,1,1.491203,A. Pavo B. Puppis C. Carina D. All of the above
+target,200,Coma Berenices,Circinus,27,Norma|Centaurus|Puppis|Antlia,other,78.4455,39.1698,0,0,0,0,0,0,1,10.076078,A. Norma B. Centaurus C. Puppis D. Antlia E.
+target,201,Corona Australis,Bootes,27,Ursa Major|Bootes|Hercules|Ursa Minor,other,105.1001,32.132,0,0,0,0,0,0,1,4.950336,A. Ursa Major B. Boötes C. Hercules D. Ursa Minor E
+target,202,Corona Borealis,Capricornus,27,Norma|Pavo|Grus|Piscis Austrinus,other,104.7455,41.9465,0,0,0,0,0,0,1,6.496183,A) Norma B) Pavo C) Grus D) Piscis Austrinus
+target,203,Corvus,Scutum,27,Cygnus|Serpens|Pavo|Hercules,other,89.0217,48.661,0,0,0,0,0,0,1,5.287777,A) Cygnus B) Serpens C) Pavo D) Hercules The best
+target,204,Crater,Orion,27,Orion|Cetus|Canis Major,other,97.3688,31.2304,0,0,0,0,0,0,1,4.004319,A) Orion B) Cetus C) Canis Major D) Orion E) None of
+target,205,Crux,Eridanus,27,Orion|Carina|Taurus|Eridanus,other,83.7902,35.1636,0,0,0,0,0,0,1,3.219331,A. Orion B. Carina C. Taurus D. Eridanus E. Per
+target,206,Cygnus,Lynx,27,Ursa Major|Ursa Minor|Cassiopeia,other,55.2758,44.2745,0,0,0,0,0,0,1,7.294916,A) Ursa Major B) Ursa Minor C) Cassiopeia D) Ursa
+target,207,Delphinus,Perseus,27,Andromeda|Equuleus|Orion,other,66.2974,55.7804,0,0,0,0,0,0,1,3.547184,A) Andromeda B) Equuleus C) Orion D) Andromeda E
+target,208,Dorado,Pisces,27,Cepheus|Cetus|Triangulum|Andromeda,other,107.2374,37.1966,0,0,0,0,0,0,1,5.531298,A. Cepheus B. Cetus C. Triangulum D. Andromeda
+target,209,Draco,Pisces,27,Cepheus|Cetus|Andromeda|Eridanus,other,82.6973,43.8945,0,0,0,0,0,0,1,6.927284,A. Cepheus B. Cetus C. Andromeda D. Eridanus
+target,210,Equuleus,Fornax,27,Piscis Austrinus|Cetus|Fornax,within30_B_not_B,65.7239,28.1941,0,0,0,0,0,1,0,11.638432,A. Piscis Austrinus B. Cetus C. Fornax D. Pupp
+target,211,Eridanus,Cassiopeia,27,Andromeda|Cepheus|Ursa Major,other,100.2092,33.5658,0,0,0,0,0,0,1,12.633662,A) Andromeda B) Cepheus C) Ursa Major D) Cassio
+target,212,Fornax,Corona Australis,27,Pavo|Piscis Austrinus|Antlia,other,70.8388,53.6129,0,0,0,0,0,0,1,4.891527,A. Pavo B. Piscis Austrinus C. Antlia D. Two of the
+target,213,Gemini,Dorado,27,Orion|Puppis|Taurus|Pictor,other,51.0575,48.3412,0,0,0,0,0,0,1,3.34964,A. Orion B. Puppis C. Taurus D. Pictor The best answer
+target,214,Grus,Lacerta,27,Cygnus|Cassiopeia|Pegasus,within30_B_not_B,89.8163,24.516,0,0,0,0,0,1,0,12.600824,A) Cygnus B) Cassiopeia C) Pegasus D) constellations
+target,215,Hercules,Leo,27,Leo|Orion|Canes Venatici|Virgo,other,88.5662,39.7758,0,0,0,0,0,0,1,3.682846,A. Leo B. Orion C. Canes Venatici D. Virgo E.
+target,216,Horologium,Scorpius,27,Norma|Telescopium|Pavo,other,63.019,31.958,0,0,0,0,0,0,1,4.016865,A. Norma B. Telescopium C. Pavo D. Two of the above
+target,217,Hydra,Pavo,27,Puppis|Pavo|Centaurus|Antlia,other,46.7984,52.3314,0,0,0,0,0,0,1,2.182175,A. Puppis B. Pavo C. Centaurus D. Antlia The best
+target,218,Hydrus,Taurus,27,Cetus|Cepheus|Orion|Taurus,other,96.3962,36.0408,0,0,0,0,0,0,1,4.001377,A) Cetus B) Cepheus C) Orion D) Taurus E)
+target,219,Indus,Lepus,27,Orion|Canis Major|Cetus|Eridanus,other,86.4861,31.3082,0,0,0,0,0,0,1,8.968166,A. Orion B. Canis Major C. Cetus D. Eridanus E.
+target,220,Lacerta,Grus,27,Puppis|Pavo|Norma|Piscis Austrinus,other,115.9873,49.3962,0,0,0,0,0,0,1,7.687483,A. Puppis B. Pavo C. Norma D. Piscis Austrinus
+target,221,Leo,Taurus,27,Orion|Taurus|Aries|Cetus,within30_B_not_B,103.5688,23.6901,0,0,0,0,0,1,0,4.06872,A) Orion B) Taurus C) Aries D) Cetus E) None of
+target,222,Leo Minor,Serpens,27,Virgo|Hercules|Ursa Major,other,54.2206,52.1327,0,0,0,0,0,0,1,4.175486,A) Virgo B) Hercules C) Ursa Major D) Virgo and Hercules The
+target,223,Lepus,Camelopardalis,27,Ursa Major|Andromeda|Cassiopeia,other,96.255,37.0294,0,0,0,0,0,0,1,8.888014,A) Ursa Major B) Andromeda C) Cassiopeia D) Ursa
+target,224,Libra,Tucana,27,Scorpius|Centaurus|Puppis,other,55.9471,68.891,0,0,0,0,0,0,1,0.690445,A. Scorpius B. Centaurus C. Puppis D. Piscis Austr
+target,225,Lupus,Delphinus,27,Cygnus|Andromeda,other,130.7351,44.975,0,0,0,0,0,0,1,3.714935,A) Cygnus B) Cygnus C) Andromeda D) Cygnus
+target,226,Lynx,Cygnus,27,Cygnus,equals_B,89.7682,0.0,0,0,0,1,0,0,0,3.753359,Cygnus The constellation bordering Lynx is Cygnus. The constellation Cygnus is named after the
+target,227,Lyra,Telescopium,27,Cygnus|Pavo|Ara|Puppis,other,96.5632,55.9964,0,0,0,0,0,0,1,9.599682,A. Cygnus B. Pavo C. Ara D. Puppis The best
+target,228,Mensa,Scutum,27,Norma|Circinus|Triangulum Australe|Apus,other,37.3189,62.7544,0,0,0,0,0,0,1,3.596519,A) Norma B) Circinus C) Triangulum Australe D) Apus
+target,229,Microscopium,Andromeda,27,Andromeda|Pegasus|Cassiopeia,within30_B_not_B,87.4154,18.2699,0,0,0,0,0,1,0,8.493839,A) Andromeda B) Pegasus C) Cassiopeia D) Cephe
+target,230,Monoceros,Phoenix,27,Puppis|Pavo|Orion|Piscis Austrinus,other,72.2614,58.0632,0,0,0,0,0,0,1,6.274712,A. Puppis B. Pavo C. Orion D. Piscis Austrinus
+target,231,Musca,Canis Minor,27,Ursa Major|Carina|Orion|Ursa Minor,other,99.1924,63.2013,0,0,0,0,0,0,1,3.144808,A. Ursa Major B. Carina C. Orion D. Ursa Minor E.
+target,232,Norma,Caelum,27,Puppis|Caelum|Orion|Eridanus,within30_B_not_B,102.5758,25.2609,0,0,0,0,0,1,0,5.849207,A. Puppis B. Caelum C. Orion D. Eridanus E
+target,233,Octans,Virgo,27,Ursa Major|Ursa Minor|Carina|Virgo,other,109.5359,55.6547,0,0,0,0,0,0,1,0.936663,A. Ursa Major B. Ursa Minor C. Carina D. Virgo  The
+target,234,Ophiuchus,Cepheus,27,Hercules|Cassiopeia|Lyra,other,62.4998,40.0796,0,0,0,0,0,0,1,6.925873,A) Hercules B) Cassiopeia C) Hercules and Lyra D) Cassiope
+target,235,Orion,Cepheus,27,Cassiopeia|Hercules|Lyra|Ursa Major,other,109.3079,43.3553,0,0,0,0,0,0,1,7.578735,? A. Cassiopeia B. Hercules C. Lyra D. Ursa Major E
+target,236,Pavo,Hydra,27,Leo|Carina|Ursa Major|Virgo,other,103.5245,50.1523,0,0,0,0,0,0,1,7.915413,A. Leo B. Carina C. Ursa Major D. Virgo E. Can
+target,237,Pegasus,Auriga,27,Ursa Major|Ursa Minor|Orion,other,94.3466,48.4594,0,0,0,0,0,0,1,7.100512,A) Ursa Major B) Ursa Minor C) Orion D) Ursa Major and U
+target,238,Perseus,Delphinus,27,Cassiopeia|Andromeda|Hercules,other,54.3199,58.754,0,0,0,0,0,0,1,1.077019,A) Cassiopeia B) Andromeda C) Hercules D) Cassiopeia
+target,239,Phoenix,Monoceros,27,Canis Major|Orion|Canis Minor,within30_B_not_B,86.4222,18.2728,0,0,0,0,0,1,0,7.455229,A. Canis Major B. Orion C. Canis Minor D. Orion and Canis Major
+target,240,Pictor,Pisces,27,,no_constellation,,,1,0,0,0,0,0,0,5.612839,The constellation bordering Pictor constellation is The constellation bordering Pictor constellation is The constellation bordering P
+target,241,Pisces,Ursa Minor,27,Ursa Major|Ursa Minor|Leo,other,114.0467,33.5808,0,0,0,0,0,0,1,7.66449,A) Ursa Major B) Ursa Minor C) Leo D) Ursa Major and U
+target,242,Piscis Austrinus,Serpens,27,Scorpius|Serpens|Virgo|Bootes,other,101.915,30.6415,0,0,0,0,0,0,1,10.372054,A) Scorpius B) Serpens C) Virgo D) Boötes
+target,243,Puppis,Aries,27,Cassiopeia|Auriga|Cepheus,other,112.327,51.7966,0,0,0,0,0,0,1,3.842592,A) Cassiopeia B) Auriga C) Cassiopeia and Cepheus
+target,244,Pyxis,Canes Venatici,27,Ursa Major|Coma Berenices|Ursa Minor,within30_B_not_B,93.5345,27.4757,0,0,0,0,0,1,0,7.953281,A. Ursa Major B. Coma Berenices C. Ursa Minor D. Com
+target,245,Reticulum,Sextans,27,Leo|Leo Minor|Crater|Ursa Major,other,115.1181,33.6316,0,0,0,0,0,0,1,5.444822,A. Leo B. Leo Minor C. Crater D. Ursa Major  The best answer
+target,246,Sagitta,Cetus,27,Orion|Puppis|Eridanus|Aquila,other,112.0638,67.5559,0,0,0,0,0,0,1,5.347065,A. Orion B. Puppis C. Eridanus D. Aquila The best
+target,247,Sagittarius,Corvus,27,Scorpius,other,31.1752,59.9966,0,0,0,0,0,0,1,4.105423,Scorpius The best answer is Scorpius. The constellation bordering Sagittarius is indeed Scorpius
+target,248,Scorpius,Sculptor,27,Orion|Taurus|Puppis|Eridanus,other,135.3759,71.9897,0,0,0,0,0,0,1,3.281269,A. Orion B. Taurus C. Puppis D. Eridanus E.
+target,249,Sculptor,Scorpius,27,Virgo|Centaurus,other,122.1872,50.5,0,0,0,0,0,0,1,4.229267,A. Virgo B. Centaurus C. Antares D. Virgo and Centaurus
+target,250,Scutum,Corvus,27,Virgo|Monoceros|Canes Venatici,other,112.6566,53.4833,0,0,0,0,0,0,1,7.0765,A. Virgo B. Monoceros C. Canes Venatici D. Virgo
+target,251,Serpens,Piscis Austrinus,27,Cygnus|Cetus|Ophiuchus,other,73.0384,67.6796,0,0,0,0,0,0,1,4.193108,A) Cygnus B) Cetus C) Ophiuchus D) Piscis
+target,252,Sextans,Reticulum,27,Puppis|Carina|Pyxis|Eridanus,other,59.531,44.0713,0,0,0,0,0,0,1,2.997177,A. Puppis B. Carina C. Pyxis D. Eridanus E
+target,253,Taurus,Leo,27,Gemini|Cancer|Leo|Virgo|Hydra|Orion,other,73.2902,38.7746,0,0,0,0,0,0,1,2.370157,"Gemini, Cancer, Leo, Virgo, Hydra, and Orion. The constellation Taurus is named after the bull in"
+target,254,Telescopium,Columba,27,Orion|Eridanus|Puppis|Antlia,other,101.2658,36.6847,0,0,0,0,0,0,1,3.242328,A. Orion B. Eridanus C. Puppis D. Antlia E.
+target,255,Triangulum,Capricornus,27,Norma|Circinus|Pavo|Triangulum Australe,other,140.8547,64.0788,0,0,0,0,0,0,1,4.511642,A) Norma B) Circinus C) Pavo D) Triangulum Australe
+target,256,Triangulum Australe,Equuleus,27,Cygnus|Pegasus|Andromeda,other,124.9171,39.1431,0,0,0,0,0,0,1,5.03467,A) Cygnus B) Cygnus C) Pegasus D) Andromeda
+target,257,Tucana,Aries,27,Cassiopeia|Cepheus|Andromeda,other,123.5265,47.1311,0,0,0,0,0,0,1,3.172794,A) Cassiopeia B) Cepheus C) Andromeda D) U
+target,258,Ursa Major,Antlia,27,Ursa Minor|Carina|Canis Major|Vela,other,87.236,52.8493,0,0,0,0,0,0,1,8.356738,A. Ursa Minor B. Carina C. Canis Major D. Vela The
+target,259,Ursa Minor,Pisces,27,Cepheus,within30_A_not_A,25.3573,64.5242,0,0,0,0,1,0,0,5.711637,Cepheus The constellation bordering Ursa Minor is Cepheus. Cepheus is a
+target,260,Vela,Sculptor,27,Puppis|Carina|Pavo|Grus,other,48.194,60.326,0,0,0,0,0,0,1,3.883373,A. Puppis B. Carina C. Pavo D. Grus The best
+target,261,Virgo,Octans,27,Puppis|Carina|Corvus|Pavo,other,67.7167,47.4986,0,0,0,0,0,0,1,1.316046,A. Puppis B. Carina C. Corvus D. Pavo E
+target,262,Volans,Leo,27,Ursa Major|Carina|Leo|Ursa Minor,other,96.7669,47.6716,0,0,0,0,0,0,1,0.492624,A. Ursa Major B. Carina C. Leo D. Ursa Minor E.
+target,263,Vulpecula,Pavo,27,Puppis|Pavo|Grus|Antlia,other,122.4668,47.0716,0,0,0,0,0,0,1,6.437098,A. Puppis B. Pavo C. Grus D. Antlia E.
+untouched,176,Andromeda,Lepus,27,Cassiopeia|Pegasus|Triangulum,within30_A_not_A,24.8991,92.1614,0,0,0,0,1,0,0,0.0,A) Cassiopeia B) Pegasus C) Triangulum D) Cassiope
+untouched,177,Antlia,Bootes,27,Puppis|Hydra|Centaurus|Pictor,other,33.1907,103.0108,0,0,0,0,0,0,1,0.0,A. Puppis B. Hydra C. Centaurus D. Pictor The best answer
+untouched,178,Apus,Cetus,27,Pavo|Octans|Chamaeleon,within30_A_not_A,16.2381,82.7808,0,0,0,0,1,0,0,0.0,A. Pavo B. Octans C. Chamaeleon D. All of the above
+untouched,179,Aquarius,Chamaeleon,27,Pegasus|Piscis Austrinus|Aquila|Puppis,other,53.7969,84.4139,0,0,0,0,0,0,1,0.0,A. Pegasus B. Piscis Austrinus C. Aquila D. Puppis
+untouched,180,Aquila,Cetus,27,Cygnus|Sagittarius|Aquarius|Pegasus,other,41.2264,69.2393,0,0,0,0,0,0,1,0.0,A. Cygnus B. Sagittarius C. Aquarius D. Pegasus E
+untouched,181,Ara,Columba,27,Norma|Scorpius|Puppis,other,40.613,74.7199,0,0,0,0,0,0,1,0.0,A. Norma B. Scorpius C. Puppis D. All of the above
+untouched,182,Aries,Tucana,27,Taurus|Gemini|Pisces,other,39.0946,97.2633,0,0,0,0,0,0,1,0.0,"Taurus, Gemini, and Pisces. The constellation Aries is named after the mythological ram with the golden fleece"
+untouched,183,Auriga,Pegasus,27,Orion|Gemini|Taurus|Perseus,within30_A_not_A,29.3136,89.4388,0,0,0,0,1,0,0,0.0,A) Orion B) Gemini C) Taurus D) Perseus E) Ursa
+untouched,184,Bootes,Corona Australis,27,Virgo|Ursa Major,other,41.4142,108.1269,0,0,0,0,0,0,1,0.0,A) Virgo B) Ursa Major C) Virgo and Ursa Major D) U
+untouched,185,Caelum,Norma,27,Columba|Pictor|Eridanus|Puppis,within30_A_not_A,21.4332,88.6921,0,0,0,0,1,0,0,0.0,A. Columba B. Pictor C. Eridanus D. Puppis E
+untouched,186,Camelopardalis,Lepus,27,Ursa Major|Ursa Minor|Cepheus,other,32.4116,111.3185,0,0,0,0,0,0,1,0.0,A. Ursa Major B. Ursa Minor C. Cepheus D. Cassio
+untouched,187,Cancer,Volans,27,Gemini|Lynx|Leo|Virgo|Canis Minor,other,34.2394,91.9253,0,0,0,0,0,0,1,0.0,"Gemini, Lynx, Leo, Virgo, and Canis Minor. The constellation Cancer is named after the Latin word"
+untouched,188,Canes Venatici,Pyxis,27,Ursa Major|Ursa Minor|Coma Berenices,within30_A_not_A,27.4757,93.5345,0,0,0,0,1,0,0,0.0,A) Ursa Major B) Ursa Minor C) Coma Berenices D) U
+untouched,189,Canis Major,Pavo,27,Orion|Monoceros|Puppis|Carina,within30_A_not_A,28.3635,90.0033,0,0,0,0,1,0,0,0.0,A) Orion B) Monoceros C) Puppis D) Carina E)
+untouched,190,Canis Minor,Musca,27,Gemini|Orion|Taurus|Monoceros,within30_A_not_A,27.6961,102.6491,0,0,0,0,1,0,0,0.0,"Gemini, Orion, Taurus, and Monoceros. The constellation bordering Canis Minor constellation is Gemini, Orion"
+untouched,191,Capricornus,Corona Borealis,27,Aquarius|Aquila|Pegasus|Piscis Austrinus,within30_A_not_A,29.1422,90.3007,0,0,0,0,1,0,0,0.0,A) Aquarius B) Aquila C) Pegasus D) Piscis Austrinus
+untouched,192,Carina,Cetus,27,Puppis|Vela,within30_A_not_A,24.0286,93.8626,0,0,0,0,1,0,0,0.0,"A) Puppis B) Puppis and Vela C) Puppis, Vela"
+untouched,193,Cassiopeia,Eridanus,27,Cepheus,within30_A_not_A,17.9683,107.5666,0,0,0,0,1,0,0,0.0,Cepheus The constellation bordering Cassiopeia is Cepheus. Cepheus is
+untouched,194,Centaurus,Monoceros,27,Carina|Circinus|Crux|Vela,within30_A_not_A,27.9898,75.7345,0,0,0,0,1,0,0,0.0,A) Carina B) Circinus C) Crux D) Vela E) None
+untouched,195,Cepheus,Ophiuchus,27,Cassiopeia|Draco|Ursa Minor,within30_A_not_A,22.9548,88.116,0,0,0,0,1,0,0,0.0,A) Cassiopeia B) Draco C) Ursa Minor D) Cassiopeia
+untouched,196,Cetus,Aquila,27,Andromeda|Pisces|Eridanus|Orion,other,42.7656,105.4102,0,0,0,0,0,0,1,0.0,A) Andromeda B) Pisces C) Eridanus D) Orion E)
+untouched,197,Chamaeleon,Aquarius,27,Carina|Musca,within30_A_not_A,15.4517,100.4308,0,0,0,0,1,0,0,0.0,"A. Carina B. Musca C. Carina and Musca D. Carina,"
+untouched,198,Circinus,Coma Berenices,27,Norma|Triangulum Australe|Apus,within30_A_not_A,12.9027,95.2879,0,0,0,0,1,0,0,0.0,A. Norma B. Triangulum Australe C. Apus D. All of the
+untouched,199,Columba,Norma,27,Puppis|Carina|Pictor|Caelum,within30_A_not_A,22.9105,75.0858,0,0,0,0,1,0,0,0.0,A. Puppis B. Carina C. Pictor D. Caelum E
+untouched,200,Coma Berenices,Circinus,27,Ursa Major|Leo|Canis Major|Virgo,other,47.7873,90.6638,0,0,0,0,0,0,1,0.0,A) Ursa Major B) Leo C) Canis Major D) Virgo E)
+untouched,201,Corona Australis,Bootes,27,Norma|Scorpius|Corona Borealis,other,44.7782,56.613,0,0,0,0,0,0,1,0.0,A. Norma B. Scorpius C. Corona Borealis D. Telescop
+untouched,202,Corona Borealis,Capricornus,27,Hercules,within30_A_not_A,18.5825,71.6433,0,0,0,0,1,0,0,0.0,"Hercules The constellation bordering Corona Borealis is Hercules. The constellation Corona Borealis, also known as the"
+untouched,203,Corvus,Scutum,27,Virgo|Crater|Hydra,within30_A_not_A,21.0343,100.9823,0,0,0,0,1,0,0,0.0,A) Virgo B) Crater C) Hydra D) Virgo and Crater E
+untouched,204,Crater,Orion,27,Virgo|Corvus|Hydra,within30_A_not_A,19.991,98.0786,0,0,0,0,1,0,0,0.0,A) Virgo B) Corvus C) Hydra D) Virgo and Corvus
+untouched,205,Crux,Eridanus,27,Carina|Centaurus,within30_A_not_A,20.3955,84.032,0,0,0,0,1,0,0,0.0,"A) Carina B) Centaurus C) Carina and Centaurus D) Carina,"
+untouched,206,Cygnus,Lynx,27,Lyra|Cepheus|Pegasus|Cygnus,within30_A_not_A,21.9828,87.1867,0,0,0,0,1,0,0,0.0,A) Lyra B) Cepheus C) Pegasus D) Cygnus
+untouched,207,Delphinus,Perseus,27,Cygnus|Equuleus|Pegasus,within30_A_not_A,23.3429,73.7789,0,0,0,0,1,0,0,0.0,A) Cygnus B) Equuleus C) Pegasus D) Equuleus and
+untouched,208,Dorado,Pisces,27,Phoenix|Pavo|Carina,other,37.6848,88.967,0,0,0,0,0,0,1,0.0,A. Phoenix B. Pavo C. Carina D. Menus The best answer is
+untouched,209,Draco,Pisces,27,Ursa Major|Ursa Minor|Cepheus,within30_A_not_A,25.9495,88.4986,0,0,0,0,1,0,0,0.0,A) Ursa Major B) Ursa Minor C) Cepheus D) Ursa
+untouched,210,Equuleus,Fornax,27,Pegasus|Delphinus|Piscis Austrinus|Aquarius,within30_A_not_A,24.9469,74.1145,0,0,0,0,1,0,0,0.0,A) Pegasus B) Delphinus C) Piscis Austrinus D) Aquarius
+untouched,211,Eridanus,Cassiopeia,27,Orion|Cetus|Taurus|Cepheus,other,54.3346,55.647,0,0,0,0,0,0,1,0.0,A) Orion B) Cetus C) Taurus D) Cepheus E)
+untouched,212,Fornax,Corona Australis,27,Cetus|Caelum|Eridanus,within30_A_not_A,23.3269,99.4016,0,0,0,0,1,0,0,0.0,A) Cetus B) Caelum C) Eridanus D) Caelum and
+untouched,213,Gemini,Dorado,27,Orion|Taurus|Cancer,other,30.0224,79.0259,0,0,0,0,0,0,1,0.0,A) Orion B) Taurus C) Cancer D) Orion and Taurus E) T
+untouched,214,Grus,Lacerta,27,Phoenix|Pavo|Tucana|Puppis,other,42.1325,117.3199,0,0,0,0,0,0,1,0.0,A. Phoenix B. Pavo C. Tucana D. Puppis E.
+untouched,215,Hercules,Leo,27,Lyra|Corona Borealis|Ophiuchus|Virgo,other,34.7036,79.8467,0,0,0,0,0,0,1,0.0,A) Lyra B) Corona Borealis C) Ophiuchus D) Virgo
+untouched,216,Horologium,Scorpius,27,Norma|Caelum|Puppis|Eridanus,other,44.8004,89.4268,0,0,0,0,0,0,1,0.0,A) Norma B) Caelum C) Puppis D) Eridanus
+untouched,217,Hydra,Pavo,27,Cancer|Corvus|Sextans|Virgo|Hydra,within30_A_not_A,27.1713,99.5262,0,0,0,0,1,0,0,0.0,A. Cancer B. Corvus C. Sextans D. Virgo E. Hydra
+untouched,218,Hydrus,Taurus,27,Puppis|Pavo|Carina,other,40.7664,95.162,0,0,0,0,0,0,1,0.0,A) Puppis B) Pavo C) Carina D) Menus E)
+untouched,219,Indus,Lepus,27,Pavo|Puppis|Centaurus|Grus,other,45.6475,75.4438,0,0,0,0,0,0,1,0.0,A. Pavo B. Puppis C. Centaurus D. Grus The best
+untouched,220,Lacerta,Grus,27,Cygnus,within30_A_not_A,20.1685,92.3728,0,0,0,0,1,0,0,0.0,Cygnus The constellation bordering Lacerta constellation is Cygnus. Lacerta is a small constellation in the
+untouched,221,Leo,Taurus,27,Virgo,other,42.5645,132.3861,0,0,0,0,0,0,1,0.0,Virgo The constellation bordering Leo constellation is Virgo. Virgo is the second largest constellation in the sky and
+untouched,222,Leo Minor,Serpens,27,Ursa Major|Leo|Leo Minor|Ursa Minor,within30_A_not_A,23.5463,82.3271,0,0,0,0,1,0,0,0.0,A. Ursa Major B. Leo C. Leo Minor D. Ursa Minor E.
+untouched,223,Lepus,Camelopardalis,27,Orion|Eridanus|Monoceros,within30_A_not_A,25.3805,78.1434,0,0,0,0,1,0,0,0.0,A. Orion B. Eridanus C. Monoceros D. Orion and Monoceros
+untouched,224,Libra,Tucana,27,Scorpius,within30_A_not_A,27.1206,67.4581,0,0,0,0,1,0,0,0.0,Scorpius The constellation bordering Libra constellation is Scorpius. The constellation Libra is located in the
+untouched,225,Lupus,Delphinus,27,Scorpius|Centaurus|Norma,within30_A_not_A,18.5923,91.452,0,0,0,0,1,0,0,0.0,A. Scorpius B. Centaurus C. Norma D. All of the above
+untouched,226,Lynx,Cygnus,27,Ursa Major|Ursa Minor|Cygnus|Camelopardalis,other,49.0451,46.3439,0,0,0,0,0,0,1,0.0,A. Ursa Major B. Ursa Minor C. Cygnus D. Camelopardalis
+untouched,227,Lyra,Telescopium,27,Cygnus,within30_A_not_A,21.3804,96.2199,0,0,0,0,1,0,0,0.0,Cygnus The constellation bordering Lyra constellation is Cygnus. Cygnus is a northern constellation that
+untouched,228,Mensa,Scutum,27,Dorado|Chamaeleon|Octans,within30_A_not_A,15.5201,89.1615,0,0,0,0,1,0,0,0.0,A. Dorado B. Chamaeleon C. Octans D. All of the above
+untouched,229,Microscopium,Andromeda,27,Capricornus|Piscis Austrinus|Grus,within30_A_not_A,17.9699,82.4537,0,0,0,0,1,0,0,0.0,A. Capricornus B. Piscis Austrinus C. Grus D. Cap
+untouched,230,Monoceros,Phoenix,27,Canis Major|Canis Minor|Gemini|Orion|Puppis|Hydra|Lepus,within30_A_not_A,27.5066,87.7364,0,0,0,0,1,0,0,0.0,"Canis Major, Canis Minor, Gemini, Orion, Puppis, Hydra, and Lepus. The constellation"
+untouched,231,Musca,Canis Minor,27,Triangulum Australe|Circinus|Chamaeleon,within30_A_not_A,15.3754,100.505,0,0,0,0,1,0,0,0.0,A. Triangulum Australe B. Circinus C. Chamaeleon D. Ap
+untouched,232,Norma,Caelum,27,Ara|Scorpius|Triangulum Australe,within30_A_not_A,15.5776,91.0097,0,0,0,0,1,0,0,0.0,A. Ara B. Scorpius C. Triangulum Australe D. All of the
+untouched,233,Octans,Virgo,27,Pavo|Puppis|Carina|Chamaeleon,other,32.3737,82.6185,0,0,0,0,0,0,1,0.0,A. Pavo B. Puppis C. Carina D. Chamaeleon
+untouched,234,Ophiuchus,Cepheus,27,Hercules|Aquila|Serpens,within30_A_not_A,28.4406,72.4416,0,0,0,0,1,0,0,0.0,A) Hercules B) Aquila C) Hercules and Aquila D) Serpens E
+untouched,235,Orion,Cepheus,27,Taurus|Canis Major|Gemini,within30_A_not_A,27.6798,91.7531,0,0,0,0,1,0,0,0.0,"A) Taurus B) Canis Major C) Gemini D) Taurus, Canis Major"
+untouched,236,Pavo,Hydra,27,Grus|Indus|Apus|Telescopium,within30_A_not_A,19.5811,96.711,0,0,0,0,1,0,0,0.0,A) Grus B) Indus C) Apus D) Telescopium E
+untouched,237,Pegasus,Auriga,27,Andromeda,other,32.7847,57.913,0,0,0,0,0,0,1,0.0,Andromeda The constellation bordering Pegasus is Andromeda. Andromeda is a constellation named after the
+untouched,238,Perseus,Delphinus,27,Andromeda|Cassiopeia,within30_A_not_A,29.8975,63.2839,0,0,0,0,1,0,0,0.0,A) Andromeda B) Cassiopeia C) Andromeda and Cassiopeia
+untouched,239,Phoenix,Monoceros,27,Grus|Tucana,within30_A_not_A,20.8504,104.1529,0,0,0,0,1,0,0,0.0,A. Grus B. Tucana C. Both A and B D. None of the
+untouched,240,Pictor,Pisces,27,Carina|Puppis|Columba|Dorado,within30_A_not_A,20.8272,99.4301,0,0,0,0,1,0,0,0.0,"Carina, Puppis, Columba, and Dorado. The constellation Pictor is located in the southern hemisphere"
+untouched,241,Pisces,Ursa Minor,27,Andromeda|Pegasus|Aries|Cepheus,other,38.4921,61.2585,0,0,0,0,0,0,1,0.0,A) Andromeda B) Pegasus C) Aries D) Cepheus
+untouched,242,Piscis Austrinus,Serpens,27,Grus|Capricornus|Piscis Austrinus,within30_A_not_A,11.8762,84.7324,0,0,0,0,1,0,0,0.0,A. Grus B. Capricornus C. Piscis Austrinus D. Gr
+untouched,243,Puppis,Aries,27,Carina|Vela|Canis Major,within30_A_not_A,24.6082,99.0507,0,0,0,0,1,0,0,0.0,A) Carina B) Vela C) Canis Major D) Carina and Vela
+untouched,244,Pyxis,Canes Venatici,27,Puppis|Antlia|Carina|Pictor,within30_A_not_A,27.9721,110.3835,0,0,0,0,1,0,0,0.0,A. Puppis B. Antlia C. Carina D. Pictor The best
+untouched,245,Reticulum,Sextans,27,Dorado|Horologium|Pictor,within30_A_not_A,11.1096,84.8379,0,0,0,0,1,0,0,0.0,A. Dorado B. Horologium C. Pictor D. All of the above
+untouched,246,Sagitta,Cetus,27,Vulpecula,within30_A_not_A,10.5516,84.5974,0,0,0,0,1,0,0,0.0,Vulpecula The constellation bordering Sagitta constellation is Vulpecula. Vulpecula is a small constellation in
+untouched,247,Sagittarius,Corvus,27,Scorpius|Ophiuchus|Orion,other,71.394,78.5636,0,0,0,0,0,0,1,0.0,A) Scorpius B) Ophiuchus C) Orion D) Scorpius and
+untouched,248,Scorpius,Sculptor,27,Orion|Libra|Ophiuchus|Sagittarius,other,59.199,92.2311,0,0,0,0,0,0,1,0.0,A) Orion B) Libra C) Ophiuchus D) Sagittarius E
+untouched,249,Sculptor,Scorpius,27,Fornax|Cetus|Piscis Austrinus|Grus,within30_A_not_A,27.9253,90.4006,0,0,0,0,1,0,0,0.0,A) Fornax B) Cetus C) Piscis Austrinus D) Grus
+untouched,250,Scutum,Corvus,27,Cygnus|Aquila|Serpens,other,37.9249,99.5498,0,0,0,0,0,0,1,0.0,A) Cygnus B) Cygnus and Aquila C) Serpens D)
+untouched,251,Serpens,Piscis Austrinus,27,Ophiuchus|Hercules,within30_A_not_A,21.0304,83.1618,0,0,0,0,1,0,0,0.0,A) Ophiuchus B) Hercules C) Ophiuchus and Hercules D) Hercules
+untouched,252,Sextans,Reticulum,27,Leo|Hydra|Crater|Crux,within30_A_not_A,29.6265,81.4774,0,0,0,0,1,0,0,0.0,A) Leo B) Hydra C) Crater D) Crux E) None of the
+untouched,253,Taurus,Leo,27,Orion,within30_A_not_A,21.3822,75.7183,0,0,0,0,1,0,0,0.0,Orion A. true B. false C. Maybe D. Other  ## Step 1: Identify
+untouched,254,Telescopium,Columba,27,Pavo|Ara|Piscis Austrinus,within30_A_not_A,23.5556,85.0516,0,0,0,0,1,0,0,0.0,A. Pavo B. Ara C. Piscis Austrinus D. All of the above
+untouched,255,Triangulum,Capricornus,27,Andromeda|Pisces|Aries,within30_A_not_A,21.0991,76.732,0,0,0,0,1,0,0,0.0,A) Andromeda B) Andromeda and Pisces C) Aries D) Pis
+untouched,256,Triangulum Australe,Equuleus,27,Norma|Circinus|Triangulum|Apus,other,43.7109,88.4478,0,0,0,0,0,0,1,0.0,A. Norma B. Circinus C. Triangulum D. Apus E.
+untouched,257,Tucana,Aries,27,Grus|Phoenix|Hydrus,within30_A_not_A,18.6668,83.6029,0,0,0,0,1,0,0,0.0,A. Grus B. Phoenix C. Hydrus D. All of the above E
+untouched,258,Ursa Major,Antlia,27,Cassiopeia|Ursa Minor,other,45.8123,130.2075,0,0,0,0,0,0,1,0.0,A) Cassiopeia B) Ursa Minor C) Cassiopeia and Ursa Minor
+untouched,259,Ursa Minor,Pisces,27,Draco,within30_A_not_A,11.8287,88.7601,0,0,0,0,1,0,0,0.0,"Draco The constellation bordering Ursa Minor is Draco. Draco is a constellation in the northern sky, named after the"
+untouched,260,Vela,Sculptor,27,Carina|Puppis|Pyxis|Antlia,within30_A_not_A,19.893,92.0285,0,0,0,0,1,0,0,0.0,"Carina, Puppis, Pyxis, and Antlia. The Vela constellation is a small constellation in the"
+untouched,261,Virgo,Octans,27,Leo|Serpens|Coma Berenices|Bootes,other,38.7335,109.9152,0,0,0,0,0,0,1,0.0,A) Leo B) Serpens C) Coma Berenices D) Boötes
+untouched,262,Volans,Leo,27,Carina|Chamaeleon|Puppis,within30_A_not_A,19.9201,80.455,0,0,0,0,1,0,0,0.0,A. Carina B. Chamaeleon C. Puppis D. Men The
+untouched,263,Vulpecula,Pavo,27,Cygnus,within30_A_not_A,18.8661,109.5032,0,0,0,0,1,0,0,0.0,Cygnus The constellation bordering Vulpecula is Cygnus. Vulpecula is a small constellation in

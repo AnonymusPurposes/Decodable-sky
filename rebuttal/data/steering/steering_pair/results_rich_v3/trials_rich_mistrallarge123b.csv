@@ -1,0 +1,529 @@
+arm,id,A,B,template,answer,category,deg_from_A,deg_from_B,no_constellation,ramble_A,equals_A,equals_B,within30_A_not_A,within30_B_not_B,other,logodds_change,completion
+self,0,Andromeda,Lepus,0,Perseus,other,31.6887,69.3465,0,0,0,0,0,0,1,1.084995,?  The closest constellation to Andromeda is Perseus. Andromeda and Perseus
+self,2,Antlia,Bootes,0,Hydra,within30_A_not_A,15.5093,77.3612,0,0,0,0,1,0,0,-0.872965,Hydra.  Antlia is a small constellation located in the southern celestial hemisphere
+self,4,Apus,Cetus,0,Triangulum Australe|Circinus|Musca,within30_A_not_A,13.658,102.0685,0,0,0,0,1,0,0,1.1688,? 1. Triangulum Australe 2. Circinus 3. Musca 4. P
+self,6,Aquarius,Chamaeleon,0,Capricornus,within30_A_not_A,21.3146,80.3494,0,0,0,0,1,0,0,-0.587776,Capricornus. Aquarius is located in the southern hemisphere of the sky and is visible in the autumn
+self,8,Aquila,Cetus,0,Serpens|Sagittarius,other,38.9077,114.3395,0,0,0,0,0,0,1,-0.671318,"?  Aquila is bordered by Serpens to the north, Sagittarius to the south"
+self,10,Ara,Columba,0,Scorpius,within30_A_not_A,22.5087,110.5841,0,0,0,0,1,0,0,-0.260492,the constellation of Scorpius.
+self,12,Aries,Tucana,0,Taurus,within30_A_not_A,24.7402,96.2964,0,0,0,0,1,0,0,-1.696529,the constellation of Taurus. Aries is located in the northern hemisphere and is visible in the fall
+self,14,Auriga,Pegasus,0,,ramble_A,,,0,1,0,0,0,0,0,-1.691938,"?  Auriga, the Charioteer, is a prominent constellation in the northern sky."
+self,16,Bootes,Corona Australis,0,,ramble_A,,,0,1,0,0,0,0,0,-0.467539,"?  Bootes is a constellation in the northern sky, and it has several neighboring constellations"
+self,18,Caelum,Norma,0,,ramble_A,,,0,1,0,0,0,0,0,-0.310987,"?  Caelum is a small, faint constellation in the southern sky. The constellations that"
+self,20,Camelopardalis,Lepus,0,,ramble_A,,,0,1,0,0,0,0,0,-0.293602,"?  Camelopardalis is a constellation located in the northern sky, near the North Pole"
+self,22,Cancer,Volans,0,Gemini,within30_A_not_A,21.8057,93.4513,0,0,0,0,1,0,0,-0.289146,"the constellation of Gemini.  Cancer is a zodiac constellation, which means it"
+self,24,Canes Venatici,Pyxis,0,Coma Berenices,within30_A_not_A,18.8259,75.2767,0,0,0,0,1,0,0,-0.207819,the Coma Berenices constellation.  Canes Venatici is a small constellation in
+self,26,Canis Major,Pavo,0,,ramble_A,,,0,1,0,0,0,0,0,-1.986198,"?  Canis Major is a prominent constellation in the southern hemisphere, and it is surrounded by"
+self,28,Canis Minor,Musca,0,,ramble_A,,,0,1,0,0,0,0,0,-0.571814,?  Canis Minor is a small constellation that is bordered by several other constellations. The
+self,30,Capricornus,Corona Borealis,0,Aquila,within30_A_not_A,29.2376,60.5608,0,0,0,0,1,0,0,0.10964,"Aquila.  Capricornus is a constellation located in the southern sky, and it is one"
+self,32,Carina,Cetus,0,,ramble_A,,,0,1,0,0,0,0,0,-0.172741,?  Carina is a constellation in the southern sky. It is bordered by several other constell
+self,34,Cassiopeia,Eridanus,0,Andromeda,within30_A_not_A,22.0249,75.532,0,0,0,0,1,0,0,-0.799414,"Andromeda constellation.  Cassiopeia is a constellation in the northern sky,"
+self,36,Centaurus,Monoceros,0,Hydra,other,42.6083,52.7541,0,0,0,0,0,0,1,1.973919,the constellation of Hydra.  Hydra is the largest of the 88 constell
+self,38,Cepheus,Ophiuchus,0,,ramble_A,,,0,1,0,0,0,0,0,-0.938171,"?  Cepheus is a circumpolar constellation in the northern sky, named after the myth"
+self,40,Cetus,Aquila,0,,ramble_A,,,0,1,0,0,0,0,0,0.279367,?  The constellation Cetus (the Whale) is surrounded by several constellations. The
+self,42,Chamaeleon,Aquarius,0,Musca,within30_A_not_A,12.0498,96.4959,0,0,0,0,1,0,0,-0.618446,the Musca constellation.
+self,44,Circinus,Coma Berenices,0,Musca,within30_A_not_A,14.5299,92.7121,0,0,0,0,1,0,0,0.276165,?  The closest constellation to Circinus is Musca. Circinus is a small and faint
+self,46,Columba,Norma,0,Lepus,within30_A_not_A,16.6419,106.6366,0,0,0,0,1,0,0,1.351425,Lepus constellation.
+self,48,Coma Berenices,Circinus,0,Leo,within30_A_not_A,29.8764,91.5086,0,0,0,0,1,0,0,-6.84569,the constellation of Leo.  Coma Berenices is a small and faint constellation located in
+self,50,Corona Australis,Bootes,0,Sagittarius|Scorpius|Telescopium,within30_A_not_A,17.0493,86.1818,0,0,0,0,1,0,0,1.407782,?  1. Sagittarius 2. Scorpius 3. Telescopium
+self,52,Corona Borealis,Capricornus,0,Hercules,within30_A_not_A,18.5825,71.6433,0,0,0,0,1,0,0,1.939054,Hercules.
+self,54,Corvus,Scutum,0,Virgo,within30_A_not_A,20.0416,80.238,0,0,0,0,1,0,0,-1.597338,Virgo.  ## What is the closest constellation to Corvus?  The closest constell
+self,56,Crater,Orion,0,Leo,other,32.6276,75.7183,0,0,0,0,0,0,1,-0.258856,the constellation of Leo.  Crater is a small constellation located in the southern celestial
+self,58,Crux,Eridanus,0,Centaurus,within30_A_not_A,15.2658,103.6362,0,0,0,0,1,0,0,1.265894,the constellation of Centaurus. Crux is a small but well-known constellation in the southern sky
+self,60,Cygnus,Lynx,0,Draco,other,37.6299,59.9202,0,0,0,0,0,0,1,0.182255,"the constellation of Draco. Draco is a large constellation in the northern sky, representing the dragon"
+self,62,Delphinus,Perseus,0,Aquila,within30_A_not_A,18.7234,108.3855,0,0,0,0,1,0,0,1.269506,"Aquila constellation.  Delphinus is a small constellation in the northern sky, representing the"
+self,64,Dorado,Pisces,0,Caelum,within30_A_not_A,23.6578,75.6385,0,0,0,0,1,0,0,0.941706,the constellation of Caelum.  ### Can you see Dorado from Australia?  Dor
+self,66,Draco,Pisces,0,Ursa Minor,within30_A_not_A,11.8287,89.6624,0,0,0,0,1,0,0,-0.065239,"Ursa Minor.  Draco is a circumpolar constellation, meaning it is visible year-round"
+self,68,Equuleus,Fornax,0,Delphinus,within30_A_not_A,9.2868,97.5768,0,0,0,0,1,0,0,-2.248438,Delphinus.  Equuleus is a small constellation located in the northern hemisphere of the
+self,70,Eridanus,Cassiopeia,0,Taurus,other,39.0243,57.1587,0,0,0,0,0,0,1,1.108955,the constellation of Taurus.  Eridanus is a large constellation located in the southern
+self,72,Fornax,Corona Australis,0,,ramble_A,,,0,1,0,0,0,0,0,-1.12281,"?  Fornax is a small, faint constellation in the southern sky. The constellations that"
+self,74,Gemini,Dorado,0,Orion,within30_A_not_A,29.0514,66.8096,0,0,0,0,1,0,0,-1.072069,"Orion.  Gemini is a prominent constellation in the northern winter sky, and it is b"
+self,76,Grus,Lacerta,0,Piscis Austrinus,within30_A_not_A,15.01,75.8949,0,0,0,0,1,0,0,1.627989,"Piscis Austrinus.  Grus is a constellation in the southern sky, and it is"
+self,78,Hercules,Leo,0,Lyra,within30_A_not_A,20.8242,104.7119,0,0,0,0,1,0,0,-0.835384,the constellation of Lyra.
+self,80,Horologium,Scorpius,0,Reticulum,within30_A_not_A,8.7168,86.178,0,0,0,0,1,0,0,0.622557,Reticulum constellation.  ### What is the closest constellation to Horologium?
+self,82,Hydra,Pavo,0,Cancer,other,46.0706,132.4699,0,0,0,0,0,0,1,-2.800617,"?  The closest constellation to Hydra, the largest constellation in the sky, is Cancer"
+self,84,Hydrus,Taurus,0,Mensa,within30_A_not_A,13.1065,95.0154,0,0,0,0,1,0,0,-1.399109,Mensa.  ### What is the closest constellation to the South Pole?  The constell
+self,86,Indus,Lepus,0,Pavo|Tucana|Grus|Microscopium,within30_A_not_A,17.9183,89.2704,0,0,0,0,1,0,0,0.499908,? 1. Pavo 2. Tucana 3. Grus 4. Microscopium
+self,88,Lacerta,Grus,0,Andromeda,within30_A_not_A,24.0466,90.7883,0,0,0,0,1,0,0,-1.202554,"Andromeda.  Lacerta is a small constellation in the northern sky, named after the l"
+self,90,Leo,Taurus,0,Cancer,within30_A_not_A,29.2594,60.8234,0,0,0,0,1,0,0,-1.480883,"Cancer constellation.  Leo is a prominent constellation in the northern hemisphere, and it"
+self,92,Leo Minor,Serpens,0,Leo,within30_A_not_A,19.0474,85.8019,0,0,0,0,1,0,0,1.483602,"Leo.  Leo Minor is a small and faint constellation in the northern hemisphere, and it"
+self,94,Lepus,Camelopardalis,0,Orion,within30_A_not_A,24.2104,65.8285,0,0,0,0,1,0,0,1.543789,Orion.  Lepus is a small constellation located in the southern celestial hemisphere
+self,96,Libra,Tucana,0,Virgo,other,31.1824,110.8088,0,0,0,0,0,0,1,-1.063681,the constellation of Virgo.
+self,98,Lupus,Delphinus,0,Centaurus,within30_A_not_A,24.0523,115.3437,0,0,0,0,1,0,0,1.506233,the constellation of Centaurus.  Lupus is a small constellation located in the southern sky
+self,100,Lynx,Cygnus,0,Ursa Major,within30_A_not_A,28.5427,77.3987,0,0,0,0,1,0,0,-0.413604,Ursa Major.  Lynx is a constellation in the northern sky. It is one of the
+self,102,Lyra,Telescopium,0,Cygnus,within30_A_not_A,21.3804,96.2199,0,0,0,0,1,0,0,0.660288,"Cygnus.  Cygnus, also known as the Swan or the Northern Cross, is a"
+self,104,Mensa,Scutum,0,Hydrus,within30_A_not_A,13.1065,88.5099,0,0,0,0,1,0,0,2.449133,"the constellation of Hydrus.  Mensa is a small, faint constellation in the"
+self,106,Microscopium,Andromeda,0,Sagittarius,within30_A_not_A,24.3912,102.3921,0,0,0,0,1,0,0,0.022852,Sagittarius.  Microscopium is a small and faint constellation in the southern sky
+self,108,Monoceros,Phoenix,0,Orion,within30_A_not_A,22.4829,82.0202,0,0,0,0,1,0,0,-1.50106,Orion.  Monoceros is a faint constellation that is located on the celestial equator
+self,110,Musca,Canis Minor,0,Chamaeleon,within30_A_not_A,12.0498,88.9358,0,0,0,0,1,0,0,1.337645,the constellation of Chamaeleon.  Musca is a small constellation in the southern sky
+self,112,Norma,Caelum,0,Ara,within30_A_not_A,11.6945,87.6105,0,0,0,0,1,0,0,0.849178,"the constellation of Ara, which is located directly to the south. Norma is a small constellation"
+self,114,Octans,Virgo,0,Apus,within30_A_not_A,13.7374,77.2877,0,0,0,0,1,0,0,-0.102951,the constellation of Apus.  ### What is the closest constellation to the South Pole?
+self,116,Ophiuchus,Cepheus,0,Aquila|Hercules|Libra,other,33.9077,80.8137,0,0,0,0,0,0,1,-1.02275,"?  The closest constellations to Ophiuchus are Aquila, Hercules, Libra, Sc"
+self,118,Orion,Cepheus,0,Taurus,within30_A_not_A,21.3822,74.143,0,0,0,0,1,0,0,-1.276653,Taurus.  Orion is a prominent constellation located on the celestial equator and is one
+self,120,Pavo,Hydra,0,Ara,within30_A_not_A,20.0588,82.3382,0,0,0,0,1,0,0,0.365404,"the constellation of Ara.  Pavo is a constellation in the southern sky, and it"
+self,122,Pegasus,Auriga,0,Andromeda,other,32.7847,57.913,0,0,0,0,0,0,1,0.777985,Andromeda.  The constellation Pegasus is located in the northern hemisphere and is one
+self,124,Perseus,Delphinus,0,Auriga,within30_A_not_A,26.7102,114.578,0,0,0,0,1,0,0,-0.392153,"?  The closest constellation to Perseus is Auriga, the Charioteer. Auriga"
+self,126,Phoenix,Monoceros,0,Sculptor,within30_A_not_A,15.9413,95.5338,0,0,0,0,1,0,0,0.56085,the constellation of the Sculptor.  The Phoenix constellation is located in the southern hem
+self,128,Pictor,Pisces,0,Columba,within30_A_not_A,16.9756,86.0824,0,0,0,0,1,0,0,1.005478,Columba.  ### What is the closest constellation to the Sun?  The closest constellation
+self,130,Pisces,Ursa Minor,0,Aquarius,other,39.7467,104.5327,0,0,0,0,0,0,1,-0.561359,Aquarius. Aquarius is located to the west of Pisces and is one of the 12 zod
+self,132,Piscis Austrinus,Serpens,0,,ramble_A,,,0,1,0,0,0,0,0,0.071655,"?  The constellation Piscis Austrinus, also known as the Southern Fish, is located in"
+self,134,Puppis,Aries,0,Columba,within30_A_not_A,23.4905,71.1111,0,0,0,0,1,0,0,-1.055717,"?  The closest constellation to Puppis is Columba, the Dove. Puppis is"
+self,136,Pyxis,Canes Venatici,0,Hydra,within30_A_not_A,22.836,70.7011,0,0,0,0,1,0,0,0.672575,Hydra.  Pyxis is a small constellation located in the southern celestial hemisphere
+self,138,Reticulum,Sextans,0,Dorado,within30_A_not_A,8.4594,81.996,0,0,0,0,1,0,0,0.393509,the Dorado constellation.  ### Can you see Reticulum from Australia?  Reticulum
+self,140,Sagitta,Cetus,0,Aquila,within30_A_not_A,16.6541,90.0589,0,0,0,0,1,0,0,0.458402,Aquila.  Sagitta is a small constellation located in the northern sky. It is bordered
+self,142,Sagittarius,Corvus,0,Capricornus,within30_A_not_A,27.187,118.0216,0,0,0,0,1,0,0,1.937614,"Capricornus.  Sagittarius is a constellation in the southern sky, and it is"
+self,144,Scorpius,Sculptor,0,Sagittarius,other,31.1752,67.2986,0,0,0,0,0,0,1,-1.06213,the constellation of Sagittarius. It is located directly to the east of Scorpius and is
+self,146,Sculptor,Scorpius,0,Cetus,within30_A_not_A,28.0871,118.6103,0,0,0,0,1,0,0,-0.523758,Cetus.  The Sculptor constellation is located in the southern hemisphere and is
+self,148,Scutum,Corvus,0,Aquila|Serpens,within30_A_not_A,27.1785,86.2699,0,0,0,0,1,0,0,0.35251,"?  The closest constellations to Scutum are Aquila, Serpens, and Sagitt"
+self,150,Serpens,Piscis Austrinus,0,Ophiuchus,within30_A_not_A,15.6909,74.0637,0,0,0,0,1,0,0,-1.397419,Ophiuchus.  Serpens is a unique constellation because it is the only one that is
+self,152,Sextans,Reticulum,0,Leo,within30_A_not_A,18.978,109.0624,0,0,0,0,1,0,0,-2.243305,Leo.
+self,154,Taurus,Leo,0,Orion,within30_A_not_A,21.3822,75.7183,0,0,0,0,1,0,0,-1.610601,"Orion.  Taurus is a prominent constellation in the northern hemisphere's winter sky,"
+self,156,Telescopium,Columba,0,Ara,within30_A_not_A,18.1949,90.103,0,0,0,0,1,0,0,-0.080491,"Ara.  Telescopium is a small and faint constellation in the southern sky, introduced by"
+self,158,Triangulum,Capricornus,0,Andromeda,within30_A_not_A,19.8876,77.8761,0,0,0,0,1,0,0,-1.146236,"?  The closest constellation to Triangulum, the Triangle constellation, is Andromeda"
+self,160,Triangulum Australe,Equuleus,0,Norma,within30_A_not_A,14.432,88.1712,0,0,0,0,1,0,0,-0.133036,the constellation of Norma.
+self,162,Tucana,Aries,0,Grus,within30_A_not_A,22.0707,86.5113,0,0,0,0,1,0,0,2.991564,the constellation of Grus.  ### What is the closest constellation to Tucana?
+self,164,Ursa Major,Antlia,0,Ursa Minor,other,30.9205,119.5284,0,0,0,0,0,0,1,-3.247795,Ursa Minor.  # Ursa Major Constellation  Ursa Major is a constellation
+self,166,Ursa Minor,Pisces,0,Draco,within30_A_not_A,11.8287,88.7601,0,0,0,0,1,0,0,-1.86825,"Draco.  Ursa Minor, also known as the Little Bear, is a small constellation in"
+self,168,Vela,Sculptor,0,Puppis,within30_A_not_A,26.5295,85.8336,0,0,0,0,1,0,0,-1.89925,the constellation of Puppis.  Vela is a constellation in the southern sky. It
+self,170,Virgo,Octans,0,Leo,other,42.5645,110.3254,0,0,0,0,0,0,1,-0.911219,the constellation of Leo.  Virgo is a large constellation that is visible in the night
+self,172,Volans,Leo,0,Carina,within30_A_not_A,8.6881,81.2318,0,0,0,0,1,0,0,-0.344919,the constellation of Carina.  Volans is a small constellation in the southern sky. It
+self,174,Vulpecula,Pavo,0,Cygnus,within30_A_not_A,18.8661,109.5032,0,0,0,0,1,0,0,-0.607615,"Cygnus.  Vulpecula is a small constellation in the northern sky, representing a f"
+target,0,Andromeda,Lepus,0,Orion,within30_B_not_B,74.5831,24.2104,0,0,0,0,0,1,0,6.952814,Orion.  Orion is a prominent constellation located on the celestial equator and is one
+target,2,Antlia,Bootes,0,,ramble_A,,,0,1,0,0,0,0,0,11.542931,"?  Antlia is a small and faint constellation in the northern sky, and it is bordered by"
+target,4,Apus,Cetus,0,Cetus,equals_B,91.7425,0.0,0,0,0,1,0,0,0,12.314444,"the constellation of Cetus.  Apus is a small, faint constellation in the southern"
+target,6,Aquarius,Chamaeleon,0,Musca,within30_B_not_B,96.4959,12.0498,0,0,0,0,0,1,0,8.714428,the constellation of Musca.  ### What is the closest constellation to Aquarius?
+target,8,Aquila,Cetus,0,Cetus,equals_B,90.0589,0.0,0,0,0,1,0,0,0,9.444792,"Cetus.  Aquila is a constellation in the southern hemisphere, and it is"
+target,10,Ara,Columba,0,Orion,other,130.8298,40.7271,0,0,0,0,0,0,1,9.052586,the constellation of Orion.
+target,12,Aries,Tucana,0,Piscis Austrinus,other,81.1698,36.9067,0,0,0,0,0,0,1,4.390963,the constellation of the Southern Fish.  ### What is the closest constellation to Aries?
+target,14,Auriga,Pegasus,0,Perseus,within30_A_not_A,26.7102,64.2095,0,0,0,0,1,0,0,6.677509,the constellation of Perseus. Auriga is located in the northern hemisphere and is visible in the
+target,16,Bootes,Corona Australis,0,Sagittarius|Scorpius|Centaurus,other,78.2261,32.0038,0,0,0,0,0,0,1,10.130884,? 1. Sagittarius 2. Scorpius 3. Centaurus 4. Cor
+target,18,Caelum,Norma,0,Norma|Scorpius|Centaurus,within30_B_not_B,94.1441,16.666,0,0,0,0,0,1,0,7.672804,?  A. Norma  B. Scorpius  C. Centaurus  D
+target,20,Camelopardalis,Lepus,0,Orion,within30_B_not_B,65.8285,24.2104,0,0,0,0,0,1,0,6.870836,the constellation of Orion.
+target,22,Cancer,Volans,0,Carina,within30_B_not_B,82.1377,8.6881,0,0,0,0,0,1,0,10.314302,the constellation of Carina.  ### Can you see the constellation Cancer?  Cancer
+target,24,Canes Venatici,Pyxis,0,,ramble_A,,,0,1,0,0,0,0,0,11.933092,"?  Canes Venatici is a small constellation in the southern hemisphere, and it is"
+target,26,Canis Major,Pavo,0,Pavo,equals_B,91.9955,0.0,0,0,0,1,0,0,0,3.087717,"?  The closest constellation to Canis Major is Pavo, the Peacock. Canis Major"
+target,28,Canis Minor,Musca,0,Monoceros,within30_A_not_A,12.5733,85.269,0,0,0,0,1,0,0,4.493099,the constellation of Monoceros.  Canis Minor is a small constellation located in the southern
+target,30,Capricornus,Corona Borealis,0,Bootes,within30_B_not_B,104.6487,17.1142,0,0,0,0,0,1,0,10.762999,the constellation of Boötes.
+target,32,Carina,Cetus,0,,ramble_A,,,0,1,0,0,0,0,0,9.856213,?  The Carina constellation is located in the southern hemisphere and is part of the zod
+target,34,Cassiopeia,Eridanus,0,Orion,other,75.6301,37.2022,0,0,0,0,0,0,1,8.492113,the constellation of Orion.  Cassiopeia is a prominent constellation in the equ
+target,36,Centaurus,Monoceros,0,,ramble_A,,,0,1,0,0,0,0,0,6.751116,"?  Centaurus is a prominent constellation in the southern hemisphere, and it is bordered by"
+target,38,Cepheus,Ophiuchus,0,,ramble_A,,,0,1,0,0,0,0,0,9.769991,?  Cepheus is a constellation in the northern sky that is surrounded by several other constell
+target,40,Cetus,Aquila,0,Aquila,equals_B,90.0589,0.0,0,0,0,1,0,0,0,10.386286,"Aquila.  Cetus is a constellation located in the summer sky, and it is one of"
+target,42,Chamaeleon,Aquarius,0,Aquarius,equals_B,89.5238,0.0,0,0,0,1,0,0,0,11.153631,the constellation of Aquarius.  Chamaeleon is a small constellation located in the southern
+target,44,Circinus,Coma Berenices,0,Coma Berenices,equals_B,89.3525,0.0,0,0,0,1,0,0,0,17.886307,the constellation of Coma Berenices.  Circinus is a small and faint constellation
+target,46,Columba,Norma,0,Lupus,within30_B_not_B,95.2189,11.9,0,0,0,0,0,1,0,11.355143,the constellation of Lupus.
+target,48,Coma Berenices,Circinus,0,Centaurus,within30_B_not_B,68.7163,22.4473,0,0,0,0,0,1,0,14.080587,the constellation of Centaurus.
+target,50,Corona Australis,Bootes,0,Ursa Major,other,135.6663,45.5556,0,0,0,0,0,0,1,7.387175,the constellation of Ursa Major.
+target,52,Corona Borealis,Capricornus,0,Aquarius|Capricornus,within30_B_not_B,95.49,10.6573,0,0,0,0,0,1,0,12.169638,"?  The closest constellations to Corona Borealis are Aquarius, Capricornus, S"
+target,54,Corvus,Scutum,0,Aquila|Ophiuchus,within30_B_not_B,90.217,19.8165,0,0,0,0,0,1,0,5.403618,"?  The closest constellations to Corvus are Aquila, Ophiuchus, and Sag"
+target,56,Crater,Orion,0,Orion,equals_B,88.6429,0.0,0,0,0,1,0,0,0,8.009422,"Orion.  Crater is a small constellation located in the northern hemisphere, and it is"
+target,58,Crux,Eridanus,0,Orion,other,100.6571,37.2022,0,0,0,0,0,0,1,6.456701,"the constellation of Orion.  Crux, also known as the Southern Cross, is a small"
+target,60,Cygnus,Lynx,0,,ramble_A,,,0,1,0,0,0,0,0,4.446431,"?  Cygnus, the Swan, is a prominent constellation in the northern sky. It"
+target,62,Delphinus,Perseus,0,Taurus,within30_B_not_B,109.78,29.3653,0,0,0,0,0,1,0,7.026999,the constellation of Taurus.  Delphinus is a small but recognizable constellation in the
+target,64,Dorado,Pisces,0,Cetus,within30_B_not_B,64.3041,24.9485,0,0,0,0,0,1,0,9.854736,the constellation of Cetus.  The constellation of Dorado is located in the northern hem
+target,66,Draco,Pisces,0,Cetus,within30_B_not_B,112.536,24.9485,0,0,0,0,0,1,0,11.694866,the constellation of Cetus.  The constellation of Draco is located in the northern hem
+target,68,Equuleus,Fornax,0,Cetus,within30_B_not_B,67.7377,27.6759,0,0,0,0,0,1,0,6.876715,"Cetus.  Equuleus is a small, faint constellation in the southern sky. It is"
+target,70,Eridanus,Cassiopeia,0,Cassiopeia,equals_B,89.615,0.0,0,0,0,1,0,0,0,11.413515,Cassiopeia.  Andromeda a. is the closest constellation to Eridanus
+target,72,Fornax,Corona Australis,0,Sagittarius,within30_B_not_B,93.6172,14.8711,0,0,0,0,0,1,0,3.644232,?  The constellation closest to Fornax is Sagittarius. Fornax is a small
+target,74,Gemini,Dorado,0,Tucana,other,119.4537,33.2993,0,0,0,0,0,0,1,7.268053,"the constellation of Tucana, which is located approximately 3,000 light-years away"
+target,76,Grus,Lacerta,0,Cygnus,within30_B_not_B,92.3728,20.1685,0,0,0,0,0,1,0,9.731981,Cygnus.  Andromeda  Cygnus  Lyra  Peg
+target,78,Hercules,Leo,0,Leo,equals_B,90.6935,0.0,0,0,0,1,0,0,0,4.335667,"the constellation of Leo.  Hercules is a prominent constellation in the northern sky, and it"
+target,80,Horologium,Scorpius,0,Sagittarius|Scorpius,within30_B_not_B,88.0424,15.5876,0,0,0,0,0,1,0,8.685827,?  A. Sagittarius  B. Scorpius  C. Corona Austral
+target,82,Hydra,Pavo,0,Centaurus,other,42.6083,51.8339,0,0,0,0,0,0,1,4.823063,?  The closest constellation to Hydra is Centaurus. Hydra is a large constell
+target,84,Hydrus,Taurus,0,Orion,within30_B_not_B,82.7906,21.3822,0,0,0,0,0,1,0,8.359718,"Orion.  Hydrus is a small constellation located in the northern hemisphere, and it"
+target,86,Indus,Lepus,0,Orion,within30_B_not_B,110.4651,24.2104,0,0,0,0,0,1,0,7.703646,"?  The closest constellation to Indus is Orion, the hunter. Orion is one of"
+target,88,Lacerta,Grus,0,Microscopium,within30_B_not_B,83.681,19.6629,0,0,0,0,0,1,0,8.944277,"the constellation of the Microscope.  Lacerta is a small, faint constellation in the"
+target,90,Leo,Taurus,0,Orion,within30_B_not_B,75.7183,21.3822,0,0,0,0,0,1,0,6.276145,Orion.  The constellation Orion is one of the most recognizable constellations in the night
+target,92,Leo Minor,Serpens,0,Sagittarius,other,138.8672,50.636,0,0,0,0,0,0,1,6.196969,the constellation of Sagittarius.
+target,94,Lepus,Camelopardalis,0,Ursa Minor,other,119.2781,30.3908,0,0,0,0,0,0,1,9.862553,"Ursa Minor.  Lepus, the constellation, is not particularly close to Ursa Minor ("
+target,96,Libra,Tucana,0,Piscis Austrinus,other,94.9461,36.9067,0,0,0,0,0,0,1,3.016159,the constellation of the Southern Fish (Piscis Austrinus). It is located directly south of Libra
+target,98,Lupus,Delphinus,0,Aquila,within30_B_not_B,73.008,18.7234,0,0,0,0,0,1,0,8.257345,"Aquila.  Lupus is a small constellation in the northern hemisphere, and it is"
+target,100,Lynx,Cygnus,0,Cygnus,equals_B,89.7682,0.0,0,0,0,1,0,0,0,4.512046,"Cygnus.  Cygnus, also known as the Swan, is a prominent constellation"
+target,102,Lyra,Telescopium,0,Centaurus|Scorpius|Ara|Cygnus,other,75.6151,51.4081,0,0,0,0,0,0,1,5.841339,? 1. Centaurus 2. Scorpius 3. Ara 4. Cygnus
+target,104,Mensa,Scutum,0,,ramble_A,,,0,1,0,0,0,0,0,12.641272,?  The constellation Mensa is located in the southern sky and is one of the smallest constellations
+target,106,Microscopium,Andromeda,0,Andromeda,equals_B,91.8392,0.0,0,0,0,1,0,0,0,7.39934,"Andromeda.  Andromeda is a constellation in the northern sky, named after the mythological"
+target,108,Monoceros,Phoenix,0,Phoenix,equals_B,90.4524,0.0,0,0,0,1,0,0,0,7.192064,"the constellation of Phoenix.  Monoceros, the Unicorn, is a faint constellation"
+target,110,Musca,Canis Minor,0,Orion,other,99.5578,30.3927,0,0,0,0,0,0,1,8.225712,Orion.
+target,112,Norma,Caelum,0,Lepus,within30_B_not_B,106.6366,21.6331,0,0,0,0,0,1,0,9.003293,"the constellation of Lepus.  Norma is a small, faint constellation in the southern"
+target,114,Octans,Virgo,0,Virgo,equals_B,89.99,0.0,0,0,0,1,0,0,0,8.936125,the constellation of Virgo.  ## What is the closest constellation to Octans?
+target,116,Ophiuchus,Cepheus,0,Andromeda,other,108.8886,35.8598,0,0,0,0,0,0,1,9.044062,the constellation of Andromeda.  Andromeda is a circumpolar constellation in the
+target,118,Orion,Cepheus,0,Cassiopeia,within30_B_not_B,75.6301,17.9683,0,0,0,0,0,1,0,7.646885,the constellation of Cassiopeia.  Cassiopeia is a circumpolar constell
+target,120,Pavo,Hydra,0,Hydra,equals_B,89.5881,0.0,0,0,0,1,0,0,0,10.585821,the constellation of Hydra.
+target,122,Pegasus,Auriga,0,,ramble_A,,,0,1,0,0,0,0,0,9.130976,"?  Pegasus is a prominent constellation in the northern sky, and it is surrounded by several"
+target,124,Perseus,Delphinus,0,Aquila,within30_B_not_B,108.3855,18.7234,0,0,0,0,0,1,0,7.26342,Aquila.  Aquila is located in the northern hemisphere of the sky and is visible in the
+target,126,Phoenix,Monoceros,0,Orion,within30_B_not_B,82.0202,22.4829,0,0,0,0,0,1,0,10.389769,"Orion.  Orion is one of the most recognizable constellations in the night sky, known for"
+target,128,Pictor,Pisces,0,Andromeda,within30_B_not_B,112.7862,29.5957,0,0,0,0,0,1,0,9.23698,Andromeda.  The constellation Andromeda is located in the northern hemisphere and is one
+target,130,Pisces,Ursa Minor,0,Ursa Minor,equals_B,89.6624,0.0,0,0,0,1,0,0,0,10.795361,"Ursa Minor.  Ursa Minor, also known as the Little Bear, is a small constellation"
+target,132,Piscis Austrinus,Serpens,0,Aquila,other,49.8272,47.1457,0,0,0,0,0,0,1,9.981131,?  The closest constellation to Piscis Austrinus (the Northern Crown) is Aquila (
+target,134,Puppis,Aries,0,,ramble_A,,,0,1,0,0,0,0,0,6.57111,?  The constellation Puppis is located in the northern sky and is part of the zodiac
+target,136,Pyxis,Canes Venatici,0,Ursa Major,within30_B_not_B,87.2624,25.3673,0,0,0,0,0,1,0,12.110431,"Ursa Major.  Pyxis is a small and faint constellation in the northern sky, and it is"
+target,138,Reticulum,Sextans,0,Leo,within30_B_not_B,109.0624,18.978,0,0,0,0,0,1,0,7.542334,the constellation of Leo.  Reticulum is a small constellation located in the southern celest
+target,140,Sagitta,Cetus,0,Cetus,equals_B,91.8536,0.0,0,0,0,1,0,0,0,9.571231,Cetus.  Sagitta is a small constellation located in the southern sky. It is one
+target,142,Sagittarius,Corvus,0,Virgo,within30_B_not_B,86.9595,20.0416,0,0,0,0,0,1,0,11.447252,the constellation of Virgo.  Virgo is located to the west of Sagittarius and
+target,144,Scorpius,Sculptor,0,Cetus,within30_B_not_B,118.6103,28.0871,0,0,0,0,0,1,0,7.330872,the constellation of Cetus.  Cetus is a large constellation in the southern sky
+target,146,Sculptor,Scorpius,0,Scorpius|Corona Australis|Centaurus,within30_B_not_B,86.7367,22.5283,0,0,0,0,0,1,0,11.062935,?  A. Scorpius  B. Corona Australis  C. Centaurus
+target,148,Scutum,Corvus,0,Virgo,within30_B_not_B,80.238,20.0416,0,0,0,0,0,1,0,6.862923,the constellation of Virgo.  ## What is the closest constellation to Scutum?
+target,150,Serpens,Piscis Austrinus,0,Sagittarius,other,50.636,40.3418,0,0,0,0,0,0,1,5.401987,"the constellation of Sagittarius. Serpens is divided into two parts, Serpens Caput"
+target,152,Sextans,Reticulum,0,Tucana,within30_B_not_B,110.3922,26.9694,0,0,0,0,0,1,0,5.208429,the constellation of Tucana.  ### Can you see Sextans from Australia?  S
+target,154,Taurus,Leo,0,Virgo,other,132.3861,42.5645,0,0,0,0,0,0,1,5.855327,"the constellation of Virgo.  Virgo is the sixth largest constellation in the sky,"
+target,156,Telescopium,Columba,0,Orion,other,128.866,40.7271,0,0,0,0,0,0,1,11.193328,the constellation of Orion.
+target,158,Triangulum,Capricornus,0,Aquila|Aquarius|Capricornus,within30_B_not_B,84.4086,16.8507,0,0,0,0,0,1,0,6.354525,"?  The closest constellations to Triangulum are Aquila, Aquarius, and Capricornus"
+target,160,Triangulum Australe,Equuleus,0,Aquila,within30_B_not_B,77.9428,24.3793,0,0,0,0,0,1,0,11.414101,"Aquila.  Aquila is located in the northern hemisphere of the sky, while Triangulum"
+target,162,Tucana,Aries,0,,ramble_A,,,0,1,0,0,0,0,0,7.751699,?  The constellation Tucana is located in the northern hemisphere and is bordered by several
+target,164,Ursa Major,Antlia,0,Canis Major,other,93.5016,45.0854,0,0,0,0,0,0,1,6.279871,"the constellation of Canis Major, which contains the brightest star in the night sky, Sirius."
+target,166,Ursa Minor,Pisces,0,Cetus,within30_B_not_B,111.3244,24.9485,0,0,0,0,0,1,0,9.396362,Cetus.  The constellation Cetus is located in the northern hemisphere and is visible
+target,168,Vela,Sculptor,0,Cetus,within30_B_not_B,102.1914,28.0871,0,0,0,0,0,1,0,4.508566,the constellation of Cetus.  The constellation of Cetus is located in the southern
+target,170,Virgo,Octans,0,Centaurus,other,43.3073,47.189,0,0,0,0,0,0,1,6.152382,?  ### 1. **Centaurus**    - **Description**: Centaurus is a large and prominent
+target,172,Volans,Leo,0,Leo,equals_B,89.8664,0.0,0,0,0,1,0,0,0,7.845198,"Leo.  Volans is a small and faint constellation in the northern hemisphere, and it is"
+target,174,Vulpecula,Pavo,0,Sagittarius,other,55.2479,37.849,0,0,0,0,0,0,1,10.6359,"the constellation of Sagittarius.  Vulpecula is a small, faint constellation"
+untouched,0,Andromeda,Lepus,0,Triangulum,within30_A_not_A,19.8876,70.9512,0,0,0,0,1,0,0,0.0,"?  The closest constellation to Andromeda is likely Triangulum, also known as the Triangle"
+untouched,2,Antlia,Bootes,0,Hydra,within30_A_not_A,15.5093,77.3612,0,0,0,0,1,0,0,0.0,"?  The closest constellation to Antlia is Hydra. Antlia, also known as the Air"
+untouched,4,Apus,Cetus,0,Octans,within30_A_not_A,13.7374,78.5425,0,0,0,0,1,0,0,0.0,?  A. Octans
+untouched,6,Aquarius,Chamaeleon,0,Capricornus,within30_A_not_A,21.3146,80.3494,0,0,0,0,1,0,0,0.0,Capricornus.
+untouched,8,Aquila,Cetus,0,Sagittarius,other,30.6698,91.6577,0,0,0,0,0,0,1,0.0,?  A. Sagittarius
+untouched,10,Ara,Columba,0,Scorpius,within30_A_not_A,22.5087,110.5841,0,0,0,0,1,0,0,0.0,the constellation of Scorpius.
+untouched,12,Aries,Tucana,0,Taurus,within30_A_not_A,24.7402,96.2964,0,0,0,0,1,0,0,0.0,the constellation of Taurus. Taurus is located to the west of Aries and is easily recognizable by
+untouched,14,Auriga,Pegasus,0,Perseus,within30_A_not_A,26.7102,64.2095,0,0,0,0,1,0,0,0.0,?  A. Perseus
+untouched,16,Bootes,Corona Australis,0,Ursa Major,other,45.5556,135.6663,0,0,0,0,0,0,1,0.0,?  A. Ursa Major
+untouched,18,Caelum,Norma,0,Eridanus,within30_A_not_A,21.0134,107.34,0,0,0,0,1,0,0,0.0,Eridanus constellation.
+untouched,20,Camelopardalis,Lepus,0,Ursa Minor,other,30.3908,119.2781,0,0,0,0,0,0,1,0.0,Ursa Minor.
+untouched,22,Cancer,Volans,0,Leo,within30_A_not_A,29.2594,89.8664,0,0,0,0,1,0,0,0.0,Leo constellation.
+untouched,24,Canes Venatici,Pyxis,0,Ursa Major,within30_A_not_A,25.3673,87.2624,0,0,0,0,1,0,0,0.0,Ursa Major.  Canes Venatici is a small constellation in the northern sky. It was
+untouched,26,Canis Major,Pavo,0,Monoceros,within30_A_not_A,19.762,111.7205,0,0,0,0,1,0,0,0.0,"?  The constellation closest to Canis Major is Monoceros, the Unicorn. Canis"
+untouched,28,Canis Minor,Musca,0,Monoceros,within30_A_not_A,12.5733,85.269,0,0,0,0,1,0,0,0.0,?  A. Monoceros
+untouched,30,Capricornus,Corona Borealis,0,Aquila|Sagittarius,within30_A_not_A,28.2123,68.3166,0,0,0,0,1,0,0,0.0,"?  Capricornus is bordered by Aquila to the northwest, Sagittarius to the"
+untouched,32,Carina,Cetus,0,,ramble_A,,,0,1,0,0,0,0,0,0.0,?  The Carina constellation is located in the southern sky and is part of the larger constellation
+untouched,34,Cassiopeia,Eridanus,0,Andromeda,within30_A_not_A,22.0249,75.532,0,0,0,0,1,0,0,0.0,Andromeda.
+untouched,36,Centaurus,Monoceros,0,Hydra,other,42.6083,52.7541,0,0,0,0,0,0,1,0.0,?  A. Hydra
+untouched,38,Cepheus,Ophiuchus,0,,ramble_A,,,0,1,0,0,0,0,0,0.0,?  Cepheus is a northern constellation that is bordered by several other constellations.
+untouched,40,Cetus,Aquila,0,,ramble_A,,,0,1,0,0,0,0,0,0.0,?  Cetus is a large constellation located in the southern hemisphere of the sky. It
+untouched,42,Chamaeleon,Aquarius,0,,ramble_A,,,0,1,0,0,0,0,0,0.0,?  The Chamaeleon constellation is located in the southern sky and is relatively small and faint.
+untouched,44,Circinus,Coma Berenices,0,Musca,within30_A_not_A,14.5299,92.7121,0,0,0,0,1,0,0,0.0,?  The constellation closest to Circinus is Musca. Circinus is a small and faint
+untouched,46,Columba,Norma,0,Caelum,within30_A_not_A,12.3727,90.0819,0,0,0,0,1,0,0,0.0,the constellation of Caelum.
+untouched,48,Coma Berenices,Circinus,0,Canes Venatici,within30_A_not_A,18.8259,105.9769,0,0,0,0,1,0,0,0.0,Canes Venatici.  Coma Berenices is a small constellation located in the northern sky
+untouched,50,Corona Australis,Bootes,0,Sagittarius,within30_A_not_A,14.8711,87.125,0,0,0,0,1,0,0,0.0,Sagittarius.  Corona Australis is a small constellation located in the southern celestial
+untouched,52,Corona Borealis,Capricornus,0,Bootes,within30_A_not_A,17.1142,104.6487,0,0,0,0,1,0,0,0.0,"?  The closest constellation to Corona Borealis is Boötes, the Herdsman."
+untouched,54,Corvus,Scutum,0,Hydra,within30_A_not_A,28.3354,117.4874,0,0,0,0,1,0,0,0.0,?  The constellation closest to Corvus is Hydra. Corvus is a small const
+untouched,56,Crater,Orion,0,Hydra,within30_A_not_A,14.3761,75.2211,0,0,0,0,1,0,0,0.0,Hydra.  Crater is a small constellation located in the southern celestial hemisphere
+untouched,58,Crux,Eridanus,0,Musca,within30_A_not_A,10.114,82.5809,0,0,0,0,1,0,0,0.0,"?  The closest constellation to Crux, also known as the Southern Cross, is Musca, the"
+untouched,60,Cygnus,Lynx,0,Lyra,within30_A_not_A,21.3804,94.9359,0,0,0,0,1,0,0,0.0,the constellation of Lyra.
+untouched,62,Delphinus,Perseus,0,Equuleus,within30_A_not_A,9.2868,87.9839,0,0,0,0,1,0,0,0.0,Equuleus.
+untouched,64,Dorado,Pisces,0,Caelum,within30_A_not_A,23.6578,75.6385,0,0,0,0,1,0,0,0.0,the constellation of Caelum.
+untouched,66,Draco,Pisces,0,Ursa Minor,within30_A_not_A,11.8287,89.6624,0,0,0,0,1,0,0,0.0,Ursa Minor.
+untouched,68,Equuleus,Fornax,0,Delphinus,within30_A_not_A,9.2868,97.5768,0,0,0,0,1,0,0,0.0,?  A. Delphinus
+untouched,70,Eridanus,Cassiopeia,0,Taurus,other,39.0243,57.1587,0,0,0,0,0,0,1,0.0,the constellation of Taurus.
+untouched,72,Fornax,Corona Australis,0,Eridanus,within30_A_not_A,17.2493,106.3757,0,0,0,0,1,0,0,0.0,?  The constellation closest to Fornax is Eridanus. Fornax is a small and
+untouched,74,Gemini,Dorado,0,Taurus,other,39.2101,78.8435,0,0,0,0,0,0,1,0.0,the constellation of Taurus.
+untouched,76,Grus,Lacerta,0,Phoenix,within30_A_not_A,23.2999,97.5304,0,0,0,0,1,0,0,0.0,the Phoenix constellation.
+untouched,78,Hercules,Leo,0,Lyra,within30_A_not_A,20.8242,104.7119,0,0,0,0,1,0,0,0.0,the constellation of Lyra.
+untouched,80,Horologium,Scorpius,0,Eridanus,other,33.0489,124.6888,0,0,0,0,0,0,1,0.0,Eridanus constellation.
+untouched,82,Hydra,Pavo,0,Corvus,within30_A_not_A,28.3354,80.6242,0,0,0,0,1,0,0,0.0,?  The constellation closest to Hydra is Corvus. Hydra is a large const
+untouched,84,Hydrus,Taurus,0,Tucana,within30_A_not_A,15.529,96.2964,0,0,0,0,1,0,0,0.0,Tucana.  Hydrus is a small constellation in the southern sky. It was one of
+untouched,86,Indus,Lepus,0,Telescopium,within30_A_not_A,19.5284,105.7981,0,0,0,0,1,0,0,0.0,?  A. Telescopium
+untouched,88,Lacerta,Grus,0,Andromeda,within30_A_not_A,24.0466,90.7883,0,0,0,0,1,0,0,0.0,Andromeda.
+untouched,90,Leo,Taurus,0,Cancer,within30_A_not_A,29.2594,60.8234,0,0,0,0,1,0,0,0.0,the constellation of Cancer.
+untouched,92,Leo Minor,Serpens,0,Leo,within30_A_not_A,19.0474,85.8019,0,0,0,0,1,0,0,0.0,Leo.  Leo Minor is a small and faint constellation located in the northern celestial hemis
+untouched,94,Lepus,Camelopardalis,0,Orion,within30_A_not_A,24.2104,65.8285,0,0,0,0,1,0,0,0.0,the Orion constellation.
+untouched,96,Libra,Tucana,0,Virgo,other,31.1824,110.8088,0,0,0,0,0,0,1,0.0,the constellation of Virgo.
+untouched,98,Lupus,Delphinus,0,Centaurus,within30_A_not_A,24.0523,115.3437,0,0,0,0,1,0,0,0.0,Centaurus.  Lupus is a small constellation in the southern sky. It is one of the
+untouched,100,Lynx,Cygnus,0,Ursa Major,within30_A_not_A,28.5427,77.3987,0,0,0,0,1,0,0,0.0,"Ursa Major.  Lynx is a small and faint constellation in the northern sky, introduced by"
+untouched,102,Lyra,Telescopium,0,Cygnus,within30_A_not_A,21.3804,96.2199,0,0,0,0,1,0,0,0.0,Cygnus.
+untouched,104,Mensa,Scutum,0,Octans,within30_A_not_A,16.2248,75.8671,0,0,0,0,1,0,0,0.0,the Octans constellation.
+untouched,106,Microscopium,Andromeda,0,Sagittarius,within30_A_not_A,24.3912,102.3921,0,0,0,0,1,0,0,0.0,Sagittarius.  Microscopium is a small and faint constellation in the southern sky
+untouched,108,Monoceros,Phoenix,0,,ramble_A,,,0,1,0,0,0,0,0,0.0,"?  The constellation Monoceros, the Unicorn, is bordered by several constellations"
+untouched,110,Musca,Canis Minor,0,Chamaeleon,within30_A_not_A,12.0498,88.9358,0,0,0,0,1,0,0,0.0,Chamaeleon.  Musca is a small constellation in the southern sky. It was one of
+untouched,112,Norma,Caelum,0,Ara,within30_A_not_A,11.6945,87.6105,0,0,0,0,1,0,0,0.0,the Ara constellation.
+untouched,114,Octans,Virgo,0,Tucana,within30_A_not_A,21.3558,110.8088,0,0,0,0,1,0,0,0.0,the Tucana constellation.
+untouched,116,Ophiuchus,Cepheus,0,,ramble_A,,,0,1,0,0,0,0,0,0.0,"?  The constellation Ophiuchus is bordered by several constellations, making it difficult to"
+untouched,118,Orion,Cepheus,0,Taurus,within30_A_not_A,21.3822,74.143,0,0,0,0,1,0,0,0.0,"?  The closest constellation to Orion is Taurus, the Bull. Taurus is located just to"
+untouched,120,Pavo,Hydra,0,,ramble_A,,,0,1,0,0,0,0,0,0.0,"?  The constellation Pavo, also known as the Peacock, is located in the southern sky"
+untouched,122,Pegasus,Auriga,0,Andromeda,other,32.7847,57.913,0,0,0,0,0,0,1,0.0,Andromeda.
+untouched,124,Perseus,Delphinus,0,Cassiopeia,within30_A_not_A,28.1064,67.6104,0,0,0,0,1,0,0,0.0,Cassiopeia.
+untouched,126,Phoenix,Monoceros,0,Piscis Austrinus,other,33.2898,122.8303,0,0,0,0,0,0,1,0.0,the constellation of the Southern Fish.  The Phoenix constellation is located in the southern hemisphere
+untouched,128,Pictor,Pisces,0,Columba,within30_A_not_A,16.9756,86.0824,0,0,0,0,1,0,0,0.0,Columba.  Pictor is a small and faint constellation in the southern sky. It was introduced
+untouched,130,Pisces,Ursa Minor,0,Aries,other,30.5941,82.9331,0,0,0,0,0,0,1,0.0,the constellation of Aries.
+untouched,132,Piscis Austrinus,Serpens,0,Capricornus,within30_A_not_A,20.6184,71.0223,0,0,0,0,1,0,0,0.0,Capricornus.
+untouched,134,Puppis,Aries,0,,ramble_A,,,0,1,0,0,0,0,0,0.0,?  The constellation Puppis is bordered by several other constellations. The closest ones are
+untouched,136,Pyxis,Canes Venatici,0,Puppis,within30_A_not_A,16.6607,105.7064,0,0,0,0,1,0,0,0.0,the constellation of Puppis.
+untouched,138,Reticulum,Sextans,0,Horologium,within30_A_not_A,8.7168,96.5755,0,0,0,0,1,0,0,0.0,"Horologium constellation.  Reticulum is a small, faint constellation in the southern sky"
+untouched,140,Sagitta,Cetus,0,Aquila,within30_A_not_A,16.6541,90.0589,0,0,0,0,1,0,0,0.0,Aquila.
+untouched,142,Sagittarius,Corvus,0,Ophiuchus,other,34.9659,72.3908,0,0,0,0,0,0,1,0.0,the constellation of Ophiuchus. Ophiuchus is located just north of Sagittarius and
+untouched,144,Scorpius,Sculptor,0,Ophiuchus,within30_A_not_A,28.1418,101.8397,0,0,0,0,1,0,0,0.0,?  The constellation closest to Scorpius is Ophiuchus. Ophiuchus is
+untouched,146,Sculptor,Scorpius,0,Phoenix,within30_A_not_A,15.9413,83.4991,0,0,0,0,1,0,0,0.0,the Phoenix constellation.
+untouched,148,Scutum,Corvus,0,Sagittarius,within30_A_not_A,19.3838,91.0975,0,0,0,0,1,0,0,0.0,?  A. Sagittarius
+untouched,150,Serpens,Piscis Austrinus,0,Ophiuchus,within30_A_not_A,15.6909,74.0637,0,0,0,0,1,0,0,0.0,Ophiuchus.
+untouched,152,Sextans,Reticulum,0,Hydra,within30_A_not_A,16.2796,77.3099,0,0,0,0,1,0,0,0.0,Hydra.
+untouched,154,Taurus,Leo,0,Orion,within30_A_not_A,21.3822,75.7183,0,0,0,0,1,0,0,0.0,Orion.
+untouched,156,Telescopium,Columba,0,Ara,within30_A_not_A,18.1949,90.103,0,0,0,0,1,0,0,0.0,the constellation of Ara.
+untouched,158,Triangulum,Capricornus,0,Andromeda,within30_A_not_A,19.8876,77.8761,0,0,0,0,1,0,0,0.0,Andromeda.
+untouched,160,Triangulum Australe,Equuleus,0,Apus,within30_A_not_A,9.9523,93.5305,0,0,0,0,1,0,0,0.0,?  A. Apus
+untouched,162,Tucana,Aries,0,Phoenix,within30_A_not_A,18.4008,72.438,0,0,0,0,1,0,0,0.0,the Phoenix constellation.
+untouched,164,Ursa Major,Antlia,0,Ursa Minor,other,30.9205,119.5284,0,0,0,0,0,0,1,0.0,"Ursa Minor.  Ursa Minor, also known as the Little Bear or the Little Dipper, is"
+untouched,166,Ursa Minor,Pisces,0,Draco,within30_A_not_A,11.8287,88.7601,0,0,0,0,1,0,0,0.0,the constellation of Draco.
+untouched,168,Vela,Sculptor,0,Carina,within30_A_not_A,16.4651,75.1842,0,0,0,0,1,0,0,0.0,the constellation of Carina.
+untouched,170,Virgo,Octans,0,Leo,other,42.5645,110.3254,0,0,0,0,0,0,1,0.0,the constellation of Leo.
+untouched,172,Volans,Leo,0,Dorado,within30_A_not_A,18.5893,100.7087,0,0,0,0,1,0,0,0.0,"Dorado.  Volans is a small constellation in the southern sky, introduced by Dutch astronomers Piet"
+untouched,174,Vulpecula,Pavo,0,Cygnus,within30_A_not_A,18.8661,109.5032,0,0,0,0,1,0,0,0.0,Cygnus.
+self,1,Andromeda,Lepus,18,Cassiopeia,within30_A_not_A,22.0249,97.3128,0,0,0,0,1,0,0,0.209532,"Cassiopeia.  Andromeda is a constellation in the northern sky, named after the myth"
+self,3,Antlia,Bootes,18,Hydra,within30_A_not_A,15.5093,77.3612,0,0,0,0,1,0,0,-0.992552,Hydra.  Antlia is a small constellation located in the southern hemisphere. It is
+self,5,Apus,Cetus,18,Triangulum Australe,within30_A_not_A,9.9523,100.1983,0,0,0,0,1,0,0,0.841648,"the constellation of Triangulum Australe.  Around 1500, the Dutch nav"
+self,7,Aquarius,Chamaeleon,18,Capricornus,within30_A_not_A,21.3146,80.3494,0,0,0,0,1,0,0,-1.391514,"Capricornus.  Capricornus is a constellation in the southern sky, one of the"
+self,9,Aquila,Cetus,18,Sagittarius,other,30.6698,91.6577,0,0,0,0,0,0,1,-0.54863,the constellation of Sagittarius.  The constellation of Aquila is located in the northern
+self,11,Ara,Columba,18,Scorpius,within30_A_not_A,22.5087,110.5841,0,0,0,0,1,0,0,-0.837325,the constellation of Scorpius.  Ara is a small constellation in the southern sky
+self,13,Aries,Tucana,18,Taurus,within30_A_not_A,24.7402,96.2964,0,0,0,0,1,0,0,-2.147486,the constellation of Taurus.  The constellation of Taurus is located in the northern hemis
+self,15,Auriga,Pegasus,18,Gemini,within30_A_not_A,22.8775,112.4846,0,0,0,0,1,0,0,-1.803684,"the Gemini constellation.  Auriga is a constellation in the northern hemisphere,"
+self,17,Bootes,Corona Australis,18,Virgo,other,37.2728,80.5876,0,0,0,0,0,0,1,-0.811855,the constellation of Virgo.  The constellation of Virgo is the largest constellation in
+self,19,Caelum,Norma,18,Orion,other,44.5725,129.8293,0,0,0,0,0,0,1,-0.440561,"the constellation of Orion.  Caelum is a small, faint constellation in the southern"
+self,21,Camelopardalis,Lepus,18,Ursa Minor,other,30.3908,119.2781,0,0,0,0,0,0,1,-0.981148,Ursa Minor.  # Perseus  Perseus is a circumpolar constellation in
+self,23,Cancer,Volans,18,Gemini,within30_A_not_A,21.8057,93.4513,0,0,0,0,1,0,0,-0.476595,"the Gemini constellation.  Cancer is a zodiac constellation, which means it is"
+self,25,Canes Venatici,Pyxis,18,Ursa Major,within30_A_not_A,25.3673,87.2624,0,0,0,0,1,0,0,-0.94341,Ursa Major.  # The Coma Berenices Constellation  Coma Berenices is
+self,27,Canis Major,Pavo,18,Orion,other,32.6057,116.024,0,0,0,0,0,0,1,-1.685055,Orion.  Orion is a prominent constellation located on the celestial equator and one of
+self,29,Canis Minor,Musca,18,Orion,other,30.3927,99.5578,0,0,0,0,0,0,1,0.085764,the constellation of Orion.  The constellation of Orion is one of the most recognizable
+self,31,Capricornus,Corona Borealis,18,Aquila,within30_A_not_A,29.2376,60.5608,0,0,0,0,1,0,0,0.281052,Aquila constellation.  Aquila constellation is located in the southern hemisphere of the
+self,33,Carina,Cetus,18,Centaurus,other,39.2369,124.3963,0,0,0,0,0,0,1,-1.003403,the constellation of Centaurus.  Carina is a constellation in the southern sky. It is
+self,35,Cassiopeia,Eridanus,18,Andromeda,within30_A_not_A,22.0249,75.532,0,0,0,0,1,0,0,-1.417446,Andromeda constellation.  # Perseus  Perseus is a constellation in
+self,37,Centaurus,Monoceros,18,Hydra,other,42.6083,52.7541,0,0,0,0,0,0,1,1.71402,the constellation of Hydra.  ## What is the closest constellation to Centaurus?
+self,39,Cepheus,Ophiuchus,18,Cassiopeia,within30_A_not_A,17.9683,106.4764,0,0,0,0,1,0,0,-1.683798,Cassiopeia.  # Cassiopeia  Cassiopeia is a circumpolar
+self,41,Cetus,Aquila,18,Pisces,within30_A_not_A,24.9485,74.8051,0,0,0,0,1,0,0,-0.029757,Pisces constellation.  The constellation Cetus is located in the southern hemisphere
+self,43,Chamaeleon,Aquarius,18,Carina,within30_A_not_A,18.8536,104.3656,0,0,0,0,1,0,0,-0.545273,the Carina constellation.  ### What is the closest constellation to Chamaeleon?
+self,45,Circinus,Coma Berenices,18,Lupus,within30_A_not_A,21.7309,74.1156,0,0,0,0,1,0,0,-0.639179,the constellation of Lupus.  Circinus is a small and faint constellation in the
+self,47,Columba,Norma,18,Lepus,within30_A_not_A,16.6419,106.6366,0,0,0,0,1,0,0,0.50348,Lepus constellation.  Columba is a small constellation located in the southern hemis
+self,49,Coma Berenices,Circinus,18,Leo,within30_A_not_A,29.8764,91.5086,0,0,0,0,1,0,0,-7.601393,the constellation of Leo.  The constellation of Coma Berenices is a small and faint
+self,51,Corona Australis,Bootes,18,Sagittarius,within30_A_not_A,14.8711,87.125,0,0,0,0,1,0,0,0.755602,Sagittarius.  The constellation Corona Australis is located in the southern hemisphere of
+self,53,Corona Borealis,Capricornus,18,Hercules,within30_A_not_A,18.5825,71.6433,0,0,0,0,1,0,0,1.100729,the Hercules constellation.
+self,55,Corvus,Scutum,18,Virgo,within30_A_not_A,20.0416,80.238,0,0,0,0,1,0,0,-2.353298,Virgo constellation.  Corvus is a small constellation located in the southern hemisphere
+self,57,Crater,Orion,18,Leo,other,32.6276,75.7183,0,0,0,0,0,0,1,-0.900777,the constellation of Leo.  Crater is a small constellation that is located in the southern hem
+self,59,Crux,Eridanus,18,Centaurus,within30_A_not_A,15.2658,103.6362,0,0,0,0,1,0,0,1.390659,the constellation of Centaurus.  Crux is a small but bright constellation in the southern
+self,61,Cygnus,Lynx,18,Draco,other,37.6299,59.9202,0,0,0,0,0,0,1,-0.134493,"Draco constellation.  Cygnus is a northern constellation, also known as the Sw"
+self,63,Delphinus,Perseus,18,Aquila,within30_A_not_A,18.7234,108.3855,0,0,0,0,1,0,0,1.7637,"Aquila.  Delphinus is a small constellation in the northern sky, representing the dolphin"
+self,65,Dorado,Pisces,18,Canis Major,other,43.3962,96.697,0,0,0,0,0,0,1,0.630354,the constellation of the Great Dog.  ### What is the brightest star in Dorado?
+self,67,Draco,Pisces,18,Ursa Minor,within30_A_not_A,11.8287,89.6624,0,0,0,0,1,0,0,-1.008797,Ursa Minor.  # Draco Constellation  Draco is a circumpolar constellation
+self,69,Equuleus,Fornax,18,Aquila,within30_A_not_A,24.3793,105.6081,0,0,0,0,1,0,0,-2.637779,Aquila constellation.  The constellation Equuleus is a small and faint constellation located
+self,71,Eridanus,Cassiopeia,18,Orion,other,37.2022,75.6301,0,0,0,0,0,0,1,0.493698,the constellation of Orion.  Eridanus is a large constellation located in the southern
+self,73,Fornax,Corona Australis,18,Cetus,within30_A_not_A,27.6759,94.9592,0,0,0,0,1,0,0,-1.234375,Cetus.  ### Cetus  Cetus is a constellation in the equator
+self,75,Gemini,Dorado,18,Orion,within30_A_not_A,29.0514,66.8096,0,0,0,0,1,0,0,-2.145151,Orion.  Gemini is a constellation located in the northern hemisphere. It is b
+self,77,Grus,Lacerta,18,Piscis Austrinus,within30_A_not_A,15.01,75.8949,0,0,0,0,1,0,0,2.155836,Piscis Austrinus.  Grus is a constellation in the southern sky. It is one
+self,79,Hercules,Leo,18,Lyra,within30_A_not_A,20.8242,104.7119,0,0,0,0,1,0,0,-0.888827,"the constellation of Lyra.  Lyra is a small constellation, but it is one"
+self,81,Horologium,Scorpius,18,Reticulum,within30_A_not_A,8.7168,86.178,0,0,0,0,1,0,0,1.133167,Reticulum.  ### Video Transcript  [Tapping]  [Music]  [
+self,83,Hydra,Pavo,18,Cancer,other,46.0706,132.4699,0,0,0,0,0,0,1,-3.436121,the constellation of Cancer.  Hydra is the largest of the 88 constellations recognized
+self,85,Hydrus,Taurus,18,Phoenix,within30_A_not_A,26.4598,80.7557,0,0,0,0,1,0,0,-1.838282,"the constellation of the Phoenix.  ### Grus, the Crane  #### the Toucan"
+self,87,Indus,Lepus,18,Tucana,within30_A_not_A,17.7738,70.9945,0,0,0,0,1,0,0,0.875782,the constellation of Tucana.  The constellation of Tucana is located in the southern
+self,89,Lacerta,Grus,18,Andromeda,within30_A_not_A,24.0466,90.7883,0,0,0,0,1,0,0,-1.328775,"Andromeda.  Andromeda is a constellation in the northern sky, named after the mythological"
+self,91,Leo,Taurus,18,Cancer,within30_A_not_A,29.2594,60.8234,0,0,0,0,1,0,0,-2.436443,"Cancer constellation.  Cancer is a small and faint constellation, but it has a significant place"
+self,93,Leo Minor,Serpens,18,Leo,within30_A_not_A,19.0474,85.8019,0,0,0,0,1,0,0,0.968274,Leo constellation.  # Cancer  Cancer is a constellation that is located in the northern
+self,95,Lepus,Camelopardalis,18,Orion,within30_A_not_A,24.2104,65.8285,0,0,0,0,1,0,0,1.664223,"Orion.  Lepus is a constellation located in the southern celestial hemisphere,"
+self,97,Libra,Tucana,18,Virgo,other,31.1824,110.8088,0,0,0,0,0,0,1,-1.568403,the constellation of Virgo.  The constellation of Virgo is the largest constellation in
+self,99,Lupus,Delphinus,18,Centaurus,within30_A_not_A,24.0523,115.3437,0,0,0,0,1,0,0,1.381279,the Centaurus constellation.  The constellation of Lupus is a small constellation located
+self,101,Lynx,Cygnus,18,Ursa Major,within30_A_not_A,28.5427,77.3987,0,0,0,0,1,0,0,-0.821893,Ursa Major.  # Gemini  Gemini is a constellation in the northern hemis
+self,103,Lyra,Telescopium,18,Cygnus,within30_A_not_A,21.3804,96.2199,0,0,0,0,1,0,0,0.760208,Cygnus.  Cygnus is a northern constellation lying between Lyra and Draco.
+self,105,Mensa,Scutum,18,Hydrus,within30_A_not_A,13.1065,88.5099,0,0,0,0,1,0,0,0.869343,the constellation of Hydrus.  ### What is the brightest star in Mensa?
+self,107,Microscopium,Andromeda,18,Capricornus,within30_A_not_A,17.3422,77.8761,0,0,0,0,1,0,0,0.601089,Capricornus.  The constellation Microscopium is located in the southern hemisphere of
+self,109,Monoceros,Phoenix,18,Orion,within30_A_not_A,22.4829,82.0202,0,0,0,0,1,0,0,-1.941502,Orion.  Monoceros is a faint constellation that lies on the celestial equator.
+self,111,Musca,Canis Minor,18,Crux,within30_A_not_A,10.114,86.3648,0,0,0,0,1,0,0,1.327456,the constellation of Crux.  ## What is the closest constellation to Musca?
+self,113,Norma,Caelum,18,Ara,within30_A_not_A,11.6945,87.6105,0,0,0,0,1,0,0,0.159559,the Ara constellation.  The Ara constellation is a small constellation located in the
+self,115,Octans,Virgo,18,Apus,within30_A_not_A,13.7374,77.2877,0,0,0,0,1,0,0,-0.65489,the constellation of Apus.  ### What is the brightest star in Octans?  The
+self,117,Ophiuchus,Cepheus,18,Hercules,other,33.7656,58.402,0,0,0,0,0,0,1,-0.401787,the constellation of Hercules.  The constellation of Ophiuchus is bordered by Her
+self,119,Orion,Cepheus,18,Taurus,within30_A_not_A,21.3822,74.143,0,0,0,0,1,0,0,-2.539825,Taurus constellation.  Orion is a prominent constellation located on the celestial equator
+self,121,Pavo,Hydra,18,Ara,within30_A_not_A,20.0588,82.3382,0,0,0,0,1,0,0,0.340769,"the constellation of Ara.  Ara is a small constellation in the southern sky, named"
+self,123,Pegasus,Auriga,18,Andromeda,other,32.7847,57.913,0,0,0,0,0,0,1,-0.054766,Andromeda.  The constellation Pegasus is located in the northern hemisphere of the sky
+self,125,Perseus,Delphinus,18,Cassiopeia,within30_A_not_A,28.1064,67.6104,0,0,0,0,1,0,0,-1.236847,the constellation of Cassiopeia.  Cassiopeia is a constellation in the
+self,127,Phoenix,Monoceros,18,Piscis Austrinus,other,33.2898,122.8303,0,0,0,0,0,0,1,1.64654,the constellation of the southern fish.  The constellation of the southern fish is a small constell
+self,129,Pictor,Pisces,18,Columba,within30_A_not_A,16.9756,86.0824,0,0,0,0,1,0,0,-0.293283,Columba.  ### Canis Major  Canis Major is a constellation in the southern hemis
+self,131,Pisces,Ursa Minor,18,Aquarius,other,39.7467,104.5327,0,0,0,0,0,0,1,-0.865831,Aquarius.  The constellation Pisces is located in the northern hemisphere and is one of
+self,133,Piscis Austrinus,Serpens,18,Capricornus,within30_A_not_A,20.6184,71.0223,0,0,0,0,1,0,0,-0.185902,"Capricornus.  Capricornus is a constellation in the southern sky, one of the"
+self,135,Puppis,Aries,18,Canis Major,within30_A_not_A,15.7031,74.1742,0,0,0,0,1,0,0,-0.76296,"the constellation of Canis Major, the larger dog.  The constellation of Puppis is"
+self,137,Pyxis,Canes Venatici,18,Hydra,within30_A_not_A,22.836,70.7011,0,0,0,0,1,0,0,0.78083,the Hydra constellation.  Pyxis is a small constellation in the southern sky. It
+self,139,Reticulum,Sextans,18,Dorado,within30_A_not_A,8.4594,81.996,0,0,0,0,1,0,0,0.429699,the Dorado constellation.  ### Can you see Reticulum from Australia?  Reticulum
+self,141,Sagitta,Cetus,18,Aquila,within30_A_not_A,16.6541,90.0589,0,0,0,0,1,0,0,0.671486,Aquila constellation.  Sagitta is a small constellation in the northern sky. It is
+self,143,Sagittarius,Corvus,18,Capricornus,within30_A_not_A,27.187,118.0216,0,0,0,0,1,0,0,1.293682,"Capricornus.  Capricornus is a small constellation in the southern sky, one of"
+self,145,Scorpius,Sculptor,18,Sagittarius,other,31.1752,67.2986,0,0,0,0,0,0,1,-1.59807,Sagittarius.  The constellation of Scorpius is bordered by the constellations
+self,147,Sculptor,Scorpius,18,Cetus,within30_A_not_A,28.0871,118.6103,0,0,0,0,1,0,0,-1.458694,the constellation of Cetus.  The constellation of Sculptor is located in the
+self,149,Scutum,Corvus,18,Aquila,within30_A_not_A,18.6947,108.0432,0,0,0,0,1,0,0,0.448456,Aquila constellation.  Scutum is a small constellation bordered by Aquila to the
+self,151,Serpens,Piscis Austrinus,18,Ophiuchus,within30_A_not_A,15.6909,74.0637,0,0,0,0,1,0,0,-1.662578,Ophiuchus.  The constellation of Serpens is unique in that it is the only const
+self,153,Sextans,Reticulum,18,Leo,within30_A_not_A,18.978,109.0624,0,0,0,0,1,0,0,-2.868174,Leo constellation.  Sextans is a small and faint constellation that is located in the southern
+self,155,Taurus,Leo,18,Orion,within30_A_not_A,21.3822,75.7183,0,0,0,0,1,0,0,-1.618198,"Orion.  The constellation of Taurus is bordered by the constellations of Orion,"
+self,157,Telescopium,Columba,18,Ara|Corona Australis|Sagittarius|Pavo|Indus|Microscopium,within30_A_not_A,18.5798,92.2448,0,0,0,0,1,0,0,-0.19435,"Ara, Corona Australis, Sagittarius, Pavo, Indus, and Microscopium"
+self,159,Triangulum,Capricornus,18,Andromeda,within30_A_not_A,19.8876,77.8761,0,0,0,0,1,0,0,-1.464779,Andromeda.  The Triangulum constellation is a small but recognizable constellation in the
+self,161,Triangulum Australe,Equuleus,18,Norma,within30_A_not_A,14.432,88.1712,0,0,0,0,1,0,0,-0.663305,the constellation of Norma.  Acknowledgment :  The constellation of Tri
+self,163,Tucana,Aries,18,Phoenix,within30_A_not_A,18.4008,72.438,0,0,0,0,1,0,0,3.802994,the constellation of the Phoenix.  ### Grus  ##### Pavo  ##### Ind
+self,165,Ursa Major,Antlia,18,Ursa Minor,other,30.9205,119.5284,0,0,0,0,0,0,1,-3.73292,Ursa Minor.  # Ursa Major Constellation  Ursa Major is the largest constell
+self,167,Ursa Minor,Pisces,18,Draco,within30_A_not_A,11.8287,88.7601,0,0,0,0,1,0,0,-2.269842,Draco.  # Ursa Minor Constellation  Ursa Minor is a constellation in
+self,169,Vela,Sculptor,18,Carina,within30_A_not_A,16.4651,75.1842,0,0,0,0,1,0,0,-2.343714,the constellation of Carina.  Carina is a constellation in the southern sky. Its name
+self,171,Virgo,Octans,18,Leo,other,42.5645,110.3254,0,0,0,0,0,0,1,-1.555807,the constellation of Leo.  ## What is the constellation next to Virgo?  The
+self,173,Volans,Leo,18,Carina,within30_A_not_A,8.6881,81.2318,0,0,0,0,1,0,0,-0.253126,the constellation of Carina.  ### Can you see Volans from Australia?  Volans is
+self,175,Vulpecula,Pavo,18,Cygnus|Lyra|Delphinus|Pegasus|Sagitta|Aquila,within30_A_not_A,20.6075,89.1275,0,0,0,0,1,0,0,-1.696886,"Cygnus, Lyra, Delphinus, Pegasus, Sagitta, Aquila."
+target,1,Andromeda,Lepus,18,Orion,within30_B_not_B,74.5831,24.2104,0,0,0,0,0,1,0,5.287609,"Orion.  Orion is one of the most recognizable constellations in the night sky, known for"
+target,3,Antlia,Bootes,18,Ursa Major,other,89.3417,45.5556,0,0,0,0,0,0,1,15.144285,the constellation of Ursa Major.
+target,5,Apus,Cetus,18,Cetus,equals_B,91.7425,0.0,0,0,0,1,0,0,0,11.240383,the constellation of Cetus.  The constellation of Apus is located in the southern hem
+target,7,Aquarius,Chamaeleon,18,Carina,within30_B_not_B,104.3656,18.8536,0,0,0,0,0,1,0,6.34104,the constellation of Carina.  ### What is the closest constellation to Aquarius?
+target,9,Aquila,Cetus,18,Cetus,equals_B,90.0589,0.0,0,0,0,1,0,0,0,9.078379,"Cetus.  Aquila is a constellation in the southern hemisphere, and it is"
+target,11,Ara,Columba,18,Orion,other,130.8298,40.7271,0,0,0,0,0,0,1,9.950772,the constellation of Orion.  Ara is a small constellation in the southern hemisphere
+target,13,Aries,Tucana,18,Piscis Austrinus,other,81.1698,36.9067,0,0,0,0,0,0,1,5.245729,the constellation of Piscis Austrinus.  ### What is the closest constellation to A
+target,15,Auriga,Pegasus,18,Perseus,within30_A_not_A,26.7102,64.2095,0,0,0,0,1,0,0,7.24538,the constellation of Perseus.  The constellation of Perseus is located in the northern
+target,17,Bootes,Corona Australis,18,Sagittarius|Scorpius|Corona Australis,within30_B_not_B,82.1915,12.8634,0,0,0,0,0,1,0,10.136852,? 1. Sagittarius 2. Scorpius 3. Corona Australis 4
+target,19,Caelum,Norma,18,Norma,equals_B,90.0819,0.0,0,0,0,1,0,0,0,9.647016,the constellation of Norma.  Caelum is a small and faint constellation in the southern
+target,21,Camelopardalis,Lepus,18,Orion,within30_B_not_B,65.8285,24.2104,0,0,0,0,0,1,0,8.57712,the Orion constellation.  Camelopardalis is a constellation located on the celest
+target,23,Cancer,Volans,18,Crux,within30_B_not_B,91.3598,29.036,0,0,0,0,0,1,0,9.796833,the constellation of the Southern Cross.  ### Canopus  Canopus is the second bright
+target,25,Canes Venatici,Pyxis,18,,ramble_A,,,0,1,0,0,0,0,0,11.991388,?  Canes Venatici is a small constellation in the southern hemisphere. It is b
+target,27,Canis Major,Pavo,18,Sagittarius,other,129.8287,37.849,0,0,0,0,0,0,1,6.519548,the constellation of Sagittarius.  A: True  B: False  C:
+target,29,Canis Minor,Musca,18,Centaurus,within30_B_not_B,88.8346,24.5073,0,0,0,0,0,1,0,7.373619,the constellation of the Centaur.  The constellation of the Centaur is a large and bright
+target,31,Capricornus,Corona Borealis,18,Bootes,within30_B_not_B,104.6487,17.1142,0,0,0,0,0,1,0,11.855484,the constellation of Boötes.
+target,33,Carina,Cetus,18,Cetus,equals_B,89.5308,0.0,0,0,0,1,0,0,0,14.196409,"Cetus.  Carina is a constellation in the southern sky, and it is one of the"
+target,35,Cassiopeia,Eridanus,18,Orion,other,75.6301,37.2022,0,0,0,0,0,0,1,10.084929,"Orion.  Cassiopeia is a prominent constellation in the equatorial sky, and"
+target,37,Centaurus,Monoceros,18,Orion,within30_B_not_B,109.2732,22.4829,0,0,0,0,0,1,0,8.61223,"Orion.  Orion is one of the most recognizable constellations in the night sky, known for"
+target,39,Cepheus,Ophiuchus,18,Aquila|Sagittarius|Ophiuchus,within30_B_not_B,89.9814,23.6104,0,0,0,0,0,1,0,9.137842,?  1. Aquila 2. Sagittarius 3. Ophiuchus 4.
+target,41,Cetus,Aquila,18,Aquila,equals_B,90.0589,0.0,0,0,0,1,0,0,0,9.752754,Aquila.  Aquila is a constellation in the northern sky. It is one of the
+target,43,Chamaeleon,Aquarius,18,Aquarius,equals_B,89.5238,0.0,0,0,0,1,0,0,0,10.813185,the constellation of Aquarius.  The constellation of Chamaeleon is located in the southern
+target,45,Circinus,Coma Berenices,18,Bootes,within30_B_not_B,93.1014,25.859,0,0,0,0,0,1,0,17.801256,the constellation of Bootes.  The constellation of Bootes is a large constellation located
+target,47,Columba,Norma,18,Lupus,within30_B_not_B,95.2189,11.9,0,0,0,0,0,1,0,11.596187,the constellation of Lupus.  A. the neighboring constellation to Columba constell
+target,49,Coma Berenices,Circinus,18,Centaurus,within30_B_not_B,68.7163,22.4473,0,0,0,0,0,1,0,14.481623,the constellation of Centaurus.  False  The constellation of Coma Berenices is
+target,51,Corona Australis,Bootes,18,Bootes,equals_B,90.1108,0.0,0,0,0,1,0,0,0,7.488697,the constellation of Boötes.
+target,53,Corona Borealis,Capricornus,18,Capricornus|Sagittarius|Aquila,within30_B_not_B,75.3608,18.8082,0,0,0,0,0,1,0,11.683273,?  1. Capricornus 2. Sagittarius 3. Aquila 4.
+target,55,Corvus,Scutum,18,Aquila,within30_B_not_B,108.0432,18.6947,0,0,0,0,0,1,0,6.41131,"Aquila constellation.  Aquila is a constellation in the Milky Way, representing an"
+target,57,Crater,Orion,18,Orion,equals_B,88.6429,0.0,0,0,0,1,0,0,0,7.455273,Orion.  The constellation of Orion is one of the most recognizable constellations in the
+target,59,Crux,Eridanus,18,Orion,other,100.6571,37.2022,0,0,0,0,0,0,1,9.207071,the constellation of Orion.  Crux is a small but well-known constellation in
+target,61,Cygnus,Lynx,18,Ursa Major,within30_B_not_B,77.3987,28.5427,0,0,0,0,0,1,0,7.231062,Ursa Major.  # Gemini  Gemini is a constellation in the northern hemis
+target,63,Delphinus,Perseus,18,Taurus,within30_B_not_B,109.78,29.3653,0,0,0,0,0,1,0,11.065443,the constellation of Taurus.  Delphinus is a small but recognizable constellation in the
+target,65,Dorado,Pisces,18,Cetus,within30_B_not_B,64.3041,24.9485,0,0,0,0,0,1,0,11.269994,the constellation of Cetus.  The constellation of Dorado is located in the northern hem
+target,67,Draco,Pisces,18,Cetus,within30_B_not_B,112.536,24.9485,0,0,0,0,0,1,0,12.081966,the constellation of Cetus.  The constellation of Cetus is located in the northern
+target,69,Equuleus,Fornax,18,Cetus,within30_B_not_B,67.7377,27.6759,0,0,0,0,0,1,0,8.741053,Cetus.  ### Cetus  Cetus is a constellation in the equator
+target,71,Eridanus,Cassiopeia,18,Cassiopeia|Perseus,within30_B_not_B,77.5406,14.0532,0,0,0,0,0,1,0,13.45548,Cassiopeia  # Perseus  Perseus is a constellation in the northern sky
+target,73,Fornax,Corona Australis,18,Sagittarius,within30_B_not_B,93.6172,14.8711,0,0,0,0,0,1,0,6.615372,Sagittarius.  The constellation Fornax is located in the southern hemisphere of the
+target,75,Gemini,Dorado,18,Phoenix,other,110.7986,37.7999,0,0,0,0,0,0,1,7.728769,the constellation of the Phoenix.  ### Can you see Gemini from Australia?  Gemini
+target,77,Grus,Lacerta,18,Cygnus,within30_B_not_B,92.3728,20.1685,0,0,0,0,0,1,0,8.90427,Cygnus.  Andromeda Aquila Cassiopeia Cygnus
+target,79,Hercules,Leo,18,Leo,equals_B,90.6935,0.0,0,0,0,1,0,0,0,4.814455,the constellation of Leo.  Leo is a large and bright constellation that is easily recognizable
+target,81,Horologium,Scorpius,18,Sagittarius,other,84.2654,31.1752,0,0,0,0,0,0,1,8.092693,the constellation of Sagittarius.  The constellation of Sagittarius is located in
+target,83,Hydra,Pavo,18,Centaurus,other,42.6083,51.8339,0,0,0,0,0,0,1,6.119904,the Centaurus constellation.  The Centaurus constellation is located in the southern hemisphere of
+target,85,Hydrus,Taurus,18,Orion,within30_B_not_B,82.7906,21.3822,0,0,0,0,0,1,0,12.678547,"the Orion constellation.  Hydrus is a constellation in the northern sky, while Or"
+target,87,Indus,Lepus,18,Orion,within30_B_not_B,110.4651,24.2104,0,0,0,0,0,1,0,8.169825,the constellation of Orion.  Indus is a small constellation in the southern hemisphere
+target,89,Lacerta,Grus,18,Piscis Austrinus,within30_B_not_B,75.8949,15.01,0,0,0,0,0,1,0,8.967146,the constellation of the Southern Fish.  The constellation of the Southern Fish is located in the southern
+target,91,Leo,Taurus,18,Orion,within30_B_not_B,75.7183,21.3822,0,0,0,0,0,1,0,5.903891,Orion.  The constellation Orion is one of the most recognizable constellations in the night
+target,93,Leo Minor,Serpens,18,Sagittarius,other,138.8672,50.636,0,0,0,0,0,0,1,5.990003,the constellation of Sagittarius.  The constellation of Leo Minor is a small constell
+target,95,Lepus,Camelopardalis,18,Ursa Major,other,100.7471,36.6031,0,0,0,0,0,0,1,12.41947,Ursa Major.  # Perseus  Perseus is a circumpolar constellation in
+target,97,Libra,Tucana,18,Phoenix,within30_B_not_B,108.8369,18.4008,0,0,0,0,0,1,0,2.712311,the constellation of the Phoenix.  The Phoenix constellation is a small and faint constellation in
+target,99,Lupus,Delphinus,18,Aquila,within30_B_not_B,73.008,18.7234,0,0,0,0,0,1,0,9.809439,Aquila.  Aquila is a constellation in the northern sky. It is the 22
+target,101,Lynx,Cygnus,18,Cygnus,equals_B,89.7682,0.0,0,0,0,1,0,0,0,4.776916,"Cygnus.  Cygnus, the Swan, is a prominent constellation in the northern"
+target,103,Lyra,Telescopium,18,Ara,within30_B_not_B,93.0086,18.1949,0,0,0,0,0,1,0,7.211557,"the constellation of Ara.  Ara is a small constellation in the southern sky, lying"
+target,105,Mensa,Scutum,18,Aquila,within30_B_not_B,102.5344,18.6947,0,0,0,0,0,1,0,14.130968,"Aquila.  Aquila is a constellation in the southern sky, representing the eagle that carried"
+target,107,Microscopium,Andromeda,18,Andromeda,equals_B,91.8392,0.0,0,0,0,1,0,0,0,7.974365,"Andromeda.  Andromeda is a constellation in the northern sky, named after the mythological"
+target,109,Monoceros,Phoenix,18,Phoenix,equals_B,90.4524,0.0,0,0,0,1,0,0,0,8.304947,the constellation of the Phoenix.  The constellation of the Phoenix is located in the southern hemis
+target,111,Musca,Canis Minor,18,Orion,other,99.5578,30.3927,0,0,0,0,0,0,1,9.508278,Orion.  Musca is a small constellation in the celestial equator. It is one
+target,113,Norma,Caelum,18,Lepus,within30_B_not_B,106.6366,21.6331,0,0,0,0,0,1,0,9.963552,the constellation of Lepus.  ### What is the neighboring constellation to Norma?
+target,115,Octans,Virgo,18,Virgo,equals_B,89.99,0.0,0,0,0,1,0,0,0,10.32019,the constellation of Virgo.  Virgo is a large constellation located in the southern sky
+target,117,Ophiuchus,Cepheus,18,Andromeda,other,108.8886,35.8598,0,0,0,0,0,0,1,10.416267,the constellation of Andromeda.  # Andromeda Constellation  Andromeda is
+target,119,Orion,Cepheus,18,Cassiopeia,within30_B_not_B,75.6301,17.9683,0,0,0,0,0,1,0,6.280272,Cassiopeia.  # Cassiopeia Constellation  Cassiopeia is a
+target,121,Pavo,Hydra,18,Hydra,equals_B,89.5881,0.0,0,0,0,1,0,0,0,9.575878,the constellation of Hydra.  Hydra is the largest of the 88 constell
+target,123,Pegasus,Auriga,18,,ramble_A,,,0,1,0,0,0,0,0,9.009045,"?  Pegasus is a prominent constellation in the northern sky, and it is surrounded by several"
+target,125,Perseus,Delphinus,18,Aquila,within30_B_not_B,108.3855,18.7234,0,0,0,0,0,1,0,6.385746,Aquila.  Aquila is a constellation in the northern sky. It is the 22
+target,127,Phoenix,Monoceros,18,Orion,within30_B_not_B,82.0202,22.4829,0,0,0,0,0,1,0,12.830765,"Orion.  Orion is one of the most recognizable constellations in the night sky, known for"
+target,129,Pictor,Pisces,18,Pisces,equals_B,89.3722,0.0,0,0,0,1,0,0,0,9.906044,"Pisces.  Pictor is a small constellation in the northern hemisphere, located between"
+target,131,Pisces,Ursa Minor,18,Ursa Major,other,111.3093,30.9205,0,0,0,0,0,0,1,10.696171,"Ursa Major.  # Ursa Major  Ursa Major, also known as the Great Bear,"
+target,133,Piscis Austrinus,Serpens,18,Aquila,other,49.8272,47.1457,0,0,0,0,0,0,1,11.182833,Aquila.  The constellation of Piscis Austrinus is a small constellation located in
+target,135,Puppis,Aries,18,Andromeda,other,121.3942,32.6866,0,0,0,0,0,0,1,7.007038,the constellation of Andromeda.  The constellation of Andromeda is located in the northern
+target,137,Pyxis,Canes Venatici,18,Ursa Major,within30_B_not_B,87.2624,25.3673,0,0,0,0,0,1,0,14.277418,Ursa Major.  # Ursa Major  Ursa Major is the largest constellation in the
+target,139,Reticulum,Sextans,18,Leo,within30_B_not_B,109.0624,18.978,0,0,0,0,0,1,0,10.948704,the constellation of Leo.  Reticulum is a small and faint constellation that is located in
+target,141,Sagitta,Cetus,18,Cetus,equals_B,91.8536,0.0,0,0,0,1,0,0,0,10.117994,the constellation of Cetus.  The constellation of Sagitta is a small constell
+target,143,Sagittarius,Corvus,18,Virgo,within30_B_not_B,86.9595,20.0416,0,0,0,0,0,1,0,10.581671,the constellation of Virgo.  ## What is the constellation next to Sagittarius?
+target,145,Scorpius,Sculptor,18,Cetus,within30_B_not_B,118.6103,28.0871,0,0,0,0,0,1,0,7.959451,the constellation of Cetus.  The constellation of Cetus is located in the southern
+target,147,Sculptor,Scorpius,18,Scorpius,equals_B,91.0953,0.0,0,0,0,1,0,0,0,12.074137,the constellation of Scorpius.  The constellation of Scorpius is located in
+target,149,Scutum,Corvus,18,Virgo,within30_B_not_B,80.238,20.0416,0,0,0,0,0,1,0,7.194328,the constellation of Virgo.  Virgo is a large constellation located in the southern sky
+target,151,Serpens,Piscis Austrinus,18,Aquarius,within30_B_not_B,89.2545,20.4768,0,0,0,0,0,1,0,6.101336,"the constellation of Aquarius.  Aquarius is a constellation of the zodiac,"
+target,153,Sextans,Reticulum,18,Phoenix,within30_B_not_B,119.7955,29.3978,0,0,0,0,0,1,0,6.139122,the constellation of the Phoenix.  ### What is the brightest star in Sextans?
+target,155,Taurus,Leo,18,Virgo,other,132.3861,42.5645,0,0,0,0,0,0,1,5.970082,the constellation of Virgo.  Virgo is a large constellation that is located in the
+target,157,Telescopium,Columba,18,Orion,other,128.866,40.7271,0,0,0,0,0,0,1,10.53176,Orion.  ### Canis Major  Orion is a prominent constellation located on the celest
+target,159,Triangulum,Capricornus,18,Sagittarius|Aquila|Capricornus,within30_B_not_B,100.2157,18.8082,0,0,0,0,0,1,0,6.295288,? 1. Sagittarius 2. Aquila 3. Capricornus 4. Aqu
+target,161,Triangulum Australe,Equuleus,18,Aquila,within30_B_not_B,77.9428,24.3793,0,0,0,0,0,1,0,12.987861,Aquila.  Aquila is a constellation in the northern sky. It is the 22
+target,163,Tucana,Aries,18,Andromeda,other,105.5459,32.6866,0,0,0,0,0,0,1,10.569347,the constellation of Andromeda.  The constellation of Andromeda is located in the northern
+target,165,Ursa Major,Antlia,18,Cancer,other,44.2937,57.2278,0,0,0,0,0,0,1,6.049965,"the constellation of Cancer.  Cancer is a small, faint constellation that is located in the"
+target,167,Ursa Minor,Pisces,18,Cetus,within30_B_not_B,111.3244,24.9485,0,0,0,0,0,1,0,9.538086,the constellation of Cetus.  The constellation of Cetus is located in the northern
+target,169,Vela,Sculptor,18,Cetus,within30_B_not_B,102.1914,28.0871,0,0,0,0,0,1,0,5.459339,the constellation of Cetus.  The constellation of Cetus is located in the southern
+target,171,Virgo,Octans,18,Centaurus,other,43.3073,47.189,0,0,0,0,0,0,1,6.387453,Centaurus.  ### What is the closest constellation to Virgo?  The closest constellation
+target,173,Volans,Leo,18,Leo,equals_B,89.8664,0.0,0,0,0,1,0,0,0,10.138937,the constellation of Leo.  Leo is a large and bright constellation that is easily recognizable
+target,175,Vulpecula,Pavo,18,Sagittarius,other,55.2479,37.849,0,0,0,0,0,0,1,10.891293,the constellation of Sagittarius.  A. None B. Centaurus C. P
+untouched,1,Andromeda,Lepus,18,Perseus,other,31.6887,69.3465,0,0,0,0,0,0,1,0.0,the constellation of Perseus.  The constellation of Perseus is located in the northern
+untouched,3,Antlia,Bootes,18,Hydra,within30_A_not_A,15.5093,77.3612,0,0,0,0,1,0,0,0.0,"the constellation of Hydra.  Antlia is a small constellation in the southern sky,"
+untouched,5,Apus,Cetus,18,Triangulum Australe,within30_A_not_A,9.9523,100.1983,0,0,0,0,1,0,0,0.0,the constellation of the Southern Triangle.  Apus is a small constellation in the southern sky
+untouched,7,Aquarius,Chamaeleon,18,Capricornus,within30_A_not_A,21.3146,80.3494,0,0,0,0,1,0,0,0.0,"Capricornus.  Aquarius is a constellation in the southern sky, and it is one"
+untouched,9,Aquila,Cetus,18,Sagittarius,other,30.6698,91.6577,0,0,0,0,0,0,1,0.0,the constellation of Sagittarius.  The constellation of Aquila is located in the northern
+untouched,11,Ara,Columba,18,Scorpius,within30_A_not_A,22.5087,110.5841,0,0,0,0,1,0,0,0.0,the constellation of Scorpius
+untouched,13,Aries,Tucana,18,Taurus,within30_A_not_A,24.7402,96.2964,0,0,0,0,1,0,0,0.0,the constellation of Taurus.
+untouched,15,Auriga,Pegasus,18,Perseus,within30_A_not_A,26.7102,64.2095,0,0,0,0,1,0,0,0.0,the constellation of Perseus.  Auriga is a constellation located in the northern hem
+untouched,17,Bootes,Corona Australis,18,Virgo,other,37.2728,80.5876,0,0,0,0,0,0,1,0.0,the constellation of Virgo.
+untouched,19,Caelum,Norma,18,Columba,within30_A_not_A,12.3727,90.085,0,0,0,0,1,0,0,0.0,Columba constellation.  Caelum is a small and faint constellation in the southern sky.
+untouched,21,Camelopardalis,Lepus,18,Ursa Major,other,36.6031,100.7471,0,0,0,0,0,0,1,0.0,Ursa Major.  Camelopardalis is a large but faint constellation in the northern sky.
+untouched,23,Cancer,Volans,18,Gemini,within30_A_not_A,21.8057,93.4513,0,0,0,0,1,0,0,0.0,the Gemini constellation.
+untouched,25,Canes Venatici,Pyxis,18,Ursa Major,within30_A_not_A,25.3673,87.2624,0,0,0,0,1,0,0,0.0,Ursa Major.  Canes Venatici is a small constellation in the northern sky. It was
+untouched,27,Canis Major,Pavo,18,Orion,other,32.6057,116.024,0,0,0,0,0,0,1,0.0,the constellation of Orion.
+untouched,29,Canis Minor,Musca,18,Orion,other,30.3927,99.5578,0,0,0,0,0,0,1,0.0,the constellation of Orion
+untouched,31,Capricornus,Corona Borealis,18,Aquarius,within30_A_not_A,21.3146,101.5308,0,0,0,0,1,0,0,0.0,"Aquarius constellation.  Capricornus is a constellation in the southern sky, one of"
+untouched,33,Carina,Cetus,18,Centaurus,other,39.2369,124.3963,0,0,0,0,0,0,1,0.0,the constellation of Centaurus.
+untouched,35,Cassiopeia,Eridanus,18,Andromeda,within30_A_not_A,22.0249,75.532,0,0,0,0,1,0,0,0.0,the constellation of Andromeda.  Cassiopeia is a constellation in the northern
+untouched,37,Centaurus,Monoceros,18,Crux,within30_A_not_A,15.2658,83.5416,0,0,0,0,1,0,0,0.0,the constellation of the Southern Cross.  The Southern Cross is a small but well-known constellation
+untouched,39,Cepheus,Ophiuchus,18,Cassiopeia,within30_A_not_A,17.9683,106.4764,0,0,0,0,1,0,0,0.0,"Cassiopeia.  Cassiopeia is a constellation in the northern sky, named after"
+untouched,41,Cetus,Aquila,18,Pisces,within30_A_not_A,24.9485,74.8051,0,0,0,0,1,0,0,0.0,the constellation of Pisces.
+untouched,43,Chamaeleon,Aquarius,18,Octans,within30_A_not_A,15.288,74.2691,0,0,0,0,1,0,0,0.0,the Octans constellation.  The Octans constellation is located in the southern sky and is one
+untouched,45,Circinus,Coma Berenices,18,Centaurus|Norma|Lupus|Ara,within30_A_not_A,20.3609,81.3754,0,0,0,0,1,0,0,0.0,:  A. Centaurus B. Norma C. Lupus D. Ara
+untouched,47,Columba,Norma,18,Lepus,within30_A_not_A,16.6419,106.6366,0,0,0,0,1,0,0,0.0,the constellation of Lepus
+untouched,49,Coma Berenices,Circinus,18,Leo,within30_A_not_A,29.8764,91.5086,0,0,0,0,1,0,0,0.0,the constellation of Leo.
+untouched,51,Corona Australis,Bootes,18,Sagittarius,within30_A_not_A,14.8711,87.125,0,0,0,0,1,0,0,0.0,Sagittarius.  Corona Australis is a small constellation in the Southern Celestial Hem
+untouched,53,Corona Borealis,Capricornus,18,Hercules,within30_A_not_A,18.5825,71.6433,0,0,0,0,1,0,0,0.0,?  A. Hercules constellation
+untouched,55,Corvus,Scutum,18,Virgo,within30_A_not_A,20.0416,80.238,0,0,0,0,1,0,0,0.0,the constellation of Virgo.
+untouched,57,Crater,Orion,18,Hydra,within30_A_not_A,14.3761,75.2211,0,0,0,0,1,0,0,0.0,the Hydra constellation.  The constellation Crater is a small constellation located in
+untouched,59,Crux,Eridanus,18,Centaurus,within30_A_not_A,15.2658,103.6362,0,0,0,0,1,0,0,0.0,Centaurus.  Crux is a small but distinctive constellation of the southern sky. It is easily
+untouched,61,Cygnus,Lynx,18,Cepheus,other,31.1962,59.0319,0,0,0,0,0,0,1,0.0,"?  Cygnus is bordered by the constellations Cepheus to the north, Dr"
+untouched,63,Delphinus,Perseus,18,Aquila,within30_A_not_A,18.7234,108.3855,0,0,0,0,1,0,0,0.0,"Aquila constellation.  Delphinus is a small constellation in the northern sky, representing a"
+untouched,65,Dorado,Pisces,18,Canis Major,other,43.3962,96.697,0,0,0,0,0,0,1,0.0,the constellation of the Great Dog.
+untouched,67,Draco,Pisces,18,Ursa Minor,within30_A_not_A,11.8287,89.6624,0,0,0,0,1,0,0,0.0,Ursa Minor.  Draco is a large constellation in the far northern sky. Its name is Latin
+untouched,69,Equuleus,Fornax,18,Delphinus,within30_A_not_A,9.2868,97.5768,0,0,0,0,1,0,0,0.0,the constellation of Delphinus
+untouched,71,Eridanus,Cassiopeia,18,Taurus,other,39.0243,57.1587,0,0,0,0,0,0,1,0.0,the constellation of Taurus.
+untouched,73,Fornax,Corona Australis,18,Eridanus,within30_A_not_A,17.2493,106.3757,0,0,0,0,1,0,0,0.0,the constellation of Eridanus.
+untouched,75,Gemini,Dorado,18,Orion,within30_A_not_A,29.0514,66.8096,0,0,0,0,1,0,0,0.0,the constellation of Orion.
+untouched,77,Grus,Lacerta,18,Phoenix,within30_A_not_A,23.2999,97.5304,0,0,0,0,1,0,0,0.0,the Phoenix constellation.  The Phoenix constellation is located in the southern hemisphere of the sky
+untouched,79,Hercules,Leo,18,Lyra,within30_A_not_A,20.8242,104.7119,0,0,0,0,1,0,0,0.0,the constellation of Lyra.  The constellation of Lyra is a small but prominent constell
+untouched,81,Horologium,Scorpius,18,Eridanus,other,33.0489,124.6888,0,0,0,0,0,0,1,0.0,the Eridanus constellation.  The Eridanus constellation is located in the southern hemis
+untouched,83,Hydra,Pavo,18,Cancer,other,46.0706,132.4699,0,0,0,0,0,0,1,0.0,"the constellation of Cancer.  Hydra is the largest constellation in the sky, occupying"
+untouched,85,Hydrus,Taurus,18,Tucana,within30_A_not_A,15.529,96.2964,0,0,0,0,1,0,0,0.0,the Tucana constellation.  The Tucana constellation is located in the southern sky and
+untouched,87,Indus,Lepus,18,Tucana,within30_A_not_A,17.7738,70.9945,0,0,0,0,1,0,0,0.0,the constellation of Tucana.  The constellation of Indus is located in the southern hem
+untouched,89,Lacerta,Grus,18,Cygnus,within30_A_not_A,20.1685,92.3728,0,0,0,0,1,0,0,0.0,Cygnus.  Lacerta is a small constellation in the northern sky. It was created by
+untouched,91,Leo,Taurus,18,Cancer,within30_A_not_A,29.2594,60.8234,0,0,0,0,1,0,0,0.0,the constellation of Cancer.
+untouched,93,Leo Minor,Serpens,18,Leo,within30_A_not_A,19.0474,85.8019,0,0,0,0,1,0,0,0.0,Leo constellation.  Leo Minor is a small and faint constellation located in the northern celest
+untouched,95,Lepus,Camelopardalis,18,Orion,within30_A_not_A,24.2104,65.8285,0,0,0,0,1,0,0,0.0,the Orion constellation
+untouched,97,Libra,Tucana,18,Virgo,other,31.1824,110.8088,0,0,0,0,0,0,1,0.0,the constellation of Virgo.
+untouched,99,Lupus,Delphinus,18,Centaurus,within30_A_not_A,24.0523,115.3437,0,0,0,0,1,0,0,0.0,the Centaurus constellation.  The Centaurus constellation is one of the largest constellations in
+untouched,101,Lynx,Cygnus,18,Ursa Major,within30_A_not_A,28.5427,77.3987,0,0,0,0,1,0,0,0.0,the Ursa Major constellation.  Lynx is a small and faint constellation in the northern
+untouched,103,Lyra,Telescopium,18,Cygnus,within30_A_not_A,21.3804,96.2199,0,0,0,0,1,0,0,0.0,Cygnus.  Cygnus is a northern constellation lying in the plane of the Milky
+untouched,105,Mensa,Scutum,18,Octans,within30_A_not_A,16.2248,75.8671,0,0,0,0,1,0,0,0.0,the Octans constellation.  Mensa is a small and faint constellation in the southern sky
+untouched,107,Microscopium,Andromeda,18,Sagittarius,within30_A_not_A,24.3912,102.3921,0,0,0,0,1,0,0,0.0,Sagittarius.  Microscopium is a small and faint constellation in the southern sky
+untouched,109,Monoceros,Phoenix,18,Orion,within30_A_not_A,22.4829,82.0202,0,0,0,0,1,0,0,0.0,the constellation of Orion
+untouched,111,Musca,Canis Minor,18,Chamaeleon,within30_A_not_A,12.0498,88.9358,0,0,0,0,1,0,0,0.0,the constellation of Chamaeleon
+untouched,113,Norma,Caelum,18,Ara,within30_A_not_A,11.6945,87.6105,0,0,0,0,1,0,0,0.0,the Ara constellation.  The Ara constellation is located in the southern hemisphere of
+untouched,115,Octans,Virgo,18,Tucana,within30_A_not_A,21.3558,110.8088,0,0,0,0,1,0,0,0.0,"the constellation of Tucana.  Octans is a small, faint constellation in the southern"
+untouched,117,Ophiuchus,Cepheus,18,Sagittarius,other,34.9659,105.0362,0,0,0,0,0,0,1,0.0,the constellation of Sagittarius.  Ophiuchus is a large constellation located in
+untouched,119,Orion,Cepheus,18,Taurus,within30_A_not_A,21.3822,74.143,0,0,0,0,1,0,0,0.0,?  A. Taurus constellation
+untouched,121,Pavo,Hydra,18,Telescopium,within30_A_not_A,14.2287,98.7662,0,0,0,0,1,0,0,0.0,the constellation of Telescopium.  The constellation of Pavo is located in the southern
+untouched,123,Pegasus,Auriga,18,Andromeda,other,32.7847,57.913,0,0,0,0,0,0,1,0.0,Andromeda.  The Andromeda constellation is located in the northern sky and is named after the
+untouched,125,Perseus,Delphinus,18,Cassiopeia,within30_A_not_A,28.1064,67.6104,0,0,0,0,1,0,0,0.0,"Cassiopeia.  Cassiopeia is a constellation in the northern sky, named after"
+untouched,127,Phoenix,Monoceros,18,Piscis Austrinus,other,33.2898,122.8303,0,0,0,0,0,0,1,0.0,the constellation of the southern fish.  The constellation of the southern fish is a small constell
+untouched,129,Pictor,Pisces,18,Columba,within30_A_not_A,16.9756,86.0824,0,0,0,0,1,0,0,0.0,"Columba.  Pictor is a small, faint constellation in the southern sky. It was introduced"
+untouched,131,Pisces,Ursa Minor,18,Aries,other,30.5941,82.9331,0,0,0,0,0,0,1,0.0,the constellation of Aries.
+untouched,133,Piscis Austrinus,Serpens,18,Capricornus,within30_A_not_A,20.6184,71.0223,0,0,0,0,1,0,0,0.0,Capricornus.  Piscis Austrinus is a small constellation located in the southern cel
+untouched,135,Puppis,Aries,18,Carina,other,31.5921,108.6414,0,0,0,0,0,0,1,0.0,the constellation of Carina
+untouched,137,Pyxis,Canes Venatici,18,Hydra,within30_A_not_A,22.836,70.7011,0,0,0,0,1,0,0,0.0,the constellation of Hydra
+untouched,139,Reticulum,Sextans,18,Horologium,within30_A_not_A,8.7168,96.5755,0,0,0,0,1,0,0,0.0,the Horologium constellation.  The Horologium constellation is a small and faint constell
+untouched,141,Sagitta,Cetus,18,Aquila,within30_A_not_A,16.6541,90.0589,0,0,0,0,1,0,0,0.0,Aquila.  Sagitta is a small constellation located in the northern sky. It is the third
+untouched,143,Sagittarius,Corvus,18,Scorpius|Aquarius,other,39.8185,99.2974,0,0,0,0,0,0,1,0.0,?  A. Scorpius constellation B. Aquarius constellation C. Cap
+untouched,145,Scorpius,Sculptor,18,Sagittarius,other,31.1752,67.2986,0,0,0,0,0,0,1,0.0,?  A. Sagittarius
+untouched,147,Sculptor,Scorpius,18,Phoenix,within30_A_not_A,15.9413,83.4991,0,0,0,0,1,0,0,0.0,the Phoenix constellation.  The Phoenix constellation is located in the southern hemisphere of the sky
+untouched,149,Scutum,Corvus,18,Aquila|Sagittarius,within30_A_not_A,19.0393,99.5704,0,0,0,0,1,0,0,0.0,?  A. Aquila constellation B. Sagittarius constellation C. Ser
+untouched,151,Serpens,Piscis Austrinus,18,Ophiuchus,within30_A_not_A,15.6909,74.0637,0,0,0,0,1,0,0,0.0,Ophiuchus.  Serpens is a unique constellation in the night sky because it is divided
+untouched,153,Sextans,Reticulum,18,Leo,within30_A_not_A,18.978,109.0624,0,0,0,0,1,0,0,0.0,the constellation of Leo.
+untouched,155,Taurus,Leo,18,Orion,within30_A_not_A,21.3822,75.7183,0,0,0,0,1,0,0,0.0,Orion.  The constellation of Orion is one of the most recognizable constellations in the
+untouched,157,Telescopium,Columba,18,Corona Australis,within30_A_not_A,12.5577,102.3779,0,0,0,0,1,0,0,0.0,the Corona Australis constellation.  The Corona Australis constellation is a small and faint
+untouched,159,Triangulum,Capricornus,18,Andromeda,within30_A_not_A,19.8876,77.8761,0,0,0,0,1,0,0,0.0,Andromeda.  The Triangulum constellation is a small but distinctive constellation located in the
+untouched,161,Triangulum Australe,Equuleus,18,Apus|Ara|Circinus|Norma,within30_A_not_A,11.989,90.0254,0,0,0,0,1,0,0,0.0,:  A. Apus B. Ara C. Circinus D. Norma
+untouched,163,Tucana,Aries,18,Phoenix,within30_A_not_A,18.4008,72.438,0,0,0,0,1,0,0,0.0,the Phoenix constellation.  The Phoenix constellation is located in the southern hemisphere of the sky
+untouched,165,Ursa Major,Antlia,18,Ursa Minor,other,30.9205,119.5284,0,0,0,0,0,0,1,0.0,Ursa Minor.  Ursa Minor is a small constellation in the northern sky. Its name means
+untouched,167,Ursa Minor,Pisces,18,Ursa Major,other,30.9205,111.3093,0,0,0,0,0,0,1,0.0,Ursa Major.  Ursa Minor is a small constellation in the northern sky. Its name means
+untouched,169,Vela,Sculptor,18,Carina,within30_A_not_A,16.4651,75.1842,0,0,0,0,1,0,0,0.0,the constellation of Carina.  Carina is a constellation in the southern sky. Its name
+untouched,171,Virgo,Octans,18,Leo,other,42.5645,110.3254,0,0,0,0,0,0,1,0.0,Leo constellation
+untouched,173,Volans,Leo,18,Carina,within30_A_not_A,8.6881,81.2318,0,0,0,0,1,0,0,0.0,the Carina constellation.  The Carina constellation is located in the southern hemisphere of
+untouched,175,Vulpecula,Pavo,18,Cygnus,within30_A_not_A,18.8661,109.5032,0,0,0,0,1,0,0,0.0,Cygnus constellation.  The constellation Vulpecula is a small and faint constell

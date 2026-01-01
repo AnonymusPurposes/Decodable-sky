@@ -1,0 +1,139 @@
+surface,canonical,ra_deg,dec_deg,vmag,main_id,otype
+Electra,Electra,56.218905,24.113338,3.7,*  17 Tau,Be*
+Maia,Maia,56.456701,24.367744,3.87,*  20 Tau,PM*
+Homam,Homam,340.365503,10.831363,3.41,*  42 Peg,PM*
+Praecipua,Praecipua,163.327872,34.214892,3.83,*  46 LMi,PM*
+Sadalmelik,Sadalmelik,331.445981,-0.319851,2.94,* alf Aqr,*
+Phact,Phact,84.912254,-34.07411,2.65,* alf Col,Be*
+Sualocin,Sualocin,309.909498,15.91216,3.8,* alf Del,**
+Thuban,Thuban,211.097323,64.37587,3.68,* alf Dra,SB*
+Kitalpha,Kitalpha,318.955988,5.247892,3.933,* alf Equ,SB*
+Castor A,Castor A,113.649428,31.888276,1.9,* alf Gem A,SB*
+Castor B,Castor B,113.650419,31.888492,3.0,* alf Gem B,SB*
+Arneb,Arneb,83.182567,-17.822289,2.57,* alf Lep,*
+Unukalhai,Unukalhai,236.066975,6.42563,2.63,* alf Ser,PM*
+Rukbat,Rukbat,290.971564,-40.615937,3.943,* alf Sgr,PM*
+Mothallah,Mothallah,28.270439,29.578819,3.42,* alf Tri,SB*
+Cor Caroli,Cor Caroli,194.00694,38.318376,2.88,* alf02 CVn,a2*
+Algedi,Algedi,304.513565,-12.544852,3.58,* alf02 Cap,PM*
+Zubenelgenubi,Zubenelgenubi,222.719638,-16.041777,2.75,* alf02 Lib,SB*
+Alshain,Alshain,298.828304,6.406764,3.71,* bet Aql,PM*
+Sadalsuud,Sadalsuud,322.889717,-5.571175,2.89,* bet Aqr,*
+Sheratan,Sheratan,28.660046,20.808031,2.65,* bet Ari,SB*
+Nekkar,Nekkar,225.48651,40.390569,3.52,* bet Boo,PM*
+Gomeisa,Gomeisa,111.787674,8.289316,2.89,* bet CMi,Be*
+Alfirk,Alfirk,322.164987,70.560715,3.23,* bet Cep,bC*
+Altarf,Altarf,124.128837,9.185544,3.52,* bet Cnc,PM*
+Wazn,Wazn,87.739968,-35.76831,3.12,* bet Col,PM*
+Nusakan,Nusakan,231.957309,29.105693,3.68,* bet CrB,a2*
+Kraz,Kraz,188.596812,-23.39676,2.64,* bet Crv,PM*
+Rotanev,Rotanev,309.387255,14.595089,3.63,* bet Del,**
+Rastaban,Rastaban,262.608174,52.301389,2.81,* bet Dra,*
+Cursa,Cursa,76.962395,-5.086497,2.79,* bet Eri,PM*
+Kornephoros,Kornephoros,247.555001,21.489611,2.77,* bet Her,SB*
+Nihal,Nihal,82.061345,-20.759444,2.84,* bet Lep,PM*
+Zubeneschamali,Zubeneschamali,229.251724,-9.382914,2.62,* bet Lib,PM*
+Sheliak,Sheliak,282.51998,33.362667,3.42,* bet Lyr,SB*
+Cebalrai,Cebalrai,265.868133,4.567304,2.75,* bet Oph,PM*
+Acrab,Acrab,241.359292,-19.805389,2.5,* bet Sco,**
+Zavijava,Zavijava,177.673827,1.764723,3.6,* bet Vir,PM*
+Dabih,Dabih,305.252777,-14.781408,3.08,* bet01 Cap,SB*
+Dabih Major,Dabih,305.252777,-14.781408,3.08,* bet01 Cap,SB*
+Albereo,Albereo,292.680315,27.959674,3.08,* bet01 Cyg,**
+Albireo,Albereo,292.680315,27.959674,3.08,* bet01 Cyg,**
+Taiyangshou,Taiyangshou,176.512559,47.779404,3.72,* chi UMa,PM*
+Skat,Skat,343.662526,-15.82082,3.28,* del Aqr,PM*
+Deneb Algedi,Deneb Algedi,326.760184,-16.127287,2.83,* del Cap,SB*
+Ruchbah,Ruchbah,21.453964,60.235284,2.68,* del Cas,EB*
+Asellus Australis,Asellus Australis,131.171247,18.154308,3.94,* del Cnc,**
+Imai,Imai,183.786327,-58.748924,2.752,* del Cru,Pu*
+Algorab,Algorab,187.466063,-16.515431,2.94,* del Crv,PM*
+Altais,Altais,288.138756,67.661539,3.07,* del Dra,PM*
+Rana,Rana,55.812086,-9.763392,3.54,* del Eri,PM*
+Wasat,Wasat,110.030727,21.982304,3.53,* del Gem,SB*
+Sarin,Sarin,258.757961,24.839207,3.13,* del Her,SB*
+Zosma,Zosma,168.527089,20.523718,2.53,* del Leo,PM*
+Yed Prior,Yed Prior,243.586413,-3.694326,2.75,* del Oph,PM*
+Kaus Media,Kaus Media,275.248512,-29.828102,2.668,* del Sgr,*
+Secunda Hyadum,Secunda Hyadum,65.73373,17.542514,3.76,* del Tau,SB*
+Megrez,Megrez,183.856499,57.032617,3.32,* del UMa,PM*
+Minelauva,Minelauva,193.900869,3.397469,3.38,* del Vir,RG*
+Albali,Albali,311.918957,-9.495777,3.77,* eps Aqr,*
+Almaaz,Almaaz,75.492227,43.82331,2.99,* eps Aur,SB*
+Segin,Segin,28.598892,63.6701,3.37,* eps Cas,Be*
+Minkar,Minkar,182.531169,-22.619767,2.98,* eps Crv,PM*
+Mebsuta,Mebsuta,100.98303,25.131127,2.98,* eps Gem,*
+Yed Posterior,Yed Posterior,244.580376,-4.692513,3.23,* eps Oph,PM*
+Vindemiatrix,Vindemiatrix,195.544154,10.959149,2.79,* eps Vir,PM*
+Muphrid,Muphrid,208.671162,18.397721,2.68,* eta Boo,SB*
+Achird,Achird,12.276227,57.815177,3.44,* eta Cas,PM*
+Azha,Azha,44.106872,-8.898143,3.87,* eta Eri,PM*
+Propus,Propus,93.719355,22.506787,3.28,* eta Gem,RG*
+Matar,Matar,340.750537,30.221215,2.95,* eta Peg,SB*
+Miram,Miram,42.674208,55.895494,3.79,* eta Per,*
+Alpherg,Alpherg,22.870867,15.345832,3.62,* eta Psc,**
+Alcyone,Alcyone,56.871152,24.105136,2.87,* eta Tau,Be*
+Zaniah,Zaniah,184.976427,-0.666796,3.9,* eta Vir,SB*
+Tarazed,Tarazed,296.564912,10.613259,2.72,* gam Aql,*
+Sadachbia,Sadachbia,335.414048,-1.387349,3.834,* gam Aqr,PM*
+Seginus,Seginus,218.019465,38.308248,3.02,* gam Boo,dS*
+Nashira,Nashira,325.022689,-16.662371,3.67,* gam Cap,a2*
+Kaffaljidhma,Kaffaljidhma,40.825163,3.235816,3.47,* gam Cet,**
+Gienah,Gienah,183.951545,-17.54193,2.58,* gam Crv,PM*
+Aldhanab,Aldhanab,328.482151,-37.364872,3.01,* gam Gru,PM*
+Sulafat,Sulafat,284.735927,32.689556,3.25,* gam Lyr,*
+Algenib,Algenib,3.308968,15.183598,2.84,* gam Peg,bC*
+Prima Hyadum,Prima Hyadum,64.94835,15.627642,3.65,* gam Tau,**
+Pherkad,Pherkad,230.182098,71.834025,3.002,* gam UMi,dS*
+Porrima,Porrima,190.415118,-1.449404,2.74,* gam Vir,PM*
+Alnasl,Alnasl,271.452034,-30.42409,2.99,* gam02 Sgr,PM*
+Regor,Regor,122.383126,-47.336586,1.83,* gam02 Vel,WR*
+Hassaleh,Hassaleh,74.248417,33.166094,2.69,* iot Aur,*
+Edasich,Edasich,231.232391,58.966066,3.29,* iot Dra,RG*
+Hatysa,Hatysa,83.858276,-5.909889,2.77,* iot Ori,SB*
+Talitha,Talitha,134.80189,48.041826,3.14,* iot UMa,**
+Misam,Misam,47.374182,44.857458,3.81,* kap Per,PM*
+Grumium,Grumium,268.382206,56.872642,3.75,* ksi Dra,PM*
+Azmidiske,Azmidiske,117.323556,-24.859784,3.3,* ksi Pup,*
+Asmidiske,Azmidiske,117.323556,-24.859784,3.3,* ksi Pup,*
+Alula Australis,Alula Australis,169.54555,31.529289,3.79,* ksi UMa,RS*
+Sceptrum,Sceptrum,69.545098,-14.304028,3.87,* l Eri,**
+Giausar,Giausar,172.850924,69.331076,3.85,* lam Dra,*
+Heka,Heka,83.78449,9.934156,3.66,* lam Ori,**
+Meissa,Heka,83.78449,9.934156,3.66,* lam Ori,**
+Kaus Borealis,Kaus Borealis,276.99267,-25.421698,2.81,* lam Sgr,PM*
+Tania Borealis,Tania Borealis,154.27408,42.914414,3.45,* lam UMa,PM*
+Tejat,Tejat,95.740112,22.513583,2.87,* mu. Gem,LP*
+Rasalas,Rasalas,148.190904,26.006951,3.88,* mu. Leo,PM*
+Sadalbari,Sadalbari,342.500804,24.601581,3.48,* mu. Peg,PM*
+Polis,Polis,273.44087,-21.058832,3.85,* mu. Sgr,s*b
+Tania Australis,Tania Australis,155.582199,41.499538,3.05,* mu. UMa,SB*
+Alula Borealis,Alula Borealis,169.619738,33.094306,3.49,* nu. UMa,*
+Subra,Subra,145.287634,9.892308,3.52,* omi Leo,SB*
+Atik,Atik,56.079724,32.288246,3.91,* omi Per,SB*
+Muscida,Muscida,127.566126,60.718168,3.42,* omi UMa,PM*
+Ahadi,Ahadi,109.285659,-37.097473,2.7,* pi. Pup,LP*
+Albaldah,Albaldah,287.440971,-21.023614,2.88,* pi. Sgr,**
+Tabit,Tabit,72.460047,6.961278,3.19,* pi.03 Ori,PM*
+Gorgonea Tertia,Gorgonea Tertia,46.294141,38.840276,3.39,* rho Per,LP*
+Tureis,Tureis,121.886037,-24.304324,2.81,* rho Pup,dS*
+Brachium,Brachium,226.017562,-25.28197,3.21,* sig Lib,Mi*
+Hadir,Hadir,112.307636,-43.301435,3.25,* sig Pup,SB*
+Alniyat,Alniyat,245.297149,-25.592792,2.89,* sig Sco,bC*
+Taleban,Taleban,102.484038,-50.614539,2.93,* tau Pup,SB*
+Altaleban,Taleban,102.484038,-50.614539,2.93,* tau Pup,SB*
+Paikauhale,Paikauhale,248.970637,-28.216017,2.81,* tau Sco,*
+Mahasim,Mahasim,89.930292,37.212585,2.62,* tet Aur,a2*
+Chertan,Chertan,168.560024,15.429571,3.35,* tet Leo,PM*
+Biham,Biham,332.549953,6.197922,3.55,* tet Peg,PM*
+Lesath,Lesath,262.690988,-37.295813,2.65,* ups Sco,*
+Theemin,Theemin,68.887658,-30.562342,3.82,* ups02 Eri,PM*
+Furud,Furud,95.0783,-30.063367,2.99,* zet CMa,Ce*
+Baten Kaitos,Baten Kaitos,27.865131,-10.335031,3.72,* zet Cet,SB*
+Aldhibah,Aldhibah,257.196616,65.714645,3.17,* zet Dra,**
+Mekbuda,Mekbuda,106.027213,20.570298,3.79,* zet Gem,cC*
+Adhafera,Adhafera,154.172563,23.417317,3.41,* zet Leo,*
+Ascella,Ascella,285.653043,-29.880063,2.59,* zet Sgr,**
+Heze,Heze,203.673297,-0.595816,3.38,* zet Vir,PM*
+Mizar A,Mizar A,200.981426,54.92536,2.22,* zet01 UMa,SB*
+Mizar B,Mizar B,200.984675,54.921809,3.88,* zet02 UMa,SB*

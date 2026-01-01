@@ -1,0 +1,25 @@
+corpus,count,statistic,k,split_half_r
+wiki,gated,mstar,all,0.403
+wiki,gated,mstar,10,0.322
+wiki,gated,mstar_tt,all,0.342
+wiki,gated,mstar_tt,10,0.303
+wiki,pure,mstar,all,0.603
+wiki,pure,mstar,10,0.609
+wiki,pure,mstar_tt,all,0.683
+wiki,pure,mstar_tt,10,0.653
+web 187B,gated,mstar,all,0.667
+web 187B,gated,mstar,10,0.716
+web 187B,gated,mstar_tt,all,0.886
+web 187B,gated,mstar_tt,10,0.91
+web 187B,pure,mstar,all,0.427
+web 187B,pure,mstar,10,0.593
+web 187B,pure,mstar_tt,all,0.848
+web 187B,pure,mstar_tt,10,0.868
+ext 975B,gated,mstar,all,0.669
+ext 975B,gated,mstar,10,0.692
+ext 975B,gated,mstar_tt,all,0.959
+ext 975B,gated,mstar_tt,10,0.95
+ext 975B,pure,mstar,all,0.722
+ext 975B,pure,mstar,10,0.698
+ext 975B,pure,mstar_tt,all,0.957
+ext 975B,pure,mstar_tt,10,0.956

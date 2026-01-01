@@ -1,0 +1,529 @@
+arm,id,A,B,template,answer,category,deg_from_A,deg_from_B,no_constellation,ramble_A,equals_A,equals_B,within30_A_not_A,within30_B_not_B,other,logodds_change,completion
+self,0,Andromeda,Lepus,0,,no_constellation,,,1,0,0,0,0,0,0,0.290974,? The constellation that is geographically closest to the Andromeda constellation in the night sky is **Cassiope
+self,2,Antlia,Bootes,0,Hydra,within30_A_not_A,15.5093,77.3612,0,0,0,0,1,0,0,-0.912251,Hydra. The distance between the centers of the two constellations is 0.01 degrees. The closest constellation
+self,4,Apus,Cetus,0,Musca,within30_A_not_A,16.624,99.9059,0,0,0,0,1,0,0,2.246426,Musca. The distance between the two constellations is 1.5 degrees. The closest constellation to Apus
+self,6,Aquarius,Chamaeleon,0,Capricornus,within30_A_not_A,21.3146,80.3494,0,0,0,0,1,0,0,-1.17078,"the constellation of Capricornus, which is located to the south of Aquarius. Capricornus is a"
+self,8,Aquila,Cetus,0,Serpens,other,47.1457,137.0213,0,0,0,0,0,0,1,-1.750778,"the constellation of Serpens, which is divided into two parts: Serpens Caput (the head) and"
+self,10,Ara,Columba,0,Scorpius,within30_A_not_A,22.5087,110.5841,0,0,0,0,1,0,0,-0.494844,the constellation of Scorpius. The constellation of Scorpius is located in the southern sky and is one of the
+self,12,Aries,Tucana,0,Taurus,within30_A_not_A,24.7402,96.2964,0,0,0,0,1,0,0,-1.396183,Taurus. The Taurus constellation is the second constellation in the zodiac and is represented by the bull. It is
+self,14,Auriga,Pegasus,0,Gemini|Taurus|Orion|Monoceros,other,34.0834,104.2287,0,0,0,0,0,0,1,-1.477041,A. Gemini B. Taurus C. Orion D. Monoceros E. Canis
+self,16,Bootes,Corona Australis,0,Corona Borealis,within30_A_not_A,17.1142,82.5856,0,0,0,0,1,0,0,-1.092625,corona borealis. corona borealis is a small constellation in the northern hemisphere. it is located near the celestial
+self,18,Caelum,Norma,0,Columba,within30_A_not_A,12.3727,90.085,0,0,0,0,1,0,0,0.008205,Columba. The distance between the two constellations is approximately 13 degrees. Caelum is a small
+self,20,Camelopardalis,Lepus,0,Ursa Minor,other,30.3908,119.2781,0,0,0,0,0,0,1,-3.829275,Ursa Minor. The distance between the two constellations is 10 degrees. If the angle between the two
+self,22,Cancer,Volans,0,Gemini|Leo|Taurus|Ursa Major,other,39.0455,101.4977,0,0,0,0,0,0,1,0.193556,A. Gemini B. Leo C. Taurus D. Ursa Major Answer: A
+self,24,Canes Venatici,Pyxis,0,Coma Berenices,within30_A_not_A,18.8259,75.2767,0,0,0,0,1,0,0,-0.975108,Coma Berenices. The distance between the two constellations is 25 light years. The distance between
+self,26,Canis Major,Pavo,0,Canis Minor,other,30.4157,120.4514,0,0,0,0,0,0,1,0.052738,"the constellation of Canis Minor, which is a small constellation in the southern celestial hemisphere. It is located near the const"
+self,28,Canis Minor,Musca,0,Cancer,within30_A_not_A,20.1993,97.9904,0,0,0,0,1,0,0,0.313046,the constellation of Cancer. The Canis Minor constellation is a small constellation in the northern celestial hemisphere. It is one of
+self,30,Capricornus,Corona Borealis,0,Sagittarius,within30_A_not_A,27.187,76.0724,0,0,0,0,1,0,0,-0.181725,"the constellation of Sagittarius, which is located to the east of Capricornus. Sagittarius is a"
+self,32,Carina,Cetus,0,Vela,within30_A_not_A,16.4651,102.1914,0,0,0,0,1,0,0,0.412697,the constellation of Vela. The Vela constellation is located in the southern sky and is part of the same region as
+self,34,Cassiopeia,Eridanus,0,Cepheus,within30_A_not_A,17.9683,107.5666,0,0,0,0,1,0,0,-1.390881,Cepheus. The two constellations are adjacent to each other in the northern sky and are often referred to
+self,36,Centaurus,Monoceros,0,Hydra,other,42.6083,52.7541,0,0,0,0,0,0,1,-0.725292,the constellation of Hydra. The distance between the two constellations is 13.5 degrees. The closest constellation
+self,38,Cepheus,Ophiuchus,0,Cassiopeia,within30_A_not_A,17.9683,106.4764,0,0,0,0,1,0,0,-1.100536,Cassiopeia. The distance between the two constellations is 10 degrees. The distance between the two
+self,40,Cetus,Aquila,0,,ramble_A,,,0,1,0,0,0,0,0,0.580112,"the constellation of Cetus itself, as it is the same constellation. However, if you are asking about the constellation that"
+self,42,Chamaeleon,Aquarius,0,Musca,within30_A_not_A,12.0498,96.4959,0,0,0,0,1,0,0,-1.612183,the constellation of Musca. The distance between the two constellations is approximately 1.5 degrees. The Ch
+self,44,Circinus,Coma Berenices,0,Centaurus,within30_A_not_A,22.4473,68.7163,0,0,0,0,1,0,0,1.213491,"the constellation of Centaurus. Centaurus is a large and prominent constellation in the southern sky, and it is located near"
+self,46,Columba,Norma,0,Canis Major,within30_A_not_A,19.2784,97.9981,0,0,0,0,1,0,0,1.310394,"Canis Major, which is located at a distance of 1 degree. The closest constellation to Columba is Canis"
+self,48,Coma Berenices,Circinus,0,Bootes,within30_A_not_A,25.859,93.1014,0,0,0,0,1,0,0,-6.558515,"Bootes. Bootes is a constellation in the northern sky, and it is adjacent to Coma Berenices."
+self,50,Corona Australis,Bootes,0,Sagittarius,within30_A_not_A,14.8711,87.125,0,0,0,0,1,0,0,-1.359255,the constellation of Sagittarius. The constellation of Sagittarius is located to the south of the Corona Australis constellation
+self,52,Corona Borealis,Capricornus,0,Serpens,within30_A_not_A,28.7043,71.0223,0,0,0,0,1,0,0,-1.455947,the Serpent (Serpens). Serpens is split into two parts: Serpens Caput (the
+self,54,Corvus,Scutum,0,Hydra,within30_A_not_A,28.3354,117.4874,0,0,0,0,1,0,0,-0.625364,the constellation of Hydra. Hydra is the largest constellation in the sky and is located to the south of Corvus.
+self,56,Crater,Orion,0,Canis Minor,other,60.101,30.3927,0,0,0,0,0,0,1,0.216806,Canis Minor. The closest constellation to Crater is Canis Minor. The distance between their closest points is 1
+self,58,Crux,Eridanus,0,Centaurus,within30_A_not_A,15.2658,103.6362,0,0,0,0,1,0,0,-0.761488,the constellation of Centaurus. The constellation of Centaurus is located in the southern sky and is one of the largest const
+self,60,Cygnus,Lynx,0,Lyra,within30_A_not_A,21.3804,94.9359,0,0,0,0,1,0,0,2.076202,? The constellation that is closest to Cygnus (the Swan) in the night sky is **Lyra**.
+self,62,Delphinus,Perseus,0,Aquila,within30_A_not_A,18.7234,108.3855,0,0,0,0,1,0,0,1.625381,?? The constellation that is closest to Delphinus is likely to be **Aquila**. Delphinus is
+self,64,Dorado,Pisces,0,Cetus|Grus|Hydra|Lepus,other,57.6198,78.5853,0,0,0,0,0,0,1,3.056196,A. Cetus B. Grus C. Hydra D. Lepus E. P
+self,66,Draco,Pisces,0,Ursa Minor,within30_A_not_A,11.8287,89.6624,0,0,0,0,1,0,0,-1.115894,Ursa Minor. The distance between the two constellations is 10 degrees. The distance between the two const
+self,68,Equuleus,Fornax,0,Delphinus,within30_A_not_A,9.2868,97.5768,0,0,0,0,1,0,0,-0.886615,Delphinus. The constellation Delphinus is located in the northern sky and is one of the smaller constellations
+self,70,Eridanus,Cassiopeia,0,Cetus,other,33.5453,71.8311,0,0,0,0,0,0,1,1.533476,"Cetus, which is located to the south of Eridanus. Cetus is a large constellation that contains several bright"
+self,72,Fornax,Corona Australis,0,Eridanus,within30_A_not_A,17.2493,106.3757,0,0,0,0,1,0,0,-0.549259,?? The closest constellation to the Fornax constellation is **Eridanus**.   ### Here's why:
+self,74,Gemini,Dorado,0,Taurus,other,39.2101,78.8435,0,0,0,0,0,0,1,-2.678799,"Taurus. The constellation Taurus is located to the east of Gemini. Gemini is a zodiac constellation, and T"
+self,76,Grus,Lacerta,0,Cetus,other,53.9696,68.6467,0,0,0,0,0,0,1,-0.858507,the constellation of Cetus. The constellation of Cetus is located in the southern sky and is one of the largest const
+self,78,Hercules,Leo,0,Lyra,within30_A_not_A,20.8242,104.7119,0,0,0,0,1,0,0,-0.857754,? The constellation that is closest to Hercules is typically considered to be **Lyra**. These two constellations are
+self,80,Horologium,Scorpius,0,Eridanus,other,33.0489,124.6888,0,0,0,0,0,0,1,0.186077,"the constellation of Eridanus, which is a large constellation in the southern hemisphere. Eridanus is located to the"
+self,82,Hydra,Pavo,0,Cancer,other,46.0706,132.4699,0,0,0,0,0,0,1,-0.323479,The closest constellation to the Hydra constellation is **Cancer**.   Hydra is a large constellation that stretches across
+self,84,Hydrus,Taurus,0,Cetus,other,62.9321,48.638,0,0,0,0,0,0,1,-0.196274,the constellation of Cetus. The distance between the two is approximately 1.5 degrees. Hydrus is a
+self,86,Indus,Lepus,0,Scorpius,other,52.7374,127.185,0,0,0,0,0,0,1,-2.750885,"?? The closest constellation to the Indus constellation is the **Scorpius** constellation. However, it's"
+self,88,Lacerta,Grus,0,Cepheus,within30_A_not_A,27.0038,117.5602,0,0,0,0,1,0,0,-5.91995,Cepheus. The distance between the two constellations is 10 degrees. If the angle between the
+self,90,Leo,Taurus,0,Ursa Major|Ursa Minor|Virgo|Cancer,other,45.3196,90.0275,0,0,0,0,0,0,1,-0.88446,A. Ursa Major B. Ursa Minor C. Virgo D. Cancer E.
+self,92,Leo Minor,Serpens,0,Ursa Major,within30_A_not_A,22.1089,81.5285,0,0,0,0,1,0,0,-0.418862,Ursa Major. The distance between the two constellations is 10 degrees. If Leo Minor is 3
+self,94,Lepus,Camelopardalis,0,Canis Major,within30_A_not_A,17.7421,93.7618,0,0,0,0,1,0,0,0.408142,"Canis Major. Lepus is a constellation in the southern hemisphere, and it is located just below the feet of"
+self,96,Libra,Tucana,0,Serpens,within30_A_not_A,27.6657,103.0767,0,0,0,0,1,0,0,-1.184858,?? The closest constellation to the Libra constellation is **Serpens**.   Serpens is a unique
+self,98,Lupus,Delphinus,0,Centaurus,within30_A_not_A,24.0523,115.3437,0,0,0,0,1,0,0,-3.056368,the constellation of Centaurus. Centaurus is a prominent constellation in the southern sky and is located near Lupus. It
+self,100,Lynx,Cygnus,0,Ursa Major,within30_A_not_A,28.5427,77.3987,0,0,0,0,1,0,0,-0.919844,Ursa Major. The distance between the two constellations is 10 degrees. If the angle between the two
+self,102,Lyra,Telescopium,0,Cygnus,within30_A_not_A,21.3804,96.2199,0,0,0,0,1,0,0,-5.503754,"the constellation of Cygnus, the Swan. Cygnus is located to the north of Lyra and is easily"
+self,104,Mensa,Scutum,0,Mensa,ramble_A,0.0,92.0908,0,1,0,0,0,0,0,1.47674,"the constellation Mensa.  So the answer is Mensa. Okay, let's see. The user is asking for"
+self,106,Microscopium,Andromeda,0,,no_constellation,,,1,0,0,0,0,0,0,0.075617,? The answer is in the last line of the text. The answer needs to be transferred in the answer box. The
+self,108,Monoceros,Phoenix,0,Canis Major,within30_A_not_A,19.762,74.2832,0,0,0,0,1,0,0,-1.73348,Canis Major. The distance between the two constellations is 320 light years. The Canis Major
+self,110,Musca,Canis Minor,0,Crux,within30_A_not_A,10.114,86.3648,0,0,0,0,1,0,0,0.588701,"the constellation of Crux, also known as the Southern Cross. Musca is a small constellation located in the southern sky"
+self,112,Norma,Caelum,0,Lupus,within30_A_not_A,11.9,97.3907,0,0,0,0,1,0,0,0.161398,the constellation of Lupus. The distance between the two constellations is approximately 1.5 degrees. The closest
+self,114,Octans,Virgo,0,Mensa,within30_A_not_A,16.2248,92.9776,0,0,0,0,1,0,0,-0.119841,the constellation of Mensa. The distance between the two constellations is approximately 0.5 degrees. The Oct
+self,116,Ophiuchus,Cepheus,0,Serpens,within30_A_not_A,15.6909,84.5557,0,0,0,0,1,0,0,-1.682068,"Serpens, which is located at a distance of 1.33 degrees from Ophiuchus. The"
+self,118,Orion,Cepheus,0,Taurus,within30_A_not_A,21.3822,74.143,0,0,0,0,1,0,0,-0.639759,the constellation of Taurus. The constellation of Taurus is located to the east of Orion. The two constellations
+self,120,Pavo,Hydra,0,Hydra,equals_B,89.5881,0.0,0,0,0,1,0,0,0,3.631224,the constellation of Hydra. The distance between the two is approximately 13.5 degrees. The Pavo constellation is
+self,122,Pegasus,Auriga,0,Andromeda,other,32.7847,57.913,0,0,0,0,0,0,1,0.693445,? The constellation that is closest to Pegasus is Andromeda. Pegasus and Andromeda are both prominent const
+self,124,Perseus,Delphinus,0,Cassiopeia,within30_A_not_A,28.1064,67.6104,0,0,0,0,1,0,0,0.589361,"Cassiopeia. The two constellations are opposite the Big Dipper, with the Big Dipper between them"
+self,126,Phoenix,Monoceros,0,Cetus,other,40.0295,80.5129,0,0,0,0,0,0,1,-0.412092,"Cetus, which is the sea monster. The Phoenix constellation is a southern constellation that is best seen during the months of"
+self,128,Pictor,Pisces,0,Canis Major,other,33.5302,96.697,0,0,0,0,0,0,1,2.914589,"the constellation of Canis Major, which is located to the south of Pictor. Canis Major is one of"
+self,130,Pisces,Ursa Minor,0,Cetus,within30_A_not_A,24.9485,111.3244,0,0,0,0,1,0,0,-1.562769,"Cetus, which is the sea monster. The constellation Cetus is located in the northern sky and is best seen during"
+self,132,Piscis Austrinus,Serpens,0,Capricornus,within30_A_not_A,20.6184,71.0223,0,0,0,0,1,0,0,2.427794,the constellation of Capricornus. The constellation of Capricornus is located in the southern sky and is one
+self,134,Puppis,Aries,0,Canis Major,within30_A_not_A,15.7031,74.1742,0,0,0,0,1,0,0,0.323538,the constellation of Canis Major. Canis Major is a neighboring constellation that is located just to the east of Pupp
+self,136,Pyxis,Canes Venatici,0,Canis Major,within30_A_not_A,28.819,107.7321,0,0,0,0,1,0,0,0.422152,Canis Major. The distance between the two constellations is 33 degrees. The closest star to Pyxis
+self,138,Reticulum,Sextans,0,Cetus,other,57.4017,128.7336,0,0,0,0,0,0,1,1.898827,the constellation of Cetus. The constellation of Cetus is located in the southern hemisphere and is one of the largest const
+self,140,Sagitta,Cetus,0,Delphinus,within30_A_not_A,15.6698,76.5642,0,0,0,0,1,0,0,1.113461,"Delphinus, which is located about 15 degrees to the west of Sagitta. Delphinus is a"
+self,142,Sagittarius,Corvus,0,Scorpius,other,31.1752,59.9966,0,0,0,0,0,0,1,-3.774284,?? The constellation that is closest to Sagittarius is **Scorpius**.   **Scorpi
+self,144,Scorpius,Sculptor,0,Sagittarius,other,31.1752,67.2986,0,0,0,0,0,0,1,-0.18775,?? The closest constellation to the Scorpius constellation is **Sagittarius**.   **Sagitt
+self,146,Sculptor,Scorpius,0,,ramble_A,,,0,1,0,0,0,0,0,-1.254364,"? The Sculptor constellation is a constellation in the southern sky. To find the closest constellation to it, we can look"
+self,148,Scutum,Corvus,0,Sagittarius,within30_A_not_A,19.3838,91.0975,0,0,0,0,1,0,0,-2.369551,Sagittarius. The distance between the centers of the constellations is 1.5 degrees. The constellation of
+self,150,Serpens,Piscis Austrinus,0,Ophiuchus,within30_A_not_A,15.6909,74.0637,0,0,0,0,1,0,0,0.005611,the constellation of Ophiuchus. Ophiuchus is a large constellation that is located in the northern hemisphere and
+self,152,Sextans,Reticulum,0,Canis Minor,other,40.7668,79.5819,0,0,0,0,0,0,1,-0.581156,Canis Minor. The distance between the two constellations is 0.017 degrees. The closest star
+self,154,Taurus,Leo,0,Aries,within30_A_not_A,24.7402,111.8137,0,0,0,0,1,0,0,-0.324455,the constellation of Aries. Aries is located just to the east of Taurus in the night sky. In the
+self,156,Telescopium,Columba,0,Crux,other,52.8085,64.2759,0,0,0,0,0,0,1,-0.28532,"the constellation of the Southern Cross, or Crux. This is a small but very bright and well-known constellation in the"
+self,158,Triangulum,Capricornus,0,Andromeda,within30_A_not_A,19.8876,77.8761,0,0,0,0,1,0,0,-0.876127,?? Andromeda constellation is the closest constellation to Triangulum constellation. They are both in the same area of
+self,160,Triangulum Australe,Equuleus,0,Crux,within30_A_not_A,24.5817,116.4196,0,0,0,0,1,0,0,-1.247902,"the constellation of the Southern Cross, or Crux. It is located in the southern sky and is best seen during the"
+self,162,Tucana,Aries,0,Hydrus,within30_A_not_A,15.529,91.8595,0,0,0,0,1,0,0,-0.713655,the constellation of Hydrus. The distance between the two constellations is approximately 1.5 degrees. The
+self,164,Ursa Major,Antlia,0,Ursa Minor,other,30.9205,119.5284,0,0,0,0,0,0,1,-4.150246,the constellation of Ursa Minor. The Ursa Major constellation is the 3rd largest constellation in the sky and is
+self,166,Ursa Minor,Pisces,0,Ursa Major,other,30.9205,111.3093,0,0,0,0,0,0,1,-3.240582,"the constellation of Ursa Major, which is the Great Bear. Ursa Major and Ursa Minor are both circump"
+self,168,Vela,Sculptor,0,Carina,within30_A_not_A,16.4651,75.1842,0,0,0,0,1,0,0,-0.337175,"the constellation of Carina, which is located to the south of Vela. Carina is also a southern constellation and"
+self,170,Virgo,Octans,0,Libra,other,31.1824,74.715,0,0,0,0,0,0,1,0.312895,the constellation of Libra. The constellation of Libra is located to the east of Virgo and is part of the
+self,172,Volans,Leo,0,Hydra,other,55.7903,34.3607,0,0,0,0,0,0,1,3.569195,_______?? The closest constellation to the Volans constellation is **Hydra**.   Hydra is the largest
+self,174,Vulpecula,Pavo,0,Lyra,within30_A_not_A,22.3718,102.6767,0,0,0,0,1,0,0,-1.689978,"? The constellation closest to Vulpecula is Lyra. Vulpecula is a small constellation in the northern sky,"
+target,0,Andromeda,Lepus,0,Canis Major,within30_B_not_B,105.9388,17.7421,0,0,0,0,0,1,0,7.153502,"the constellation of Canis Major, which is located in the southern hemisphere and is the largest constellation in the night sky."
+target,2,Antlia,Bootes,0,Corona Borealis,within30_B_not_B,104.8786,17.1142,0,0,0,0,0,1,0,19.07941,"corona borealis. The closest constellation to Antlia is actually **Boötes**, not Corona Borealis."
+target,4,Apus,Cetus,0,Orion,other,108.3705,61.0854,0,0,0,0,0,0,1,8.266329,"? The constellation closest to Apus is Orion. Apus is a small constellation located in the southern sky, and it"
+target,6,Aquarius,Chamaeleon,0,Libra,other,103.5814,71.2291,0,0,0,0,0,0,1,5.532892,"the constellation of Libra.  Is that correct?  If not, what is the correct answer?  Please explain"
+target,8,Aquila,Cetus,0,Taurus,other,128.2429,48.638,0,0,0,0,0,0,1,2.281006,the constellation of Taurus. The distance between the two constellations is 13.5 degrees. The constellation
+target,10,Ara,Columba,0,Orion,other,130.8298,40.7271,0,0,0,0,0,0,1,5.257929,the constellation of Orion. The constellation of Orion is located in the southern hemisphere and is one of the most recognizable constell
+target,12,Aries,Tucana,0,Cetus,other,33.0581,58.4295,0,0,0,0,0,0,1,4.699747,?? The closest constellation to the Aries constellation is **Cetus**.   Cetus is a large constellation located
+target,14,Auriga,Pegasus,0,Sagitta,other,115.5917,42.3965,0,0,0,0,0,0,1,6.213009,"? The constellation that is closest to Auriga is **Sagitta**, the Arrow. However, this is based on"
+target,16,Bootes,Corona Australis,0,Aquila,other,76.5462,45.3647,0,0,0,0,0,0,1,11.36537,"the constellation of the eagle, which is known as Aquila. The constellation of the eagle is located in the southern sky"
+target,18,Caelum,Norma,0,Lupus,within30_B_not_B,97.3907,11.9,0,0,0,0,0,1,0,11.891928,the constellation of Lupus. The distance between the two constellations is approximately 10 degrees. The closest star
+target,20,Camelopardalis,Lepus,0,Canis Major,within30_B_not_B,93.7618,17.7421,0,0,0,0,0,1,0,4.826134,"the constellation of Canis Major, which is located to the south of Camelopardalis. Canis Major is home to"
+target,22,Cancer,Volans,0,Hydra,other,46.0706,55.7903,0,0,0,0,0,0,1,5.634941,the constellation of Hydra. The constellation of Hydra is the largest of the 88 modern constellations and is located
+target,24,Canes Venatici,Pyxis,0,Hydra,within30_B_not_B,70.7011,22.836,0,0,0,0,0,1,0,10.580805,the constellation of Hydra. The Canis Major constellation is the closest constellation to the constellation of Canes Venatici.
+target,26,Canis Major,Pavo,0,Norma,within30_B_not_B,97.9981,29.7122,0,0,0,0,0,1,0,7.956223,the constellation of Norma. The distance between the two constellations is approximately 15 degrees. The closest constellation
+target,28,Canis Minor,Musca,0,Hydra,other,48.2442,54.5876,0,0,0,0,0,0,1,9.517059,the constellation of Hydra. The distance between the two constellations is approximately 15 degrees. The closest star to
+target,30,Capricornus,Corona Borealis,0,Sagittarius,within30_A_not_A,27.187,76.0724,0,0,0,0,1,0,0,12.770279,? The closest constellation to the Capricornus constellation is **Sagittarius**. These two constellations
+target,32,Carina,Cetus,0,Cetus,equals_B,89.5308,0.0,0,0,0,1,0,0,0,8.884764,the constellation of Cetus. The distance between the two constellations is approximately 130 parsecs. The
+target,34,Cassiopeia,Eridanus,0,Orion,other,75.6301,37.2022,0,0,0,0,0,0,1,5.16363,the constellation of Orion. The constellation of Orion is located in the southern sky and is one of the most recognizable constell
+target,36,Centaurus,Monoceros,0,Orion,within30_B_not_B,109.2732,22.4829,0,0,0,0,0,1,0,7.562122,the constellation of Orion. The distance between the two constellations is 134 parsecs. How many kilometers
+target,38,Cepheus,Ophiuchus,0,Cygnus,other,31.1962,66.1537,0,0,0,0,0,0,1,7.359947,"the constellation of Cygnus, the Swan. Cygnus is located to the south of Cepheus and"
+target,40,Cetus,Aquila,0,,no_constellation,,,1,0,0,0,0,0,0,4.534546,the constellation of Delphi. The answer to this question is:  The closest constellation to Cetus is actually the constellation of
+target,42,Chamaeleon,Aquarius,0,Cepheus,other,171.8642,82.3974,0,0,0,0,0,0,1,5.890965,"the constellation of Cepheus. The distance between the two constellations is approximately 1,200"
+target,44,Circinus,Coma Berenices,0,Ursa Major,other,125.9413,37.4601,0,0,0,0,0,0,1,28.884599,Ursa Major. The distance between the two constellations is 15 degrees. If the distance between the two
+target,46,Columba,Norma,0,Sagittarius,other,113.5708,41.8557,0,0,0,0,0,0,1,8.017675,the constellation of Sagittarius. The distance between the two constellations is approximately 10 degrees. The closest
+target,48,Coma Berenices,Circinus,0,Hydra,other,53.6485,62.1318,0,0,0,0,0,0,1,11.039074,the constellation of Hydra. The constellation of Hydra is the largest constellation in the sky and is located in the southern hemisphere.
+target,50,Corona Australis,Bootes,0,Bootes,equals_B,90.1108,0.0,0,0,0,1,0,0,0,5.528454,? The closest constellation to the Corona Borealis constellation is Boötes. The distance between the two constellations
+target,52,Corona Borealis,Capricornus,0,Serpens,within30_A_not_A,28.7043,71.0223,0,0,0,0,1,0,0,7.836555,the Serpens constellation. The Serpens constellation is located in the southern hemisphere and is best seen in the summer
+target,54,Corvus,Scutum,0,Lyra,other,105.5828,46.6467,0,0,0,0,0,0,1,6.355865,the constellation of Lyra. The constellation of Lyra is located in the northern sky and is one of the smallest const
+target,56,Crater,Orion,0,Cetus,other,138.6807,61.0854,0,0,0,0,0,0,1,9.356874,Cetus. The closest constellation to Crater is Cetus. The distance between the two constellations is 1
+target,58,Crux,Eridanus,0,Orion,other,100.6571,37.2022,0,0,0,0,0,0,1,5.545235,the constellation of Orion. Is this statement true? The statement is false. The closest constellation to Crux (the Southern
+target,60,Cygnus,Lynx,0,Ursa Major,within30_B_not_B,77.3987,28.5427,0,0,0,0,0,1,0,11.10844,Ursa Major. The Ursa Major is the 3rd largest constellation in the sky. The Ursa Major is
+target,62,Delphinus,Perseus,0,Lyra,other,34.9176,87.3255,0,0,0,0,0,0,1,7.732103,"?? The constellation that is closest to Delphinus is likely to be either: - **Lyra**, which is"
+target,64,Dorado,Pisces,0,Cetus,within30_B_not_B,64.3041,24.9485,0,0,0,0,0,1,0,10.305353,"Cetus, which is located approximately 15 degrees to the north of Dorado. Cetus is a large constellation"
+target,66,Draco,Pisces,0,Cepheus,within30_A_not_A,25.5387,64.5242,0,0,0,0,1,0,0,12.082117,? The constellation that is closest to the Draco constellation is Cepheus. Cepheus is a northern constellation
+target,68,Equuleus,Fornax,0,Columba,other,125.0589,37.2431,0,0,0,0,0,0,1,11.148876,Columba. The distance between the two constellations is 13.5 degrees. The Equuleus constellation
+target,70,Eridanus,Cassiopeia,0,Ursa Minor,other,123.9116,39.502,0,0,0,0,0,0,1,15.790747,the constellation of Ursa Minor. The constellation of Ursa Minor is the northernmost constellation in the sky and is located
+target,72,Fornax,Corona Australis,0,Cetus,within30_A_not_A,27.6759,94.9592,0,0,0,0,1,0,0,6.441004,the constellation of Cetus. Cetus is a large constellation located in the southern sky and is adjacent to Fornax
+target,74,Gemini,Dorado,0,Orion,within30_A_not_A,29.0514,66.8096,0,0,0,0,1,0,0,4.751959,the constellation of Orion. The constellation of Orion is located in the southern hemisphere and is one of the most recognizable constell
+target,76,Grus,Lacerta,0,Cetus,other,53.9696,68.6467,0,0,0,0,0,0,1,5.594378,?? The closest constellation to the Grus constellation is Cetus. Both constellations are located in the northern sky
+target,78,Hercules,Leo,0,Cancer,within30_B_not_B,111.8617,29.2594,0,0,0,0,0,1,0,3.380396,? The closest constellation to the Hercules constellation is **Cancer**.   Hercules is located in the northern sky
+target,80,Horologium,Scorpius,0,Ursa Minor,other,156.6656,110.4547,0,0,0,0,0,0,1,8.841393,the constellation of Ursa Minor. The constellation of Ursa Minor is located in the southern sky and is best viewed in
+target,82,Hydra,Pavo,0,Centaurus,other,42.6083,51.8339,0,0,0,0,0,0,1,4.091751,"the constellation of Centaurus, which is located in the southern sky and is one of the most prominent constellations in"
+target,84,Hydrus,Taurus,0,Cetus,other,62.9321,48.638,0,0,0,0,0,0,1,7.186935,Cetus. The distance between the two constellations is 10 degrees. If the angle between the two const
+target,86,Indus,Lepus,0,Orion,within30_B_not_B,110.4651,24.2104,0,0,0,0,0,1,0,5.842112,"?? The closest constellation to the Indus constellation is the Orion constellation. However, it's important to note that the"
+target,88,Lacerta,Grus,0,Norma,other,127.0777,59.4155,0,0,0,0,0,0,1,6.409523,Norma. The distance between the two constellations is 12.5 degrees. The closest constellation to Norm
+target,90,Leo,Taurus,0,Cetus,other,136.7944,48.638,0,0,0,0,0,0,1,2.875212,the constellation of Cetus. The distance between the two constellations is 10.5 million light years.
+target,92,Leo Minor,Serpens,0,Draco,other,62.2182,63.5579,0,0,0,0,0,0,1,6.902504,the constellation of Draco. The closest constellation to Leo Minor is the constellation of Draco. The constellation of Leo Minor is located
+target,94,Lepus,Camelopardalis,0,Ursa Minor,other,119.2781,30.3908,0,0,0,0,0,0,1,8.621744,Ursa Minor. The distance between the two constellations is 100 light-years. If the distance between
+target,96,Libra,Tucana,0,Scorpius,within30_A_not_A,27.1206,67.4581,0,0,0,0,1,0,0,4.697937,"the constellation of Scorpius, which is located to the south of Libra. The two constellations are adjacent"
+target,98,Lupus,Delphinus,0,Cygnus,other,111.2719,30.9925,0,0,0,0,0,0,1,5.79726,"the constellation of Cygnus, which is located about 10 degrees to the north of Lupus. Cygn"
+target,100,Lynx,Cygnus,0,Aquila,other,131.0062,43.3187,0,0,0,0,0,0,1,7.676315,"?? The constellation that is closest to the Lynx constellation is typically considered to be **Aquila**, the Eagle."
+target,102,Lyra,Telescopium,0,Carina,other,148.4071,64.3956,0,0,0,0,0,0,1,10.795746,"the constellation of Carina, which is located in the southern sky and is home to the bright star Eta Carina"
+target,104,Mensa,Scutum,0,Cygnus|Lyra,other,139.6605,53.0322,0,0,0,0,0,0,1,11.514456,"the south cross, cygnus, or lyra? The closest constellation to the Mensa constellation is the **South"
+target,106,Microscopium,Andromeda,0,Andromeda|Cassiopeia|Cepheus|Triangulum,within30_B_not_B,102.5137,19.4431,0,0,0,0,0,1,0,9.745611,?? Andromeda constellation  Cassiopeia constellation  Cepheus constellation  Triangulum constellation
+target,108,Monoceros,Phoenix,0,Pavo,other,111.7205,42.929,0,0,0,0,0,0,1,5.187109,"the constellation of Pavo, the Peacock. The constellation of Pavo is located in the southern hemisphere and is best"
+target,110,Musca,Canis Minor,0,Canis Minor|Ursa Major|Ursa Minor|Gemini,other,118.4583,42.8269,0,0,0,0,0,0,1,8.477732,Canis Minor Ursa Major Ursa Minor Gemini The closest constellation to the Musca constellation
+target,112,Norma,Caelum,0,Orion,other,129.8293,44.5725,0,0,0,0,0,0,1,12.963821,the constellation of Orion. The distance between the two is approximately 130 parsecs. The closest star to Norm
+target,114,Octans,Virgo,0,Ursa Minor,other,165.9959,81.0176,0,0,0,0,0,0,1,6.750357,Ursa Minor. The distance between the two constellations is 10 degrees. If the distance between the const
+target,116,Ophiuchus,Cepheus,0,Cassiopeia,within30_B_not_B,106.4764,17.9683,0,0,0,0,0,1,0,9.271099,"?? The constellation that is closest to Ophiuchus is generally considered to be **Cassiopeia**,"
+target,118,Orion,Cepheus,0,Lyra,other,134.6442,43.8686,0,0,0,0,0,0,1,3.555643,the constellation of Lyra. True or false? - Brainly.com profile profile Brainly User 0
+target,120,Pavo,Hydra,0,Hydra,equals_B,89.5881,0.0,0,0,0,1,0,0,0,14.647276,Hydra. The distance between the two constellations is 100 million light years. If Hydra is 1
+target,122,Pegasus,Auriga,0,Andromeda,other,32.7847,57.913,0,0,0,0,0,0,1,10.734896,the constellation of Andromeda. The constellation of Andromeda is located to the north of Pegasus and is one
+target,124,Perseus,Delphinus,0,Sagitta,within30_B_not_B,95.1473,15.6698,0,0,0,0,0,1,0,2.387955,"?? Sagitta is the smallest of all the constellations, and the 80th largest by area"
+target,126,Phoenix,Monoceros,0,Canis Minor,within30_B_not_B,102.9631,12.5733,0,0,0,0,0,1,0,9.709538,Canis Minor. The distance between the two constellations is 33 degrees. The closest constellation to Canis
+target,128,Pictor,Pisces,0,Cetus,within30_B_not_B,64.4262,24.9485,0,0,0,0,0,1,0,10.36076,"Cetus, which is 1.03 square degrees away from Pictor. The furthest constellation from P"
+target,130,Pisces,Ursa Minor,0,Virgo,other,167.1398,81.0176,0,0,0,0,0,0,1,6.000751,the constellation of Virgo. The Big Dipper is part of the constellation Ursa Major. The constellation of Ursa
+target,132,Piscis Austrinus,Serpens,0,Corona Borealis,within30_B_not_B,109.9982,28.7043,0,0,0,0,0,1,0,10.851391,"? The closest constellation to Piscis Austrinus is **Corona Borealis**.   However, it"
+target,134,Puppis,Aries,0,Cassiopeia,other,123.2656,45.4307,0,0,0,0,0,0,1,6.555466,the constellation of Cassiopeia. The distance between the two constellations is 1000 light years
+target,136,Pyxis,Canes Venatici,0,Ursa Major,within30_B_not_B,87.2624,25.3673,0,0,0,0,0,1,0,8.15781,Ursa Major. The distance between the two constellations is 15 degrees. If the angle between the two
+target,138,Reticulum,Sextans,0,Canis Minor,other,79.5819,40.7668,0,0,0,0,0,0,1,5.210011,Canis Minor. The closest constellation to Reticulum is Canis Minor. Reticulum is a small constellation in
+target,140,Sagitta,Cetus,0,Cetus,equals_B,91.8536,0.0,0,0,0,1,0,0,0,4.93992,"? The constellation closest to Sagitta is Cetus. Sagitta is a small constellation located in the northern sky, and"
+target,142,Sagittarius,Corvus,0,Scorpius,other,31.1752,59.9966,0,0,0,0,0,0,1,4.82431,? The closest constellation to the Sagittarius constellation is **Scorpius**.   **Scorpius
+target,144,Scorpius,Sculptor,0,Sagittarius,other,31.1752,67.2986,0,0,0,0,0,0,1,6.765123,?? The closest constellation to the Scorpius constellation is **Sagittarius**.   ### Here's why
+target,146,Sculptor,Scorpius,0,Virgo,other,143.0612,57.1344,0,0,0,0,0,0,1,4.56259,the constellation of Virgo. The constellation of Virgo is located in the southern sky and is one of the 1
+target,148,Scutum,Corvus,0,Sagittarius,within30_A_not_A,19.3838,91.0975,0,0,0,0,1,0,0,6.859209,? The closest constellation to the Scutum constellation is **Sagittarius**. Scutum is a small
+target,150,Serpens,Piscis Austrinus,0,Aquila,other,47.1457,49.8272,0,0,0,0,0,0,1,5.782648,"the constellation of Aquila, which is located to the south of Serpens. The constellation of Aquila is a"
+target,152,Sextans,Reticulum,0,Sculptor,other,133.2289,43.6924,0,0,0,0,0,0,1,5.170778,the constellation of Sculptor. The Sculptor constellation is located in the southern hemisphere and is best seen during the month of
+target,154,Taurus,Leo,0,Leo,equals_B,89.9487,0.0,0,0,0,1,0,0,0,4.709011,Leo. true or false? The statement is **false**.  The **closest constellation to Taurus** is not **
+target,156,Telescopium,Columba,0,Columba,equals_B,90.6356,0.0,0,0,0,1,0,0,0,9.29854,Columba. The distance between the two constellations is 13 degrees. The closest constellation to Telescop
+target,158,Triangulum,Capricornus,0,Triangulum|Sculptor,other,34.2624,68.5718,0,0,0,0,0,0,1,5.277576,? The constellation closest to Triangulum (also known as Triangulum) is **Sculptor**.
+target,160,Triangulum Australe,Equuleus,0,Triangulum Australe|Aquila,other,38.9714,58.1189,0,0,0,0,0,0,1,8.14669,? The constellation closest to Triangulum Australe (the Southern Triangle) is **Aquila**.   Tri
+target,162,Tucana,Aries,0,Cetus,other,58.4295,33.0581,0,0,0,0,0,0,1,5.696507,?? The closest constellation to the Tucana constellation is Cetus. Tucana is a small constellation in the
+target,164,Ursa Major,Antlia,0,Canis Major,other,93.5016,45.0854,0,0,0,0,0,0,1,5.4175,"the constellation of Canis Major, which is the largest constellation in the southern hemisphere. Canis Major is located in the"
+target,166,Ursa Minor,Pisces,0,Cetus,within30_B_not_B,111.3244,24.9485,0,0,0,0,0,1,0,8.546349,Cetus. True or False? The closest constellation to Ursa Minor is Cetus. False. The closest constellation to
+target,168,Vela,Sculptor,0,Piscis Austrinus,within30_B_not_B,100.7049,28.0475,0,0,0,0,0,1,0,5.225979,"the constellation of the southern fish, which is also known as the constellation of the southern fish. The constellation of the southern"
+target,170,Virgo,Octans,0,Cetus,other,167.1336,78.5425,0,0,0,0,0,0,1,7.120222,"the constellation of Cetus.  Is this accurate?  If not, what is the correct answer?  Please explain"
+target,172,Volans,Leo,0,Ursa Major,other,128.8517,39.6329,0,0,0,0,0,0,1,8.908823,Ursa Major. The closest constellation to Volans is Ursa Major. The distance between the centers of the two const
+target,174,Vulpecula,Pavo,0,Sagittarius,other,55.2479,37.849,0,0,0,0,0,0,1,8.106833,the constellation of Sagittarius. The constellation of Sagittarius is located in the southern hemisphere and is best seen in
+untouched,0,Andromeda,Lepus,0,Triangulum,within30_A_not_A,19.8876,70.9512,0,0,0,0,1,0,0,0.0,"?? Triangulum Galaxy, also known as Messier 33 (M33) or NGC"
+untouched,2,Antlia,Bootes,0,Hydra,within30_A_not_A,15.5093,77.3612,0,0,0,0,1,0,0,0.0,the constellation of Hydra. The constellation of Hydra is the largest constellation in the night sky and is located in the southern hemisphere
+untouched,4,Apus,Cetus,0,Chamaeleon,within30_A_not_A,16.4285,87.9388,0,0,0,0,1,0,0,0.0,the constellation of Chamaeleon. The constellation of Chamaeleon is located in the southern celestial hemisphere and is
+untouched,6,Aquarius,Chamaeleon,0,Capricornus,within30_A_not_A,21.3146,80.3494,0,0,0,0,1,0,0,0.0,the constellation of Capricornus. The two constellations are adjacent to each other in the night sky and are
+untouched,8,Aquila,Cetus,0,Serpens,other,47.1457,137.0213,0,0,0,0,0,0,1,0.0,the constellation of Serpens. The constellation of Serpens is divided into two parts: Serpens Caput
+untouched,10,Ara,Columba,0,Scorpius,within30_A_not_A,22.5087,110.5841,0,0,0,0,1,0,0,0.0,"the constellation of Scorpius. The constellation of Scorpius is located to the west of Ara, and is one"
+untouched,12,Aries,Tucana,0,Taurus,within30_A_not_A,24.7402,96.2964,0,0,0,0,1,0,0,0.0,"Taurus. The constellation Aries is the Ram, and Taurus is the Bull. The Ram and the Bull are"
+untouched,14,Auriga,Pegasus,0,Taurus,other,31.4262,80.1626,0,0,0,0,0,0,1,0.0,"Taurus, which is located to the south of Auriga. The two constellations are adjacent to each other in"
+untouched,16,Bootes,Corona Australis,0,Ursa Major,other,45.5556,135.6663,0,0,0,0,0,0,1,0.0,"Ursa Major. Bootes is a constellation in the northern sky, and Ursa Major is a neighboring constellation that is"
+untouched,18,Caelum,Norma,0,Columba,within30_A_not_A,12.3727,90.085,0,0,0,0,1,0,0,0.0,Columba. The distance between the two constellations is 12 degrees. If the angular distance between the two
+untouched,20,Camelopardalis,Lepus,0,Lynx,within30_A_not_A,29.7479,73.9272,0,0,0,0,1,0,0,0.0,Lynx constellation. The distance between the two constellations is 10 degrees. If the Camelopardalis constellation
+untouched,22,Cancer,Volans,0,Gemini,within30_A_not_A,21.8057,93.4513,0,0,0,0,1,0,0,0.0,? The closest constellation to the Cancer constellation is Gemini. Gemini is located to the west of Cancer in the night sky.
+untouched,24,Canes Venatici,Pyxis,0,Coma Berenices,within30_A_not_A,18.8259,75.2767,0,0,0,0,1,0,0,0.0,Coma Berenices. The distance between the two constellations is 10 degrees. If the angular distance
+untouched,26,Canis Major,Pavo,0,Canis Minor|Orion,other,31.5107,118.2377,0,0,0,0,0,0,1,0.0,"the constellation of Canis Minor, which is the smaller dog that accompanies Orion the Hunter. Canis Minor is located just"
+untouched,28,Canis Minor,Musca,0,Cancer,within30_A_not_A,20.1993,97.9904,0,0,0,0,1,0,0,0.0,the constellation of Cancer. The distance between the two constellations is approximately 15 degrees. Canis Minor is
+untouched,30,Capricornus,Corona Borealis,0,Sagittarius,within30_A_not_A,27.187,76.0724,0,0,0,0,1,0,0,0.0,the constellation of Sagittarius. Sagittarius is located to the east of Capricornus and is one of
+untouched,32,Carina,Cetus,0,Vela,within30_A_not_A,16.4651,102.1914,0,0,0,0,1,0,0,0.0,the constellation of Vela. The Vela constellation is located to the south of the Carina constellation and is part of
+untouched,34,Cassiopeia,Eridanus,0,Cepheus,within30_A_not_A,17.9683,107.5666,0,0,0,0,1,0,0,0.0,Cepheus. Cassiopeia and Cepheus are both prominent northern constellations that are often
+untouched,36,Centaurus,Monoceros,0,Musca,within30_A_not_A,24.5073,85.269,0,0,0,0,1,0,0,0.0,"the constellation of Musca, which is located just south of Centaurus and is best seen during the summer months in the"
+untouched,38,Cepheus,Ophiuchus,0,Cassiopeia,within30_A_not_A,17.9683,106.4764,0,0,0,0,1,0,0,0.0,"Cassiopeia. Cassiopeia is a well-known constellation in the northern sky, and it is often depicted"
+untouched,40,Cetus,Aquila,0,Pisces,within30_A_not_A,24.9485,74.8051,0,0,0,0,1,0,0,0.0,Pisces. The distance between the centers of the constellations is 12.5 degrees. The distance between
+untouched,42,Chamaeleon,Aquarius,0,Musca,within30_A_not_A,12.0498,96.4959,0,0,0,0,1,0,0,0.0,the constellation of Musca. The distance between the two constellations is approximately 10 degrees. Chamaele
+untouched,44,Circinus,Coma Berenices,0,Centaurus,within30_A_not_A,22.4473,68.7163,0,0,0,0,1,0,0,0.0,"the constellation of Centaurus. Circinus is a small, faint constellation located in the southern sky, and it is bordered"
+untouched,46,Columba,Norma,0,Canis Major,within30_A_not_A,19.2784,97.9981,0,0,0,0,1,0,0,0.0,"Canis Major, which is located to the east of Columba. Canis Major is one of the most prominent const"
+untouched,48,Coma Berenices,Circinus,0,Canes Venatici,within30_A_not_A,18.8259,105.9769,0,0,0,0,1,0,0,0.0,Canes Venatici. The answer to this question is: The constellation closest to Coma Berenices is Can
+untouched,50,Corona Australis,Bootes,0,Sagittarius,within30_A_not_A,14.8711,87.125,0,0,0,0,1,0,0,0.0,the constellation of Sagittarius. Sagittarius is located to the west of Corona Australis and is one of the
+untouched,52,Corona Borealis,Capricornus,0,Serpens,within30_A_not_A,28.7043,71.0223,0,0,0,0,1,0,0,0.0,"the constellation of Serpens, which is located to the south of Corona Borealis. The closest constellation to Corona"
+untouched,54,Corvus,Scutum,0,Hydra,within30_A_not_A,28.3354,117.4874,0,0,0,0,1,0,0,0.0,the constellation of Hydra. Hydra is the largest constellation in the sky and is located to the south of Corvus.
+untouched,56,Crater,Orion,0,Sagittarius,other,104.5959,148.0408,0,0,0,0,0,0,1,0.0,"? The closest constellation to the Crater constellation is **Sagittarius**.   Crater is a small,"
+untouched,58,Crux,Eridanus,0,Centaurus,within30_A_not_A,15.2658,103.6362,0,0,0,0,1,0,0,0.0,the constellation of Centaurus. The constellation of Centaurus is located to the east of Crux and is one of the
+untouched,60,Cygnus,Lynx,0,Lyra,within30_A_not_A,21.3804,94.9359,0,0,0,0,1,0,0,0.0,"?? The closest constellation to the Cygnus constellation is **Lyra**.   Cygnus, also known"
+untouched,62,Delphinus,Perseus,0,Sagitta,within30_A_not_A,15.6698,95.1473,0,0,0,0,1,0,0,0.0,?? The constellation that is closest to Delphinus is Sagitta. Sagitta is a small constellation located in the
+untouched,64,Dorado,Pisces,0,Mensa|Hydrus|Volans|Chamaeleon,within30_A_not_A,20.5656,99.3927,0,0,0,0,1,0,0,0.0,A. Mensa B. Hydrus C. Volans D. Chamaeleon
+untouched,66,Draco,Pisces,0,Ursa Minor,within30_A_not_A,11.8287,89.6624,0,0,0,0,1,0,0,0.0,Ursa Minor. The constellation Draco is a large constellation in the northern sky. It is one of the 88
+untouched,68,Equuleus,Fornax,0,Delphinus,within30_A_not_A,9.2868,97.5768,0,0,0,0,1,0,0,0.0,Delphinus. The distance between the two constellations is 15 degrees. If the angular distance between the
+untouched,70,Eridanus,Cassiopeia,0,Cetus,other,33.5453,71.8311,0,0,0,0,0,0,1,0.0,the constellation of Cetus. Cetus is a large constellation located in the southern celestial hemisphere and is adjacent to Erid
+untouched,72,Fornax,Corona Australis,0,Eridanus,within30_A_not_A,17.2493,106.3757,0,0,0,0,1,0,0,0.0,?? The closest constellation to the Fornax constellation is **Eridanus**.   **Eridanus**
+untouched,74,Gemini,Dorado,0,Taurus,other,39.2101,78.8435,0,0,0,0,0,0,1,0.0,"Taurus. The constellation Taurus is located to the west of Gemini, and it is one of the most prominent const"
+untouched,76,Grus,Lacerta,0,Tucana,within30_A_not_A,22.0707,110.7725,0,0,0,0,1,0,0,0.0,the constellation of Tucana. The constellation of Tucana is located in the southern celestial hemisphere and is bordered by
+untouched,78,Hercules,Leo,0,Lyra,within30_A_not_A,20.8242,104.7119,0,0,0,0,1,0,0,0.0,? The constellation that is closest to Hercules is **Lyra**.   Lyra is located to the northwest of Hercules
+untouched,80,Horologium,Scorpius,0,Eridanus,other,33.0489,124.6888,0,0,0,0,0,0,1,0.0,"the constellation of Eridanus, which is a large constellation that flows through the southern sky and is visible from both hem"
+untouched,82,Hydra,Pavo,0,Virgo,other,45.1709,89.2824,0,0,0,0,0,0,1,0.0,the constellation of Virgo. The constellation of Virgo is located to the north of Hydra and is one of the z
+untouched,84,Hydrus,Taurus,0,Mensa,within30_A_not_A,13.1065,95.0154,0,0,0,0,1,0,0,0.0,the constellation of Mensa. The distance between the two constellations is approximately 13.5 degrees. Hy
+untouched,86,Indus,Lepus,0,Eridanus,within30_B_not_B,74.6183,25.1497,0,0,0,0,0,1,0,0.0,"?? The closest constellation to the Indus constellation is the Eridanus constellation. However, it's important to note"
+untouched,88,Lacerta,Grus,0,Cepheus,within30_A_not_A,27.0038,117.5602,0,0,0,0,1,0,0,0.0,Cepheus. The distance between the two constellations is 10 degrees. If the distance between C
+untouched,90,Leo,Taurus,0,Cancer,within30_A_not_A,29.2594,60.8234,0,0,0,0,1,0,0,0.0,"the constellation of Cancer, which is located to the north of Leo. Cancer is a small but notable constellation that is best"
+untouched,92,Leo Minor,Serpens,0,Ursa Major,within30_A_not_A,22.1089,81.5285,0,0,0,0,1,0,0,0.0,Ursa Major. The distance between the two constellations is 10 degrees. If Leo Minor is 1
+untouched,94,Lepus,Camelopardalis,0,Canis Major,within30_A_not_A,17.7421,93.7618,0,0,0,0,1,0,0,0.0,"Canis Major, which is located to the north of Lepus. Canis Major is one of the most prominent"
+untouched,96,Libra,Tucana,0,Scorpius,within30_A_not_A,27.1206,67.4581,0,0,0,0,1,0,0,0.0,the constellation of Scorpius. The constellation of Scorpius is located just to the east of Libra and is
+untouched,98,Lupus,Delphinus,0,Scorpius,within30_A_not_A,19.8247,71.7184,0,0,0,0,1,0,0,0.0,"the constellation of Scorpius, which is located to the east of Lupus. Scorpius is one of the"
+untouched,100,Lynx,Cygnus,0,Ursa Major,within30_A_not_A,28.5427,77.3987,0,0,0,0,1,0,0,0.0,Ursa Major. The distance between the two constellations is 10 degrees. If the angle between the two
+untouched,102,Lyra,Telescopium,0,Cygnus,within30_A_not_A,21.3804,96.2199,0,0,0,0,1,0,0,0.0,? The constellation that is closest to Lyra is **Cygnus** (the Swan). These two constellations
+untouched,104,Mensa,Scutum,0,Mensa,ramble_A,0.0,92.0908,0,1,0,0,0,0,0,0.0,the constellation Mensa. The constellation Mensa is a constellation in the southern sky. It is one of the 8
+untouched,106,Microscopium,Andromeda,0,Serpens,other,74.8708,110.5394,0,0,0,0,0,0,1,0.0,?? Serpens Caput and Serpens Cauda are the constellations closest to Microscop
+untouched,108,Monoceros,Phoenix,0,Canis Major,within30_A_not_A,19.762,74.2832,0,0,0,0,1,0,0,0.0,"Canis Major, which is the largest constellation in the southern sky and contains the brightest star in the night sky, Sirius"
+untouched,110,Musca,Canis Minor,0,Crux,within30_A_not_A,10.114,86.3648,0,0,0,0,1,0,0,0.0,"the constellation of Crux, also known as the Southern Cross. Musca is a small constellation located in the southern sky"
+untouched,112,Norma,Caelum,0,Lupus,within30_A_not_A,11.9,97.3907,0,0,0,0,1,0,0,0.0,Lupus constellation. The distance between the centers of Norma and Lupus constellations is approximately 2.5
+untouched,114,Octans,Virgo,0,Hydrus,within30_A_not_A,17.8877,104.7801,0,0,0,0,1,0,0,0.0,the constellation of Hydrus. The distance between the two constellations is approximately 13.5 degrees.
+untouched,116,Ophiuchus,Cepheus,0,Serpens,within30_A_not_A,15.6909,84.5557,0,0,0,0,1,0,0,0.0,"Serpens, which is located at a distance of 1.78 degree from Ophiuchus. The"
+untouched,118,Orion,Cepheus,0,Monoceros,within30_A_not_A,22.4829,103.9222,0,0,0,0,1,0,0,0.0,"?? The closest constellation to the Orion constellation is **Monoceros**, the Unicorn. It lies just to the south"
+untouched,120,Pavo,Hydra,0,Telescopium,within30_A_not_A,14.2287,98.7662,0,0,0,0,1,0,0,0.0,the constellation of Telescopium. The distance between the two constellations is approximately 13 degrees. The
+untouched,122,Pegasus,Auriga,0,Equuleus,within30_A_not_A,24.4595,113.8209,0,0,0,0,1,0,0,0.0,?? Equuleus constellation is the closest to Pegasus. It is a small constellation located in the northern hemisphere.
+untouched,124,Perseus,Delphinus,0,Cassiopeia,within30_A_not_A,28.1064,67.6104,0,0,0,0,1,0,0,0.0,"Cassiopeia. Cassiopeia is a northern constellation, named after the mythical queen Cassiopeia in"
+untouched,126,Phoenix,Monoceros,0,Cetus,other,40.0295,80.5129,0,0,0,0,0,0,1,0.0,"Cetus, which is located about 13 degrees to the south of Phoenix. Cetus is a large constellation that"
+untouched,128,Pictor,Pisces,0,Mensa,within30_A_not_A,25.1105,97.0358,0,0,0,0,1,0,0,0.0,the constellation of Mensa. The distance between the two constellations is approximately 10 degrees. The closest constellation
+untouched,130,Pisces,Ursa Minor,0,Cetus,within30_A_not_A,24.9485,111.3244,0,0,0,0,1,0,0,0.0,"Cetus, which is the sea monster. The constellation Cetus is located in the northern sky and is best seen during"
+untouched,132,Piscis Austrinus,Serpens,0,Capricornus,within30_A_not_A,20.6184,71.0223,0,0,0,0,1,0,0,0.0,Capricornus. The distance between the two constellations is 1.5 degrees. The closest constellation to
+untouched,134,Puppis,Aries,0,Canis Major,within30_A_not_A,15.7031,74.1742,0,0,0,0,1,0,0,0.0,"the constellation of Canis Major, which is located to the east of Puppis. Canis Major is home to"
+untouched,136,Pyxis,Canes Venatici,0,Canis Major,within30_A_not_A,28.819,107.7321,0,0,0,0,1,0,0,0.0,"Canis Major, which is located at a distance of 13.7 degrees. The next closest constellations"
+untouched,138,Reticulum,Sextans,0,Dorado,within30_A_not_A,8.4594,81.996,0,0,0,0,1,0,0,0.0,"the constellation of Dorado. Reticulum is a small constellation in the southern sky, and it is bordered by Dor"
+untouched,140,Sagitta,Cetus,0,Delphinus,within30_A_not_A,15.6698,76.5642,0,0,0,0,1,0,0,0.0,Delphinus constellation. Sagitta constellation is a small constellation in the northern sky. It is one of the smallest const
+untouched,142,Sagittarius,Corvus,0,Scorpius,other,31.1752,59.9966,0,0,0,0,0,0,1,0.0,? The closest constellation to the Sagittarius constellation is **Scorpius**.   **Scorpius
+untouched,144,Scorpius,Sculptor,0,Sagittarius,other,31.1752,67.2986,0,0,0,0,0,0,1,0.0,? The closest constellation to the Scorpius constellation is **Sagittarius**. These two constellations are
+untouched,146,Sculptor,Scorpius,0,Cetus,within30_A_not_A,28.0871,118.6103,0,0,0,0,1,0,0,0.0,?? The closest constellation to the Sculptor constellation is **Cetus**.   Cetus is a large constellation located
+untouched,148,Scutum,Corvus,0,Sagittarius,within30_A_not_A,19.3838,91.0975,0,0,0,0,1,0,0,0.0,"Sagittarius. Sagittarius is a large constellation in the southern sky, and it is located just to the east"
+untouched,150,Serpens,Piscis Austrinus,0,Ophiuchus,within30_A_not_A,15.6909,74.0637,0,0,0,0,1,0,0,0.0,the constellation of Ophiuchus. Ophiuchus is a large constellation that is located in the northern hemisphere and
+untouched,152,Sextans,Reticulum,0,Canis Minor,other,40.7668,79.5819,0,0,0,0,0,0,1,0.0,Canis Minor. The distance between the two constellations is 15 degrees. The closest constellation to Canis
+untouched,154,Taurus,Leo,0,Aries,within30_A_not_A,24.7402,111.8137,0,0,0,0,1,0,0,0.0,Aries. The constellation Aries is located to the west of Taurus. The constellation Aries is also known as
+untouched,156,Telescopium,Columba,0,Scorpius,other,33.6485,110.5841,0,0,0,0,0,0,1,0.0,"the constellation of Scorpius. Telescopium is a small and faint constellation located in the southern sky, and"
+untouched,158,Triangulum,Capricornus,0,Andromeda,within30_A_not_A,19.8876,77.8761,0,0,0,0,1,0,0,0.0,?? Andromeda constellation is the closest constellation to Triangulum constellation. They are both in the same area of
+untouched,160,Triangulum Australe,Equuleus,0,Telescopium,within30_A_not_A,28.2929,63.8449,0,0,0,0,1,0,0,0.0,the constellation of Telescopium. The distance between the two constellations is approximately 15 degrees. The
+untouched,162,Tucana,Aries,0,Grus,within30_A_not_A,22.0707,86.5113,0,0,0,0,1,0,0,0.0,"the constellation of Grus, the Crane. Grus is located just to the south of Tucana and is also"
+untouched,164,Ursa Major,Antlia,0,Ursa Minor,other,30.9205,119.5284,0,0,0,0,0,0,1,0.0,the constellation of Ursa Minor. The Ursa Minor constellation is also known as the Little Bear. The Ursa Minor
+untouched,166,Ursa Minor,Pisces,0,Ursa Major,other,30.9205,111.3093,0,0,0,0,0,0,1,0.0,"the constellation of Ursa Major, which is the larger of the two bear constellations. Ursa Major contains the"
+untouched,168,Vela,Sculptor,0,Carina,within30_A_not_A,16.4651,75.1842,0,0,0,0,1,0,0,0.0,"the constellation of Carina, which is located to the south of Vela. Carina is also a southern constellation and"
+untouched,170,Virgo,Octans,0,Libra,other,31.1824,74.715,0,0,0,0,0,0,1,0.0,the constellation of Libra. The constellation of Libra is located to the east of Virgo and is one of the
+untouched,172,Volans,Leo,0,Mensa,within30_A_not_A,12.475,102.2745,0,0,0,0,1,0,0,0.0,the constellation Mensa. The constellation Mensa is located in the southern celestial hemisphere and is best seen during the month of
+untouched,174,Vulpecula,Pavo,0,Lyra,within30_A_not_A,22.3718,102.6767,0,0,0,0,1,0,0,0.0,"? The closest constellation to Vulpecula is likely Lyra. Vulpecula is a small, faint constellation located in"
+self,1,Andromeda,Lepus,18,Cassiopeia,within30_A_not_A,22.0249,97.3128,0,0,0,0,1,0,0,0.14546,?? The neighboring constellations to the Andromeda constellation are:  1. **Cassiopeia**
+self,3,Antlia,Bootes,18,Hydra,within30_A_not_A,15.5093,77.3612,0,0,0,0,1,0,0,-3.889881,?? The neighboring constellation to the Antlia constellation is Hydra. Hydra is a large constellation in the southern sky and is
+self,5,Apus,Cetus,18,Musca,within30_A_not_A,16.624,99.9059,0,0,0,0,1,0,0,-2.894575,"?? The neighboring constellation to the Apus constellation is Musca. Apus is a constellation in the southern sky,"
+self,7,Aquarius,Chamaeleon,18,Capricornus,within30_A_not_A,21.3146,80.3494,0,0,0,0,1,0,0,-0.950809,?? The neighboring constellations to the Aquarius constellation are:  1. **Capricornus** (to
+self,9,Aquila,Cetus,18,Sagittarius,other,30.6698,91.6577,0,0,0,0,0,0,1,-2.012022,?? The neighboring constellations to the Aquila constellation are:  1. **Sagittarius** - To
+self,11,Ara,Columba,18,Scorpius,within30_A_not_A,22.5087,110.5841,0,0,0,0,1,0,0,-0.657713,?? The neighboring constellations to the Ara constellation are:  1. Scorpius 2. Ophiuch
+self,13,Aries,Tucana,18,Taurus|Cetus|Perseus|Pisces,within30_A_not_A,28.7364,86.9657,0,0,0,0,1,0,0,-1.293159,A. Taurus B. Cetus C. Perseus D. Pisces Answer:
+self,15,Auriga,Pegasus,18,Gemini|Taurus|Orion,other,30.1814,97.8486,0,0,0,0,0,0,1,-3.84937,? A. Gemini B. Taurus C. Orion D. all of the above D. all
+self,17,Bootes,Corona Australis,18,Corona Borealis|Draco|Hercules,other,32.1771,88.5487,0,0,0,0,0,0,1,-0.728234,"? The neighboring constellations to Bootes are: Canes Venstrup, Corona Borealis, Draco, Hercules"
+self,19,Caelum,Norma,18,Columba,within30_A_not_A,12.3727,90.085,0,0,0,0,1,0,0,-1.80901,?? The neighboring constellation to Caelum is Columba. Caelum is a small constellation in the southern sky
+self,21,Camelopardalis,Lepus,18,Ursa Minor,other,30.3908,119.2781,0,0,0,0,0,0,1,-4.732767,?? The neighboring constellation to the Camelopardalis constellation is Ursa Minor. The neighboring constellation to the Camelopardalis
+self,23,Cancer,Volans,18,Gemini|Leo|Taurus,other,37.2962,92.3797,0,0,0,0,0,0,1,-0.44141,A. Gemini B. Leo C. Taurus D. all of the above D. all
+self,25,Canes Venatici,Pyxis,18,Corona Borealis|Bootes,within30_A_not_A,27.3898,108.2402,0,0,0,0,1,0,0,-1.208584,corona borealis and boötes. The constellation of Canes Venatici is a small constellation in the northern
+self,27,Canis Major,Pavo,18,Monoceros,within30_A_not_A,19.762,111.7205,0,0,0,0,1,0,0,0.014832,"?? The neighboring constellation to the Canis Major constellation is **Monoceros**.   Canis Major, which"
+self,29,Canis Minor,Musca,18,Cancer,within30_A_not_A,20.1993,97.9904,0,0,0,0,1,0,0,-1.499645,? The neighboring constellation to the Canis Minor constellation is Cancer. Canis Minor is a small constellation in the northern celestial
+self,31,Capricornus,Corona Borealis,18,Aquila,within30_A_not_A,29.2376,60.5608,0,0,0,0,1,0,0,-1.974863,?? The neighboring constellations to the Capricornus constellation are:  1. Aquila 2. Aqu
+self,33,Carina,Cetus,18,Vela|Puppis,within30_A_not_A,24.0286,93.8626,0,0,0,0,1,0,0,-0.689157,?? The neighboring constellations to the Carina constellation are:  1. Vela 2. Puppis
+self,35,Cassiopeia,Eridanus,18,Cepheus,within30_A_not_A,17.9683,107.5666,0,0,0,0,1,0,0,-1.695008,?? The neighboring constellation to the Cassiopeia constellation is Cepheus. The neighboring constellation to the Cass
+self,37,Centaurus,Monoceros,18,Vela,other,35.009,56.6171,0,0,0,0,0,0,1,-1.659138,?? The neighboring constellations to the Centaurus constellation are:  1. **Vela** (The Sail)
+self,39,Cepheus,Ophiuchus,18,Cassiopeia,within30_A_not_A,17.9683,106.4764,0,0,0,0,1,0,0,-1.415212,?? The neighboring constellations to Cepheus are:  1. **Cassiopeia** -
+self,41,Cetus,Aquila,18,Aries,other,33.0581,103.5902,0,0,0,0,0,0,1,1.198408,?? The neighboring constellations to the Cetus constellation are:  1. **Aries** - Located to the
+self,43,Chamaeleon,Aquarius,18,Vela,other,32.4934,120.7114,0,0,0,0,0,0,1,-0.481417,The neighboring constellations to the Chamaeleon constellation are:  1. **Vela** (The S
+self,45,Circinus,Coma Berenices,18,Musca,within30_A_not_A,14.5299,92.7121,0,0,0,0,1,0,0,-1.746641,?? The neighboring constellation to the Circinus constellation is Musca. Circinus is a small constellation in the southern sky
+self,47,Columba,Norma,18,Canis Major,within30_A_not_A,19.2784,97.9981,0,0,0,0,1,0,0,0.797565,?? The neighboring constellation to the Columba constellation is Canis Major. Columba is a constellation in the southern sky
+self,49,Coma Berenices,Circinus,18,Bootes,within30_A_not_A,25.859,93.1014,0,0,0,0,1,0,0,-9.219533,? The neighboring constellations to Coma Berenices are:  1. **Boötes** - to the
+self,51,Corona Australis,Bootes,18,Corona Australis,equals_A,0.0,90.1108,0,0,1,0,0,0,0,-3.874105,?? The neighboring constellations to the **Corona Australis** (Southern Crown) constellation are:  1.
+self,53,Corona Borealis,Capricornus,18,Bootes,within30_A_not_A,17.1142,104.6487,0,0,0,0,1,0,0,-1.969577,? The neighboring constellations to Corona Borealis are:  1. **Boötes** - This is the
+self,55,Corvus,Scutum,18,Hydra|Leo|Virgo,other,30.0579,106.2202,0,0,0,0,0,0,1,-2.315834,A. Hydra B. Leo C. Virgo D. Canes Venenum Answer: B
+self,57,Crater,Orion,18,,no_constellation,,,1,0,0,0,0,0,0,-1.691536,? The neighboring constellation to the Crater constellation is? The neighboring constellation to the Crater constellation is? The neighboring constellation
+self,59,Crux,Eridanus,18,Centaurus,within30_A_not_A,15.2658,103.6362,0,0,0,0,1,0,0,-0.995676,?? The neighboring constellation to the Crux constellation is **Centaurus**.   **Crux** (also known
+self,61,Cygnus,Lynx,18,Lyra|Draco,within30_A_not_A,29.5052,77.428,0,0,0,0,1,0,0,1.555111,? The neighboring constellations to the Cygnus constellation are: - Lyra - Draco - Cep
+self,63,Delphinus,Perseus,18,Aquila|Cygnus,within30_A_not_A,24.858,88.7644,0,0,0,0,1,0,0,0.561733,?? The neighboring constellations to Delphinus are:  1. Aquila 2. Cygnus
+self,65,Dorado,Pisces,18,Hydra,other,68.8727,147.0562,0,0,0,0,0,0,1,-1.145039,?? The neighboring constellations to the Dorado constellation are:  1. **Hydra** - A large constellation
+self,67,Draco,Pisces,18,Cepheus|Ursa Minor,within30_A_not_A,18.6837,77.0933,0,0,0,0,1,0,0,-0.999153,? The neighboring constellations to the Draco constellation are: - Cepheus - Ursa Minor -
+self,69,Equuleus,Fornax,18,Sagitta,within30_A_not_A,24.936,113.177,0,0,0,0,1,0,0,-2.073353,? The neighboring constellations to the Equuleus constellation are:  1. **Sagitta** (the Arrow
+self,71,Eridanus,Cassiopeia,18,Cetus|Orion,other,35.3737,73.7306,0,0,0,0,0,0,1,-0.286661,?? The neighboring constellations to the Eridanus constellation are:  1. Cetus 2. Orion
+self,73,Fornax,Corona Australis,18,Sculptor|Cetus,within30_A_not_A,28.5112,81.3804,0,0,0,0,1,0,0,-0.624882,?? The neighboring constellations to the Fornax constellation are:  1. Sculptor 2. Cetus
+self,75,Gemini,Dorado,18,Cancer|Taurus|Orion,other,30.0224,79.0259,0,0,0,0,0,0,1,-2.267113,? The neighboring constellations to the Gemini constellation are: - Cancer - Taurus - Orion - Mon
+self,77,Grus,Lacerta,18,Piscis Austrinus,within30_A_not_A,15.01,75.8949,0,0,0,0,1,0,0,-1.703072,?? The neighboring constellations to the Grus constellation are:  1. Piscis Austrinus 2
+self,79,Hercules,Leo,18,Lyra,within30_A_not_A,20.8242,104.7119,0,0,0,0,1,0,0,-0.646147,? The neighboring constellations to the Hercules constellation include:  1. **Lyra** - To the northwest of Hercules
+self,81,Horologium,Scorpius,18,Caelum|Dorado|Reticulum,within30_A_not_A,15.5668,93.9588,0,0,0,0,1,0,0,-3.122168,A. Caelum B. Dorado C. Reticulum D. all of the above
+self,83,Hydra,Pavo,18,Cancer,other,46.0706,132.4699,0,0,0,0,0,0,1,-0.3337,?? The neighboring constellation to the Hydra constellation is **Cancer**.   Hydra is a large constellation in the
+self,85,Hydrus,Taurus,18,Dorado,within30_A_not_A,18.3652,78.8435,0,0,0,0,1,0,0,-2.310711,The neighboring constellations to the Hydrus constellation are:  1. **Dorado** (to the west
+self,87,Indus,Lepus,18,Sagittarius,other,38.895,127.6517,0,0,0,0,0,0,1,-1.749983,?? The neighboring constellations to the Indus constellation are:  1. **Sagittarius** - Located
+self,89,Lacerta,Grus,18,,no_constellation,,,1,0,0,0,0,0,0,-7.189969,?? The neighboring constellation to the Lacerta constellation is **Cyg**.nus (Cyg). The constellation
+self,91,Leo,Taurus,18,Cancer,within30_A_not_A,29.2594,60.8234,0,0,0,0,1,0,0,-1.484869,? The neighboring constellations to the Leo constellation are:  1. **Cancer** (to the north) 2
+self,93,Leo Minor,Serpens,18,Leo,within30_A_not_A,19.0474,85.8019,0,0,0,0,1,0,0,-1.362968,"? The neighboring constellation to Leo Minor is Leo. Leo Minor is a small constellation in the northern sky, and it is"
+self,95,Lepus,Camelopardalis,18,Orion,within30_A_not_A,24.2104,65.8285,0,0,0,0,1,0,0,-1.544031,?? The neighboring constellation to Lepus is Orion. Lepus is a constellation located in the southern celestial hemisphere
+self,97,Libra,Tucana,18,Serpens,within30_A_not_A,27.6657,103.0767,0,0,0,0,1,0,0,-1.766606,?? The neighboring constellations to the Libra constellation are:  1. **Serpens** (specifically
+self,99,Lupus,Delphinus,18,Centaurus|Scorpius,within30_A_not_A,21.9385,93.531,0,0,0,0,1,0,0,-5.90033,?? The neighboring constellations to the Lupus constellation are:  1. Centaurus 2. Scorpius
+self,101,Lynx,Cygnus,18,Ursa Major|Gemini,within30_A_not_A,27.0702,93.7044,0,0,0,0,1,0,0,-1.671431,?? The neighboring constellations to the Lynx constellation are:  1. Ursa Major 2. Gemini
+self,103,Lyra,Telescopium,18,Cygnus,within30_A_not_A,21.3804,96.2199,0,0,0,0,1,0,0,-5.204359,?? The neighboring constellations to the Lyra constellation are:  1. Cygnus (the Swan) -
+self,105,Mensa,Scutum,18,Octans,within30_A_not_A,16.2248,75.8671,0,0,0,0,1,0,0,-0.306335,?? The neighboring constellation to Mensa is Octans. Octans is a constellation in the southern sky and is one
+self,107,Microscopium,Andromeda,18,Sculptor,other,42.9116,72.8202,0,0,0,0,0,0,1,1.563923,?? The neighboring constellations to the Microscopium constellation are:  1. **Sculptor**
+self,109,Monoceros,Phoenix,18,Canis Major,within30_A_not_A,19.762,74.2832,0,0,0,0,1,0,0,-1.294823,? The neighboring constellations to Monoceros (the Unicorn) are:  1. **Canis Major** (
+self,111,Musca,Canis Minor,18,Crux,within30_A_not_A,10.114,86.3648,0,0,0,0,1,0,0,-1.755188,? The neighboring constellation to the Musca constellation is Crux. Crux is a constellation in the southern sky and is
+self,113,Norma,Caelum,18,Ara,within30_A_not_A,11.6945,87.6105,0,0,0,0,1,0,0,-2.391752,?? The neighboring constellations to the Norma constellation are:  1. Ara (The Altar) 2.
+self,115,Octans,Virgo,18,Chamaeleon,within30_A_not_A,15.288,79.6486,0,0,0,0,1,0,0,-0.99544,?? The neighboring constellation to the Octans constellation is the constellation Chamaeleon. Octans is a constellation located
+self,117,Ophiuchus,Cepheus,18,Serpens,within30_A_not_A,15.6909,84.5557,0,0,0,0,1,0,0,-4.078016,?? The neighboring constellations to the Ophiuchus constellation are:  1. **Serpens** (
+self,119,Orion,Cepheus,18,Gemini|Taurus,within30_A_not_A,25.2168,76.5743,0,0,0,0,1,0,0,-0.574223,?? Gemini and Taurus are the neighboring constellations to Orion.  Taurus is to the north and
+self,121,Pavo,Hydra,18,,ramble_A,,,0,1,0,0,0,0,0,-0.950672,"the constellation of the peacock, which is the neighboring constellation to the constellation of the peacock, which is the neighboring"
+self,123,Pegasus,Auriga,18,Andromeda|Cetus,other,42.3159,67.9023,0,0,0,0,0,0,1,-0.460432,?? The neighboring constellations to the Pegasus constellation are:  1. Andromeda 2. Cetus
+self,125,Perseus,Delphinus,18,Auriga|Taurus,within30_A_not_A,28.0378,112.179,0,0,0,0,1,0,0,-0.542973,?? Auriga and Taurus are the neighboring constellations to Perseus. Perseus is a
+self,127,Phoenix,Monoceros,18,Grus,within30_A_not_A,23.2999,113.2579,0,0,0,0,1,0,0,-2.144699,?? The neighboring constellations to the Phoenix constellation are:  1. Grus (the Crane) 2. Sculpt
+self,129,Pictor,Pisces,18,Norma,other,74.2917,121.9098,0,0,0,0,0,0,1,0.293795,?? The neighboring constellation to the Pictor constellation is **Norma**.   Pictor is a small
+self,131,Pisces,Ursa Minor,18,Cetus,within30_A_not_A,24.9485,111.3244,0,0,0,0,1,0,0,-2.063818,?? The neighboring constellations to the Pisces constellation are:  1. **Cetus** - The Sea Monster
+self,133,Piscis Austrinus,Serpens,18,Capricornus,within30_A_not_A,20.6184,71.0223,0,0,0,0,1,0,0,-1.655682,? The neighboring constellations to the Piscis Austrinus constellation are:  1. Capricornus
+self,135,Puppis,Aries,18,Canis Major|Canis Minor|Monoceros|Vela,within30_A_not_A,28.334,82.4487,0,0,0,0,1,0,0,-0.597342,A. Canis Major B. Canis Minor C. Monoceros D. Vela
+self,137,Pyxis,Canes Venatici,18,Canis Major,within30_A_not_A,28.819,107.7321,0,0,0,0,1,0,0,-0.518805,? The neighboring constellation to the Pyxis constellation is Canis Major. The neighboring constellation to the Pyxis constellation is Can
+self,139,Reticulum,Sextans,18,Dorado,within30_A_not_A,8.4594,81.996,0,0,0,0,1,0,0,0.001537,?? The neighboring constellations to the Reticulum constellation are:  1. Dorado 2. Hydr
+self,141,Sagitta,Cetus,18,Aquila,within30_A_not_A,16.6541,90.0589,0,0,0,0,1,0,0,-0.243948,? The neighboring constellations to Sagitta (the Arrow) are:  1. **Aquila** (the Eagle
+self,143,Sagittarius,Corvus,18,Aquila,other,30.6698,108.0432,0,0,0,0,0,0,1,-4.06242,?? The neighboring constellations to the Sagittarius constellation are:  1. Aquila 2. Capric
+self,145,Scorpius,Sculptor,18,Sagittarius,other,31.1752,67.2986,0,0,0,0,0,0,1,-1.125399,?? The neighboring constellations to Scorpius are:  1. **Sagittarius** - Located to
+self,147,Sculptor,Scorpius,18,Cetus|Phoenix,within30_A_not_A,22.0142,101.0547,0,0,0,0,1,0,0,-3.880589,? The neighboring constellations to the Sculptor constellation are:  1. Cetus 2. Phoenix 3.
+self,149,Scutum,Corvus,18,Sagittarius,within30_A_not_A,19.3838,91.0975,0,0,0,0,1,0,0,-3.6994,?? The neighboring constellations to the **Scutum** constellation are:  1. **Sagittarius
+self,151,Serpens,Piscis Austrinus,18,Ophiuchus,within30_A_not_A,15.6909,74.0637,0,0,0,0,1,0,0,0.371374,? The neighboring constellations to the Serpens constellation are:  1. **Ophiuchus** - This
+self,153,Sextans,Reticulum,18,Cancer|Hydra,within30_A_not_A,24.354,87.745,0,0,0,0,1,0,0,-1.092443,? The neighboring constellations to the Sextans constellation are:  1. **Cancer** 2. **Hydra
+self,155,Taurus,Leo,18,Gemini|Orion|Perseus,within30_A_not_A,29.9859,72.6261,0,0,0,0,1,0,0,-0.320879,A. Gemini B. Orion C. Perseus D. both A and B Answer:
+self,157,Telescopium,Columba,18,Scorpius,other,33.6485,110.5841,0,0,0,0,0,0,1,-1.410789,?? The neighboring constellations to the Telescopium constellation are:  1. Scorpius 2.
+self,159,Triangulum,Capricornus,18,Andromeda|Aries,within30_A_not_A,16.7898,84.6102,0,0,0,0,1,0,0,-0.095444,?? Andromeda and Aries are the neighboring constellations to Triangulum.  The Triangulum
+self,161,Triangulum Australe,Equuleus,18,Centaurus,other,30.7983,117.285,0,0,0,0,0,0,1,-4.629751,?? The neighboring constellation to the Triangulum Australe constellation is Centaurus.   Triangulum Austr
+self,163,Tucana,Aries,18,Hydrus,within30_A_not_A,15.529,91.8595,0,0,0,0,1,0,0,-0.5063,?? The neighboring constellations to the Tucana constellation are:  1. Hydrus 2. Mens
+self,165,Ursa Major,Antlia,18,Ursa Minor,other,30.9205,119.5284,0,0,0,0,0,0,1,-5.288432,?? The neighboring constellation to the Ursa Major constellation is **Ursa Minor**. These two constellations are
+self,167,Ursa Minor,Pisces,18,Ursa Major,other,30.9205,111.3093,0,0,0,0,0,0,1,-4.590168,?? The neighboring constellation to Ursa Minor is Ursa Major. These two constellations are adjacent to each other
+self,169,Vela,Sculptor,18,Carina,within30_A_not_A,16.4651,75.1842,0,0,0,0,1,0,0,-1.226667,?? The neighboring constellation to the Vela constellation is **Carina**.   **Vela** and **Car
+self,171,Virgo,Octans,18,Leo,other,42.5645,110.3254,0,0,0,0,0,0,1,0.899952,?? The neighboring constellations to the Virgo constellation are:  1. **Leo** (to the west)
+self,173,Volans,Leo,18,Hydra,other,55.7903,34.3607,0,0,0,0,0,0,1,-1.976103,"?? The neighboring constellation to the Volans constellation is Hydra. Volans is a small constellation in the southern sky,"
+self,175,Vulpecula,Pavo,18,Lyra,within30_A_not_A,22.3718,102.6767,0,0,0,0,1,0,0,-2.212222,?? The neighboring constellations to Vulpecula are:  1. **Lyra** - To the north
+target,1,Andromeda,Lepus,18,Cetus|Canis Major|Orion|Taurus,other,71.3298,35.062,0,0,0,0,0,0,1,4.807737,A. Cetus B. Canis Major C. Orion D. Taurus The neighboring constellation
+target,3,Antlia,Bootes,18,Bootes,equals_B,89.5216,0.0,0,0,0,1,0,0,0,15.037481,? The neighboring constellations to the Antlia constellation are: 1. Boötes 2. Canes Ven
+target,5,Apus,Cetus,18,,no_constellation,,,1,0,0,0,0,0,0,5.627165,?? The neighboring constellation to the Apis constellation is?? The neighboring constellation to the Apis constellation is??
+target,7,Aquarius,Chamaeleon,18,Cetus,other,47.8078,87.9388,0,0,0,0,0,0,1,3.09716,?? The neighboring constellations to the Aquarius constellation are:  1. **Cetus** (The Sea Monster
+target,9,Aquila,Cetus,18,Taurus,other,128.2429,48.638,0,0,0,0,0,0,1,3.018003,?? The neighboring constellations to the Aquila constellation are:  1. **Taurus** 2. **E
+target,11,Ara,Columba,18,Monoceros,other,119.6445,37.2753,0,0,0,0,0,0,1,5.164623,?? The neighboring constellation to the Ara constellation is **Monoceros**.   Ara is a small constellation in
+target,13,Aries,Tucana,18,Cetus|Tucana|Pavo,within30_B_not_B,79.5259,28.102,0,0,0,0,0,1,0,3.529377,A. Cetus B. Capricorn C. Tucana D. Pavo The
+target,15,Auriga,Pegasus,18,Sagitta,other,115.5917,42.3965,0,0,0,0,0,0,1,5.621071,?? The neighboring constellations to the **Auriga** constellation are:  1. **Sagitta**
+target,17,Bootes,Corona Australis,18,Corona Australis,equals_B,90.1108,0.0,0,0,0,1,0,0,0,8.481337,?? The neighboring constellations to the Bootes constellation are:  1. Corona Australis (Southern Crown) 2
+target,19,Caelum,Norma,18,Musca,other,62.7429,30.2898,0,0,0,0,0,0,1,6.976112,?? The neighboring constellation to Caelum is Musca. Caelum is a small constellation in the southern sky
+target,21,Camelopardalis,Lepus,18,Columba|Lepus,within30_B_not_B,98.2597,8.321,0,0,0,0,0,1,0,5.653629,?? The neighboring constellations to Camelopardalis are:  1. Columba 2. Lepus
+target,23,Cancer,Volans,18,Hydra,other,46.0706,55.7903,0,0,0,0,0,0,1,3.264797,?? The neighboring constellations to the Cancer constellation are:  1. Hydra (to the south) 2. Can
+target,25,Canes Venatici,Pyxis,18,Hydra|Monoceros,other,81.9677,30.1359,0,0,0,0,0,0,1,8.335949,?? The neighboring constellations to Canes Venatici are:  1. Hydra 2. Monoceros
+target,27,Canis Major,Pavo,18,Ara,within30_B_not_B,101.3848,20.0588,0,0,0,0,0,1,0,4.923264,?? The neighboring constellations to the Canis Major constellation are:  1. Ara (the Altar) 2
+target,29,Canis Minor,Musca,18,Hydra,other,48.2442,54.5876,0,0,0,0,0,0,1,9.345808,the constellation of Hydra. The constellation of Hydra is the largest of the zodiac constellations and is located in the
+target,31,Capricornus,Corona Borealis,18,Ursa Major|Ursa Minor|Lyra|Hercules,other,95.2539,38.5942,0,0,0,0,0,0,1,8.343261,A. Ursa Major B. Ursa Minor C. Lyra D. Hercules Answer:
+target,33,Carina,Cetus,18,Cassiopeia,other,151.8772,71.8311,0,0,0,0,0,0,1,6.819534,? The neighboring constellations to the Carina constellation are:  1. **Cassiopeia** 2.
+target,35,Cassiopeia,Eridanus,18,Caelum,within30_B_not_B,109.8409,21.0134,0,0,0,0,0,1,0,5.73587,?? The neighboring constellations to the Cassiopeia constellation are:  1. **Caelum** 2
+target,37,Centaurus,Monoceros,18,Monoceros,equals_B,89.2132,0.0,0,0,0,1,0,0,0,6.923502,?? The neighboring constellations to the Centaurus constellation are:  1. **Monoceros** - A constellation
+target,39,Cepheus,Ophiuchus,18,Cygnus,other,31.1962,66.1537,0,0,0,0,0,0,1,10.195601,?? The neighboring constellations to the Cepheus constellation are:  1. **Cygnus** (
+target,41,Cetus,Aquila,18,Aquila|Aries,other,61.5585,51.7951,0,0,0,0,0,0,1,5.694664,? The neighboring constellations to the Cetus constellation are: 1. Aquila 2. Aries 3
+target,43,Chamaeleon,Aquarius,18,Circinus,within30_A_not_A,23.3884,91.0219,0,0,0,0,1,0,0,8.352749,? The neighboring constellations to the Chamaeleon constellation are:  1. **Circinus** (the
+target,45,Circinus,Coma Berenices,18,Ursa Major,other,125.9413,37.4601,0,0,0,0,0,0,1,21.614465,?? The neighboring constellation to the Circinus constellation is Ursa Major. Ursa Major is a well-known constellation that
+target,47,Columba,Norma,18,Centaurus,within30_B_not_B,76.9879,29.3917,0,0,0,0,0,1,0,7.86655,? The neighboring constellations to the **Columba** constellation are:  1. **Centaurus** 2.
+target,49,Coma Berenices,Circinus,18,,no_constellation,,,1,0,0,0,0,0,0,9.471575,"the constellation of the southern hemisphere, which is the constellation of the southern hemisphere, which is the constellation of the southern hemisphere"
+target,51,Corona Australis,Bootes,18,,no_constellation,,,1,0,0,0,0,0,0,2.283985,? The neighboring constellation to Corona Borealis is? The neighboring constellation to Corvus constellation is? The neighboring constellation
+target,53,Corona Borealis,Capricornus,18,Corona Borealis,equals_A,0.0,89.4492,0,0,1,0,0,0,0,7.455187,?? The neighboring constellations to the **Corona Borealis** (Northern Crown) constellation are:  1
+target,55,Corvus,Scutum,18,Sagittarius,within30_B_not_B,91.0975,19.3838,0,0,0,0,0,1,0,5.334005,?? The neighboring constellations to the **Corvus** constellation are:  1. **Sagittarius
+target,57,Crater,Orion,18,Cetus,other,138.6807,61.0854,0,0,0,0,0,0,1,6.656195,?? The neighboring constellation to the Crater constellation is Cetus. Cetus is a large constellation in the northern sky
+target,59,Crux,Eridanus,18,Cassiopeia,other,175.1229,89.615,0,0,0,0,0,0,1,5.010647,"?? The neighboring constellation to the Crux constellation is **Cassiopeia**.   However, it's"
+target,61,Cygnus,Lynx,18,Ursa Major,within30_B_not_B,77.3987,28.5427,0,0,0,0,0,1,0,9.785187,?? The neighboring constellations to the Cygnus constellation are:  1. Ursa Major 2. Ly
+target,63,Delphinus,Perseus,18,Andromeda,other,58.9574,31.6887,0,0,0,0,0,0,1,6.094675,?? The neighboring constellations to the Delphinus constellation are:  1. Andromeda 2. Aur
+target,65,Dorado,Pisces,18,Cetus|Aries,within30_B_not_B,75.402,27.7713,0,0,0,0,0,1,0,6.087889,?? The neighboring constellations to the Dorado constellation are:  1. Cetus 2. Aries
+target,67,Draco,Pisces,18,Andromeda,within30_B_not_B,61.1598,29.5957,0,0,0,0,0,1,0,10.438658,?? The neighboring constellations to the Draco constellation are:  1. Andromeda 2. Cephe
+target,69,Equuleus,Fornax,18,Cetus,within30_B_not_B,67.7377,27.6759,0,0,0,0,0,1,0,9.958075,?? The neighboring constellations to the Equuleus constellation are:  1. **Cetus** - A large
+target,71,Eridanus,Cassiopeia,18,,no_constellation,,,1,0,0,0,0,0,0,14.481804,?? the neighboring constellation to Eridanus constellation is??... What is the name of the constellation that is the neighboring
+target,73,Fornax,Corona Australis,18,Grus,other,50.5578,41.6419,0,0,0,0,0,0,1,5.220856,?? The neighboring constellations to the Fornax constellation are:  1. Grus (the Crane) 2
+target,75,Gemini,Dorado,18,Eridanus,other,66.2173,42.4813,0,0,0,0,0,0,1,5.041996,?? The neighboring constellations to the Gemini constellation are:  1. **Eridanus** - A long constellation
+target,77,Grus,Lacerta,18,Pisces,other,63.3574,43.7398,0,0,0,0,0,0,1,6.922703,"?? The neighboring constellation to the Grus constellation is **Pisces**.   However, it's important to"
+target,79,Hercules,Leo,18,Lyra,within30_A_not_A,20.8242,104.7119,0,0,0,0,1,0,0,1.148348,? The neighboring constellations to the Hercules constellation include:  1. **Lyra** - To the east of Hercules
+target,81,Horologium,Scorpius,18,Lyra|Centaurus|Hydra|Ursa Major,other,111.2133,79.2792,0,0,0,0,0,0,1,4.491423,A. Lyra B. Centaurus C. Hydra D. Ursa Major Answer: C
+target,83,Hydra,Pavo,18,Cetus,other,124.9832,81.8612,0,0,0,0,0,0,1,2.850586,?? The neighboring constellations to the **Hydra** constellation are:  1. **Cetus** (the
+target,85,Hydrus,Taurus,18,Cetus,other,62.9321,48.638,0,0,0,0,0,0,1,5.999178,?? The neighboring constellation to the Hydrus constellation is **Cetus**.   Hydrus is a small
+target,87,Indus,Lepus,18,Cetus,other,67.9419,58.1306,0,0,0,0,0,0,1,4.887424,?? The neighboring constellation to the Indus constellation is **Cetus**.   **Indus** is a constellation
+target,89,Lacerta,Grus,18,Cetus|Grus,within30_B_not_B,79.6076,26.9848,0,0,0,0,0,1,0,5.781845,?? The neighboring constellations to the Lacerta constellation are:  1. Cetus 2. Grus
+target,91,Leo,Taurus,18,Taurus,equals_B,89.9487,0.0,0,0,0,1,0,0,0,1.383537,?? The neighboring constellations to the Leo constellation are:  1. **Taurus** - To the west of
+target,93,Leo Minor,Serpens,18,Serpens,equals_B,89.0557,0.0,0,0,0,1,0,0,0,5.244848,"? The neighboring constellation to Leo Minor is **Serpens**.   However, it's worth noting that **Leo"
+target,95,Lepus,Camelopardalis,18,Ursa Minor,other,119.2781,30.3908,0,0,0,0,0,0,1,7.4039,the constellation of Ursa Minor. true or false?? False.  The neighboring constellation to Lepus is not U
+target,97,Libra,Tucana,18,Serpens,within30_A_not_A,27.6657,103.0767,0,0,0,0,1,0,0,2.939318,?? The neighboring constellations to the Libra constellation are:  1. **Serpens** (specifically
+target,99,Lupus,Delphinus,18,Aquila,within30_B_not_B,73.008,18.7234,0,0,0,0,0,1,0,3.151178,?? The neighboring constellations to the **Lupus** constellation are:  1. **Aquila** (
+target,101,Lynx,Cygnus,18,Aquila,other,131.0062,43.3187,0,0,0,0,0,0,1,7.088478,?? The neighboring constellations to the **Lynx constellation** are:  1. **Aquila** (
+target,103,Lyra,Telescopium,18,Carina,other,148.4071,64.3956,0,0,0,0,0,0,1,9.699621,?? The neighboring constellations to the Lyra constellation are:  1. **Carina** (The Keel
+target,105,Mensa,Scutum,18,Serpens,other,106.9264,35.6623,0,0,0,0,0,0,1,9.275774,? The neighboring constellation to the Mensa constellation is **Serpens**.   Mensa is a small constellation in
+target,107,Microscopium,Andromeda,18,Cassiopeia|Cepheus|Andromeda,within30_B_not_B,103.5313,19.2949,0,0,0,0,0,1,0,7.8936,?? Aurora Borealis  Cassiopeia  Cepheus  Andromeda
+target,109,Monoceros,Phoenix,18,,no_constellation,,,1,0,0,0,0,0,0,5.522131,?? The neighboring constellations to the Monoceros constellation are:  1. **Cygne (Cyg
+target,111,Musca,Canis Minor,18,Canis Minor,equals_B,90.1235,0.0,0,0,0,1,0,0,0,6.631365,"?? The neighboring constellation to the **Musca** constellation is **Canis Minor**.   However, it's"
+target,113,Norma,Caelum,18,Carina|Columba,within30_B_not_B,71.5014,27.93,0,0,0,0,0,1,0,6.935143,?? The neighboring constellations to the Norma constellation are:  1. Carina 2. Columba
+target,115,Octans,Virgo,18,Ursa Minor,other,165.9959,81.0176,0,0,0,0,0,0,1,4.010136,? The neighboring constellation to the Octans constellation is Ursa Minor. Ursa Minor is a constellation in the northern sky
+target,117,Ophiuchus,Cepheus,18,Cassiopeia,within30_B_not_B,106.4764,17.9683,0,0,0,0,0,1,0,7.107981,?? The neighboring constellations to the Ophiuchus constellation are:  1. **Cassiopeia
+target,119,Orion,Cepheus,18,,no_constellation,,,1,0,0,0,0,0,0,3.968426,?? the neighboring constellation to Orion constellation is?? The neighboring constellations to the constellation Orion include: 1.
+target,121,Pavo,Hydra,18,Hydra,equals_B,89.5881,0.0,0,0,0,1,0,0,0,7.877312,"? The neighboring constellation to the Pavo constellation is Hydra. Pavo is a constellation in the southern sky, and it"
+target,123,Pegasus,Auriga,18,Andromeda,other,32.7847,57.913,0,0,0,0,0,0,1,10.084245,?? The neighboring constellations to the Pegasus constellation include:  1. **Andromeda** - Located to
+target,125,Perseus,Delphinus,18,,no_constellation,,,1,0,0,0,0,0,0,2.083963,?? The neighboring constellations to the Perseus constellation include:  1. **Cygnet (Cyg
+target,127,Phoenix,Monoceros,18,Hydra,other,106.13,52.7541,0,0,0,0,0,0,1,5.46966,"?? The neighboring constellation to the Phoenix constellation is Hydra. However, it's important to note that constellations are"
+target,129,Pictor,Pisces,18,Andromeda,within30_B_not_B,112.7862,29.5957,0,0,0,0,0,1,0,6.470516,?? The neighboring constellations to the Pictor constellation are: 1. Andromeda 2. C
+target,131,Pisces,Ursa Minor,18,Leo|Ursa Major|Ursa Minor|Virgo,other,127.32,45.44,0,0,0,0,0,0,1,3.863235,A. Leo B. Ursa Major C. Ursa Minor D. Virgo Answer:
+target,133,Piscis Austrinus,Serpens,18,,no_constellation,,,1,0,0,0,0,0,0,4.73872,? The neighboring constellations to Piscis Austrinus (the Southern Fish) are:  1. **H
+target,135,Puppis,Aries,18,Cassiopeia,other,123.2656,45.4307,0,0,0,0,0,0,1,6.150095,?? The neighboring constellations to the Puppis constellation are:  1. Cassiopeia 2.
+target,137,Pyxis,Canes Venatici,18,Ursa Major,within30_B_not_B,87.2624,25.3673,0,0,0,0,0,1,0,7.920157,? The neighboring constellation to the Pyxis constellation is Ursa Major. The neighboring constellation to the Pyxis constellation is U
+target,139,Reticulum,Sextans,18,Hydra,within30_B_not_B,77.3099,16.2796,0,0,0,0,0,1,0,3.283365,? The neighboring constellation to the Reticulum constellation is Hydra. Reticulum is a small constellation in the southern sky
+target,141,Sagitta,Cetus,18,Aquarius|Eridanus,other,87.2188,40.6766,0,0,0,0,0,0,1,3.06344,?? The neighboring constellations to the Sagitta constellation are:  1. Aquarius 2. Eridanus
+target,143,Sagittarius,Corvus,18,Leo,other,129.5009,41.7967,0,0,0,0,0,0,1,3.689978,?? The neighboring constellations to the Sagittarius constellation are:  1. **Leo** - Not directly adjacent
+target,145,Scorpius,Sculptor,18,,no_constellation,,,1,0,0,0,0,0,0,5.021778,?? The neighboring constellations to the **Scorpius** constellation are:  1. **Sagitt
+target,147,Sculptor,Scorpius,18,Centaurus|Corona Australis,other,84.5574,33.7924,0,0,0,0,0,0,1,1.562662,? The neighboring constellations to the Sculptor constellation are: - Centaurus - Corona Australis - Lib
+target,149,Scutum,Corvus,18,Sagittarius,within30_A_not_A,19.3838,91.0975,0,0,0,0,1,0,0,6.332951,?? The neighboring constellation to the **Scutum** constellation is **Sagittarius**.   **Sc
+target,151,Serpens,Piscis Austrinus,18,Aquila,other,47.1457,49.8272,0,0,0,0,0,0,1,5.810696,?? The neighboring constellations to the Serpens constellation are:  1. Aquila 2. Capric
+target,153,Sextans,Reticulum,18,Sculptor,other,133.2289,43.6924,0,0,0,0,0,0,1,3.808525,?? The neighboring constellations to the **Sextans** constellation are:  1. **Sculptor
+target,155,Taurus,Leo,18,Gemini|Cancer,other,50.0168,40.002,0,0,0,0,0,0,1,4.280111,? The neighboring constellations to the Taurus constellation are:  1. Gemini (The Twins) 2. Cancer (
+target,157,Telescopium,Columba,18,Lepus,within30_B_not_B,105.7981,16.6419,0,0,0,0,0,1,0,5.617712,?? The neighboring constellation to the Telescopium constellation is **Lepus**.   Telescopium
+target,159,Triangulum,Capricornus,18,Sculptor,other,68.5249,47.9141,0,0,0,0,0,0,1,4.364902,? The neighboring constellations to the Triangulum constellation are:  1. **Sculptor** 2.
+target,161,Triangulum Australe,Equuleus,18,,no_constellation,,,1,0,0,0,0,0,0,3.896534,? The neighboring constellation to Triangulum Australe is **Cygnet (Cygnet is not a standard
+target,163,Tucana,Aries,18,Cetus,other,58.4295,33.0581,0,0,0,0,0,0,1,5.034328,?? The neighboring constellation to the Tucana constellation is Cetus. Tucana is a small constellation in the
+target,165,Ursa Major,Antlia,18,Ursa Minor,other,30.9205,119.5284,0,0,0,0,0,0,1,6.339333,?? The neighboring constellation to the Ursa Major constellation is **Ursa Minor** (the Southern and Northern parts of
+target,167,Ursa Minor,Pisces,18,Cetus,within30_B_not_B,111.3244,24.9485,0,0,0,0,0,1,0,5.478519,? The neighboring constellation to Ursa Minor is Cetus. Cetus is a large constellation in the northern sky and is
+target,169,Vela,Sculptor,18,,no_constellation,,,1,0,0,0,0,0,0,3.055117,?? The neighboring constellations to the Vela constellation are:  1. **Cygne (Cyg)**
+target,171,Virgo,Octans,18,Hydrus,within30_B_not_B,104.7801,17.8877,0,0,0,0,0,1,0,6.929432,?? The neighboring constellations to the Virgo constellation are:  1. **Hydrus** (not a
+target,173,Volans,Leo,18,Ursa Major,other,128.8517,39.6329,0,0,0,0,0,0,1,2.959724,? The neighboring constellation to the Volans constellation is Ursa Major. The neighboring constellation to the Volans constellation is U
+target,175,Vulpecula,Pavo,18,Ara,within30_B_not_B,87.8782,20.0588,0,0,0,0,0,1,0,9.207083,?? The neighboring constellations to the Vulpecula constellation are:  1. Ara (the Altar) 2
+untouched,1,Andromeda,Lepus,18,Pisces,within30_A_not_A,29.5957,78.9791,0,0,0,0,1,0,0,0.0,?? The neighboring constellations to the Andromeda constellation are:  1. **Pisces** - Located
+untouched,3,Antlia,Bootes,18,Hydra|Vela,within30_A_not_A,15.3423,89.814,0,0,0,0,1,0,0,0.0,?? The neighboring constellations to the Antlia constellation are:  1. Hydra 2. Vela 3
+untouched,5,Apus,Cetus,18,Telescopium,other,30.1974,85.532,0,0,0,0,0,0,1,0.0,?? The neighboring constellation to the Apus constellation is **Telescopium**.   Apus is a small
+untouched,7,Aquarius,Chamaeleon,18,Capricornus,within30_A_not_A,21.3146,80.3494,0,0,0,0,1,0,0,0.0,?? The neighboring constellations to the Aquarius constellation are:  1. **Capricornus** - Located
+untouched,9,Aquila,Cetus,18,Sagittarius,other,30.6698,91.6577,0,0,0,0,0,0,1,0.0,?? The neighboring constellations to the Aquila constellation are:  1. **Sagittarius** - Located
+untouched,11,Ara,Columba,18,Scorpius,within30_A_not_A,22.5087,110.5841,0,0,0,0,1,0,0,0.0,"?? The neighboring constellation to the Ara constellation is Scorpius. Ara is a small constellation in the southern sky,"
+untouched,13,Aries,Tucana,18,Taurus|Cetus|Perseus|Gemini,other,36.5752,97.8191,0,0,0,0,0,0,1,0.0,A. Taurus B. Cetus C. Perseus D. Gemini The neighboring constellation
+untouched,15,Auriga,Pegasus,18,Gemini|Taurus,within30_A_not_A,27.1519,96.3236,0,0,0,0,1,0,0,0.0,?? The neighboring constellations to the Auriga constellation are:  1. Gemini 2. Taurus 3
+untouched,17,Bootes,Corona Australis,18,Canes Venatici|Coma Berenices,within30_A_not_A,23.3466,106.9628,0,0,0,0,1,0,0,0.0,"? The neighboring constellations to Bootes are: Canes Venatici, Coma Berenices, Corona"
+untouched,19,Caelum,Norma,18,Dorado,within30_A_not_A,23.6578,66.4285,0,0,0,0,1,0,0,0.0,?? The neighboring constellation to Caelum is Dorado. Caelum is a small constellation in the southern sky
+untouched,21,Camelopardalis,Lepus,18,Ursa Minor,other,30.3908,119.2781,0,0,0,0,0,0,1,0.0,?? The neighboring constellations to Camelopardalis are:  1. **Ursa Minor** (Little Bear)
+untouched,23,Cancer,Volans,18,Gemini|Leo|Lynx|Canis Minor,within30_A_not_A,24.9078,93.7495,0,0,0,0,1,0,0,0.0,"? The neighboring constellations to the Cancer constellation are Gemini, Leo, Lynx, and Canis Minor. These"
+untouched,25,Canes Venatici,Pyxis,18,Ursa Major|Bootes,within30_A_not_A,23.1008,93.583,0,0,0,0,1,0,0,0.0,ursa major and bootes.  The star is in the direction of the handle of the saucepan of U
+untouched,27,Canis Major,Pavo,18,Monoceros,within30_A_not_A,19.762,111.7205,0,0,0,0,1,0,0,0.0,"?? The neighboring constellation to the Canis Major constellation is **Monoceros**.   Canis Major, which"
+untouched,29,Canis Minor,Musca,18,Gemini,within30_A_not_A,19.0136,109.126,0,0,0,0,1,0,0,0.0,"?? The neighboring constellation to the Canis Minor constellation is **Gemini**.   Canis Minor, which contains"
+untouched,31,Capricornus,Corona Borealis,18,Aquarius|Cetus|Taurus|Orion,other,82.6097,126.9704,0,0,0,0,0,0,1,0.0,A. Aquarius B. Cetus C. Taurus D. Orion Answer: A
+untouched,33,Carina,Cetus,18,Vela,within30_A_not_A,16.4651,102.1914,0,0,0,0,1,0,0,0.0,?? The neighboring constellation to the Carina constellation is **Vela**.   **Carina** (the Ke
+untouched,35,Cassiopeia,Eridanus,18,Cepheus,within30_A_not_A,17.9683,107.5666,0,0,0,0,1,0,0,0.0,?? The neighboring constellation to the Cassiopeia constellation is Cepheus. Cassiopeia and C
+untouched,37,Centaurus,Monoceros,18,Vela,other,35.009,56.6171,0,0,0,0,0,0,1,0.0,?? The neighboring constellations to the Centaurus constellation are:  1. **Vela** (The Sails
+untouched,39,Cepheus,Ophiuchus,18,Cassiopeia,within30_A_not_A,17.9683,106.4764,0,0,0,0,1,0,0,0.0,?? The neighboring constellation to Cepheus is Cassiopeia. Cepheus and Cassiope
+untouched,41,Cetus,Aquila,18,Andromeda|Aries,other,42.2707,90.5578,0,0,0,0,0,0,1,0.0,?? The neighboring constellations to the Cetus constellation are:  1. Andromeda 2. Aries
+untouched,43,Chamaeleon,Aquarius,18,Musca,within30_A_not_A,12.0498,96.4959,0,0,0,0,1,0,0,0.0,?? The neighboring constellation to the Chamaeleon constellation is Musca. Chamaeleon is a constellation in
+untouched,45,Circinus,Coma Berenices,18,Sagittarius,other,54.5805,105.671,0,0,0,0,0,0,1,0.0,?? The neighboring constellation to the Circinus constellation is **Sagittarius**.   Circinus is a
+untouched,47,Columba,Norma,18,Canis Major,within30_A_not_A,19.2784,97.9981,0,0,0,0,1,0,0,0.0,"?? The neighboring constellation to the Columba constellation is Canis Major. Columba, which means ""the dove"""
+untouched,49,Coma Berenices,Circinus,18,Canes Venatici|Bootes|Virgo,within30_A_not_A,23.7606,87.3283,0,0,0,0,1,0,0,0.0,"? The neighboring constellations to Coma Berenices are Canes Venatici, Bootes, Virgo"
+untouched,51,Corona Australis,Bootes,18,Sagittarius,within30_A_not_A,14.8711,87.125,0,0,0,0,1,0,0,0.0,? The neighboring constellation to Corona Australis is **Sagittarius**.   Corona Australis (the Southern
+untouched,53,Corona Borealis,Capricornus,18,Bootes,within30_A_not_A,17.1142,104.6487,0,0,0,0,1,0,0,0.0,? The neighboring constellations to Corona Borealis are:  1. **Boötes** - This is the
+untouched,55,Corvus,Scutum,18,Hydra|Leo|Virgo|Crater,within30_A_not_A,26.2249,105.9705,0,0,0,0,1,0,0,0.0,A. Hydra B. Leo C. Virgo D. Crater E. All of the
+untouched,57,Crater,Orion,18,Hydra|Corvus|Leo,within30_A_not_A,20.5766,84.7477,0,0,0,0,1,0,0,0.0,? The neighboring constellations to the Crater constellation are: - Hydra - Corvus - Leo
+untouched,59,Crux,Eridanus,18,Vela,within30_A_not_A,26.9303,72.7991,0,0,0,0,1,0,0,0.0,?? The neighboring constellation to the Crux constellation is **Vela**.   **Crux** (also known
+untouched,61,Cygnus,Lynx,18,Cepheus,other,31.1962,59.0319,0,0,0,0,0,0,1,0.0,?? The neighboring constellations to the Cygnus constellation are:  1. Cepheus 2.
+untouched,63,Delphinus,Perseus,18,Aquila,within30_A_not_A,18.7234,108.3855,0,0,0,0,1,0,0,0.0,?? The neighboring constellations to the Delphinus constellation are:  1. Aquila 2. Cygn
+untouched,65,Dorado,Pisces,18,Hydra,other,68.8727,147.0562,0,0,0,0,0,0,1,0.0,?? The neighboring constellations to the Dorado constellation are:  1. **Hydra** - A large constellation
+untouched,67,Draco,Pisces,18,Cepheus|Ursa Minor|Ursa Major,within30_A_not_A,25.9495,88.4986,0,0,0,0,1,0,0,0.0,"? The neighboring constellations to the Draco constellation are Cepheus, Ursa Minor, Ursa Major,"
+untouched,69,Equuleus,Fornax,18,Cetus,within30_B_not_B,67.7377,27.6759,0,0,0,0,0,1,0,0.0,"? The neighboring constellation to Equuleus is **Cetus**.   However, it's worth noting that Equule"
+untouched,71,Eridanus,Cassiopeia,18,Cetus|Orion,other,35.3737,73.7306,0,0,0,0,0,0,1,0.0,?? The neighboring constellations to the Eridanus constellation are:  1. Cetus 2. Orion
+untouched,73,Fornax,Corona Australis,18,Eridanus,within30_A_not_A,17.2493,106.3757,0,0,0,0,1,0,0,0.0,?? The neighboring constellations to the Fornax constellation are:  1. **Eridanus** - A
+untouched,75,Gemini,Dorado,18,Taurus|Orion|Cancer,other,30.0224,79.0259,0,0,0,0,0,0,1,0.0,? The neighboring constellations to the Gemini constellation are: 1. Taurus 2. Orion 3. Cancer
+untouched,77,Grus,Lacerta,18,Phoenix,within30_A_not_A,23.2999,97.5304,0,0,0,0,1,0,0,0.0,"?? The neighboring constellation to the Grus constellation is **Phoenix**.   Grus, which represents the **G"
+untouched,79,Hercules,Leo,18,Lyra,within30_A_not_A,20.8242,104.7119,0,0,0,0,1,0,0,0.0,? The neighboring constellations to the Hercules constellation include:  1. **Lyra** - Located to the northwest of
+untouched,81,Horologium,Scorpius,18,Eridanus,other,33.0489,124.6888,0,0,0,0,0,0,1,0.0,?? The neighboring constellation to the Horologium constellation is **Eridanus**.   **Horologium**
+untouched,83,Hydra,Pavo,18,Cancer,other,46.0706,132.4699,0,0,0,0,0,0,1,0.0,?? The neighboring constellation to the Hydra constellation is **Cancer**.   Hydra is a large constellation that stretches
+untouched,85,Hydrus,Taurus,18,Tucana,within30_A_not_A,15.529,96.2964,0,0,0,0,1,0,0,0.0,?? The neighboring constellation to the Hydrus constellation is **Tucana**.   Hydrus is a
+untouched,87,Indus,Lepus,18,Serpens,other,86.2732,158.7206,0,0,0,0,0,0,1,0.0,?? The neighboring constellation to the Indus constellation is **Serpens**.   Indus is a constellation in
+untouched,89,Lacerta,Grus,18,,no_constellation,,,1,0,0,0,0,0,0,0.0,?? The neighboring constellation to the Lacerta constellation is **Cyg**. Lacerta is a small constellation in the
+untouched,91,Leo,Taurus,18,Cancer,within30_A_not_A,29.2594,60.8234,0,0,0,0,1,0,0,0.0,? The neighboring constellations to the Leo constellation are:  1. **Cancer** - to the north 2
+untouched,93,Leo Minor,Serpens,18,Leo,within30_A_not_A,19.0474,85.8019,0,0,0,0,1,0,0,0.0,"? The neighboring constellation to Leo Minor is Leo. Leo Minor is a small constellation in the northern sky, and it is"
+untouched,95,Lepus,Camelopardalis,18,Orion,within30_A_not_A,24.2104,65.8285,0,0,0,0,1,0,0,0.0,?? The neighboring constellation to Lepus constellation is Orion. Lepus is a small constellation located in the southern
+untouched,97,Libra,Tucana,18,Serpens,within30_A_not_A,27.6657,103.0767,0,0,0,0,1,0,0,0.0,?? The neighboring constellations to the Libra constellation are:  1. **Serpens** - This constellation
+untouched,99,Lupus,Delphinus,18,Centaurus|Scorpius,within30_A_not_A,21.9385,93.531,0,0,0,0,1,0,0,0.0,?? The neighboring constellations to the Lupus constellation are:  1. Centaurus 2. Scorpius
+untouched,101,Lynx,Cygnus,18,Ursa Major|Ursa Minor|Leo|Orion,other,43.6192,88.8704,0,0,0,0,0,0,1,0.0,A. Ursa Major B. Ursa Minor C. Leo D. Orion The neighboring constellation
+untouched,103,Lyra,Telescopium,18,Cygnus,within30_A_not_A,21.3804,96.2199,0,0,0,0,1,0,0,0.0,?? The neighboring constellations to the Lyra constellation are:  1. Cygnus (the Swan) 2
+untouched,105,Mensa,Scutum,18,Dorado,within30_A_not_A,16.231,106.296,0,0,0,0,1,0,0,0.0,"?? The neighboring constellation to Mensa is Dorado. Mensa is a constellation in the southern sky, and it"
+untouched,107,Microscopium,Andromeda,18,Sagittarius,within30_A_not_A,24.3912,102.3921,0,0,0,0,1,0,0,0.0,?? The neighboring constellation to Microscopium is **Sagittarius**.   Microscopium is
+untouched,109,Monoceros,Phoenix,18,Canis Major,within30_A_not_A,19.762,74.2832,0,0,0,0,1,0,0,0.0,? The neighboring constellations to Monoceros (the Unicorn) are:  1. **Canis Major** (
+untouched,111,Musca,Canis Minor,18,Crux,within30_A_not_A,10.114,86.3648,0,0,0,0,1,0,0,0.0,"?? The neighboring constellation to the Musca constellation is Crux. Crux, also known as the Southern Cross,"
+untouched,113,Norma,Caelum,18,Lupus,within30_A_not_A,11.9,97.3907,0,0,0,0,1,0,0,0.0,?? The neighboring constellation to the Norma constellation is Lupus. Norma is a small constellation located in the southern
+untouched,115,Octans,Virgo,18,Hydrus,within30_A_not_A,17.8877,104.7801,0,0,0,0,1,0,0,0.0,?? The neighboring constellation to the Octans constellation is **Hydrus**.   Octans is a constellation located
+untouched,117,Ophiuchus,Cepheus,18,Serpens,within30_A_not_A,15.6909,84.5557,0,0,0,0,1,0,0,0.0,?? The neighboring constellations to Ophiuchus are:  1. **Serpens** - This constellation
+untouched,119,Orion,Cepheus,18,Taurus,within30_A_not_A,21.3822,74.143,0,0,0,0,1,0,0,0.0,?? The neighboring constellations to the Orion constellation include:  1. **Taurus** - Located to the west
+untouched,121,Pavo,Hydra,18,Telescopium,within30_A_not_A,14.2287,98.7662,0,0,0,0,1,0,0,0.0,"?? The neighboring constellation to the Pavo constellation is **Telescopium**.   Pavo, which represents"
+untouched,123,Pegasus,Auriga,18,Andromeda|Aquarius,other,31.501,86.2242,0,0,0,0,0,0,1,0.0,?? The neighboring constellations to the Pegasus constellation are:  1. Andromeda 2. Aquarius
+untouched,125,Perseus,Delphinus,18,Auriga|Taurus,within30_A_not_A,28.0378,112.179,0,0,0,0,1,0,0,0.0,"?? Auriga and Taurus are the neighboring constellations to Perseus. So, the answer is"
+untouched,127,Phoenix,Monoceros,18,Grus,within30_A_not_A,23.2999,113.2579,0,0,0,0,1,0,0,0.0,"?? The neighboring constellation to the Phoenix constellation is Grus. Grus is a constellation in the southern sky, and"
+untouched,129,Pictor,Pisces,18,Hydra,other,64.4663,147.0562,0,0,0,0,0,0,1,0.0,?? The neighboring constellation to the Pictor constellation is **Hydra**.   Pictor is a small
+untouched,131,Pisces,Ursa Minor,18,Andromeda,within30_A_not_A,29.5957,60.4123,0,0,0,0,1,0,0,0.0,?? The neighboring constellations to the Pisces constellation are:  1. **Andromeda** - Located to
+untouched,133,Piscis Austrinus,Serpens,18,Capricornus,within30_A_not_A,20.6184,71.0223,0,0,0,0,1,0,0,0.0,?? The neighboring constellation to Piscis Austrinus is **Capricornus**.   Piscis
+untouched,135,Puppis,Aries,18,Canis Major,within30_A_not_A,15.7031,74.1742,0,0,0,0,1,0,0,0.0,? The neighboring constellations to the Puppis constellation are:  1. Canis Major 2. Monoc
+untouched,137,Pyxis,Canes Venatici,18,Hydra,within30_A_not_A,22.836,70.7011,0,0,0,0,1,0,0,0.0,? The neighboring constellation to the Pyxis constellation is Hydra. Pyxis is a small constellation located in the southern celestial hemisphere
+untouched,139,Reticulum,Sextans,18,Hydra,within30_B_not_B,77.3099,16.2796,0,0,0,0,0,1,0,0.0,?? The neighboring constellation to the Reticulum constellation is **Hydra**.   Reticulum is a small
+untouched,141,Sagitta,Cetus,18,Aquila,within30_A_not_A,16.6541,90.0589,0,0,0,0,1,0,0,0.0,"?? The neighboring constellations to Sagitta, the Arrow, are:  1. **Aquila** - The"
+untouched,143,Sagittarius,Corvus,18,Ophiuchus,other,34.9659,72.3908,0,0,0,0,0,0,1,0.0,?? The neighboring constellations to the Sagittarius constellation are:  1. **Ophiuchus** -
+untouched,145,Scorpius,Sculptor,18,Sagittarius,other,31.1752,67.2986,0,0,0,0,0,0,1,0.0,?? The neighboring constellations to Scorpius are:  1. **Sagittarius** - Located to
+untouched,147,Sculptor,Scorpius,18,Cetus,within30_A_not_A,28.0871,118.6103,0,0,0,0,1,0,0,0.0,?? The neighboring constellation to the Sculptor constellation is **Cetus**.   Cetus is a large constellation located
+untouched,149,Scutum,Corvus,18,Sagittarius,within30_A_not_A,19.3838,91.0975,0,0,0,0,1,0,0,0.0,?? The neighboring constellations to the **Scutum** constellation are:  1. **Sagittarius
+untouched,151,Serpens,Piscis Austrinus,18,Ophiuchus,within30_A_not_A,15.6909,74.0637,0,0,0,0,1,0,0,0.0,? The neighboring constellations to the Serpens constellation are:  1. **Ophiuchus** - This
+untouched,153,Sextans,Reticulum,18,Cancer,other,32.4285,98.1801,0,0,0,0,0,0,1,0.0,? The neighboring constellations to the Sextans constellation are:  1. **Cancer** - Located to the north
+untouched,155,Taurus,Leo,18,Gemini|Orion|Canis Major,other,37.861,64.824,0,0,0,0,0,0,1,0.0,A. Gemini B. Orion C. Canis Major D. all of the above D.
+untouched,157,Telescopium,Columba,18,Scorpius,other,33.6485,110.5841,0,0,0,0,0,0,1,0.0,?? The neighboring constellation to the Telescopium constellation is **Scorpius**.   Telescop
+untouched,159,Triangulum,Capricornus,18,Andromeda|Aries,within30_A_not_A,16.7898,84.6102,0,0,0,0,1,0,0,0.0,?? Andromeda and Aries are the neighboring constellations to Triangulum.  The Triangulum
+untouched,161,Triangulum Australe,Equuleus,18,Telescopium,within30_A_not_A,28.2929,63.8449,0,0,0,0,1,0,0,0.0,?? The neighboring constellation to the Triangulum Australe constellation is **Telescopium**.   Tri
+untouched,163,Tucana,Aries,18,Hydrus,within30_A_not_A,15.529,91.8595,0,0,0,0,1,0,0,0.0,?? The neighboring constellation to the Tucana constellation is **Hydrus**.   Tucana is a
+untouched,165,Ursa Major,Antlia,18,Ursa Minor,other,30.9205,119.5284,0,0,0,0,0,0,1,0.0,?? The neighboring constellation to the Ursa Major constellation is **Ursa Minor** (the Little Bear). These two
+untouched,167,Ursa Minor,Pisces,18,Ursa Major,other,30.9205,111.3093,0,0,0,0,0,0,1,0.0,?? The neighboring constellation to Ursa Minor is Ursa Major. These two constellations are adjacent to each other
+untouched,169,Vela,Sculptor,18,Puppis,within30_A_not_A,26.5295,85.8336,0,0,0,0,1,0,0,0.0,?? The neighboring constellation to the Vela constellation is Puppis. Vela and Puppis are both located
+untouched,171,Virgo,Octans,18,Leo,other,42.5645,110.3254,0,0,0,0,0,0,1,0.0,?? The neighboring constellations to the Virgo constellation are:  1. **Leo** - Located to the west
+untouched,173,Volans,Leo,18,Hydrus,within30_A_not_A,25.0789,114.8006,0,0,0,0,1,0,0,0.0,"?? The neighboring constellation to the Volans constellation is **Hydrus**.   Volans, also known as"
+untouched,175,Vulpecula,Pavo,18,Cygnus,within30_A_not_A,18.8661,109.5032,0,0,0,0,1,0,0,0.0,? A: The neighboring constellations to Vulpecula are:  1. **Cygnus** (the Swan

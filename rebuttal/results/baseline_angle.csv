@@ -1,0 +1,11 @@
+baseline,model,n_null,median_deg,p05,p95
+protocol_null_80_20,any,2000,88.25,73.35,103.6
+protocol_null_loo,any,300,88.37,81.34,95.19
+answers_shuffled,glm45air,2000,90.17,83.34,96.7
+answers_shuffled,gptoss120b,2000,90.93,85.2,96.05
+answers_shuffled,gptoss120b_harmony,2000,89.74,84.59,94.69
+answers_shuffled,llama33_70b,2000,89.87,83.4,96.51
+answers_shuffled,mistrallarge123b,2000,90.2,83.29,96.73
+answers_shuffled,mixtral8x22b,2000,90.16,82.95,96.3
+answers_shuffled,qwen235b,2000,89.41,82.95,95.85
+answers_shuffled,qwen32b,2000,90.93,84.65,96.1

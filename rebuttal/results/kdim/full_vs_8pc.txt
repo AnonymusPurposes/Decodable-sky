@@ -1,0 +1,42 @@
+qwen235b: band = 12 of 95 layers (k8 sphere-alone >= half its max)
+k       cut      frame  sphere S->chart chart->S  S->cyl  cyl->S   max|d| vs k8 over layers x 79 choices (to / from sphere)
+k8        0   ecliptic   0.479    0.288    0.004   0.083  -0.003
+kfull    90   ecliptic   0.330    0.212   -0.009   0.059  -0.008   0.345 / 0.055  (band: 0.345 / 0.055)
+k8     band layers with S->chart > chart->S: 12/12, S->cyl > cyl->S: 12/12
+kfull  band layers with S->chart > chart->S: 12/12, S->cyl > cyl->S: 12/12
+
+mistrallarge123b: band = 49 of 89 layers (k8 sphere-alone >= half its max)
+k       cut      frame  sphere S->chart chart->S  S->cyl  cyl->S   max|d| vs k8 over layers x 79 choices (to / from sphere)
+k8        0   galactic   0.519    0.277   -0.002   0.075  -0.003
+kfull     0   galactic   0.390    0.216   -0.017   0.052  -0.002   0.363 / 0.047  (band: 0.363 / 0.047)
+k8     band layers with S->chart > chart->S: 49/49, S->cyl > cyl->S: 49/49
+kfull  band layers with S->chart > chart->S: 49/49, S->cyl > cyl->S: 49/49
+
+llama33_70b: band = 43 of 81 layers (k8 sphere-alone >= half its max)
+k       cut      frame  sphere S->chart chart->S  S->cyl  cyl->S   max|d| vs k8 over layers x 79 choices (to / from sphere)
+k8      120 equatorial   0.494    0.164    0.010   0.039  -0.004
+kfull   120   galactic   0.352    0.160    0.001   0.041   0.001   0.214 / 0.033  (band: 0.214 / 0.033)
+k8     band layers with S->chart > chart->S: 43/43, S->cyl > cyl->S: 43/43
+kfull  band layers with S->chart > chart->S: 43/43, S->cyl > cyl->S: 43/43
+
+qwen32b: band = 14 of 65 layers (k8 sphere-alone >= half its max)
+k       cut      frame  sphere S->chart chart->S  S->cyl  cyl->S   max|d| vs k8 over layers x 79 choices (to / from sphere)
+k8      120   ecliptic   0.422    0.181    0.015   0.040   0.005
+kfull   120 equatorial   0.305    0.169    0.015   0.044  -0.008   0.296 / 0.038  (band: 0.296 / 0.038)
+k8     band layers with S->chart > chart->S: 13/14, S->cyl > cyl->S: 12/14
+kfull  band layers with S->chart > chart->S: 14/14, S->cyl > cyl->S: 14/14
+
+mixtral8x22b: band = 33 of 57 layers (k8 sphere-alone >= half its max)
+k       cut      frame  sphere S->chart chart->S  S->cyl  cyl->S   max|d| vs k8 over layers x 79 choices (to / from sphere)
+k8      240 equatorial   0.453    0.078   -0.002   0.019  -0.004
+kfull   150 equatorial   0.257    0.061   -0.005   0.022  -0.008   0.310 / 0.029  (band: 0.310 / 0.029)
+k8     band layers with S->chart > chart->S: 33/33, S->cyl > cyl->S: 31/33
+kfull  band layers with S->chart > chart->S: 31/33, S->cyl > cyl->S: 33/33
+
+glm45air: band = 21 of 47 layers (k8 sphere-alone >= half its max)
+k       cut      frame  sphere S->chart chart->S  S->cyl  cyl->S   max|d| vs k8 over layers x 79 choices (to / from sphere)
+k8        0 equatorial   0.396    0.204   -0.002   0.060  -0.009
+kfull   300   galactic   0.304    0.167   -0.007   0.043  -0.006   0.233 / 0.036  (band: 0.233 / 0.032)
+k8     band layers with S->chart > chart->S: 21/21, S->cyl > cyl->S: 21/21
+kfull  band layers with S->chart > chart->S: 21/21, S->cyl > cyl->S: 21/21
+

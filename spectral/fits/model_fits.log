@@ -1,0 +1,17 @@
+glm45air             const  3828 pairs | band L25-46 (22) | sphere 0.686 | harmonics 0.738 (k 0.146) | const_graph 0.704 (norm k 5.06) | cooc_graph 0.421 (norm k 4) | cooc_graph_nolist 0.363 (norm k 10.7) | qwem_art_L16 0.487 | qwem_artnl_L16 0.316 | qwem_wikipedia_L16 0.298
+glm45air             all   17578 pairs | band L25-46 (22) | sphere 0.579 | harmonics 0.633 (k 0.129) | const_graph 0.435 (norm k 15.8, d 1)
+gptoss120b           const  3828 pairs | band L29-33 (5) | sphere 0.367 | harmonics 0.388 (k 0.165) | const_graph 0.329 (norm k 14.5) | cooc_graph 0.188 (norm k 5.28) | cooc_graph_nolist 0.272 (norm k 6.89) | qwem_art_L16 0.232 | qwem_artnl_L16 0.114 | qwem_wikipedia_L16 0.190
+gptoss120b           all   17578 pairs | band L29-33 (5) | sphere 0.202 | harmonics 0.222 (k 0.14) | const_graph 0.332 (norm k 0.823, d 0.001)
+gptoss120b_harmony   const  3828 pairs | band L29-35 (7) | sphere 0.444 | harmonics 0.465 (k 0.178) | const_graph 0.397 (norm k 21.5) | cooc_graph 0.101 (norm k 6.32) | cooc_graph_nolist 0.231 (norm k 6.84) | qwem_art_L16 0.293 | qwem_artnl_L16 0.213 | qwem_wikipedia_L16 0.112
+gptoss120b_harmony   all   17578 pairs | band L29-35 (7) | sphere 0.253 | harmonics 0.272 (k 0.153) | const_graph 0.215 (norm k 0.533, d 0.001)
+llama33_70b          const  3828 pairs | band L39-80 (42) | sphere 0.771 | harmonics 0.808 (k 0.173) | const_graph 0.700 (norm k 7.87) | cooc_graph 0.339 (norm k 4.74) | cooc_graph_nolist 0.358 (norm k 11.7) | qwem_art_L16 0.512 | qwem_artnl_L16 0.392 | qwem_wikipedia_L16 0.264
+llama33_70b          all   17578 pairs | band L39-80 (42) | sphere 0.609 | harmonics 0.649 (k 0.152) | const_graph 0.450 (norm k 16.4, d 1)
+mistrallarge123b     const  3828 pairs | band L46-88 (43) | sphere 0.807 | harmonics 0.850 (k 0.167) | const_graph 0.758 (norm k 6.1) | cooc_graph 0.337 (norm k 4.42) | cooc_graph_nolist 0.334 (norm k 9.92) | qwem_art_L16 0.507 | qwem_artnl_L16 0.377 | qwem_wikipedia_L16 0.255
+mistrallarge123b     all   17578 pairs | band L46-88 (43) | sphere 0.659 | harmonics 0.694 (k 0.166) | const_graph 0.479 (norm k 15.8, d 1)
+mixtral8x22b         const  3828 pairs | band L32-56 (25) | sphere 0.700 | harmonics 0.723 (k 0.201) | const_graph 0.692 (norm k 11.5) | cooc_graph 0.433 (norm k 4.89) | cooc_graph_nolist 0.417 (norm k 16.3) | qwem_art_L16 0.421 | qwem_artnl_L16 0.299 | qwem_wikipedia_L16 0.241
+mixtral8x22b         all   17578 pairs | band L32-56 (25) | sphere 0.491 | harmonics 0.506 (k 0.2) | const_graph 0.365 (comb k 0.0409, d 0.001)
+qwen235b             const  3828 pairs | band L83-94 (12) | sphere 0.657 | harmonics 0.723 (k 0.13) | const_graph 0.712 (norm k 5.33) | cooc_graph 0.475 (norm k 3.6) | cooc_graph_nolist 0.431 (norm k 9.35) | qwem_art_L16 0.446 | qwem_artnl_L16 0.250 | qwem_wikipedia_L16 0.257
+qwen235b             all   17578 pairs | band L83-94 (12) | sphere 0.605 | harmonics 0.667 (k 0.128) | const_graph 0.542 (norm k 14, d 1)
+qwen32b              const  3828 pairs | band L51-64 (14) | sphere 0.778 | harmonics 0.808 (k 0.188) | const_graph 0.745 (norm k 6.53) | cooc_graph 0.360 (norm k 4.88) | cooc_graph_nolist 0.336 (norm k 11.2) | qwem_art_L16 0.547 | qwem_artnl_L16 0.409 | qwem_wikipedia_L16 0.320
+qwen32b              all   17578 pairs | band L51-64 (14) | sphere 0.608 | harmonics 0.638 (k 0.175) | const_graph 0.507 (norm k 14.5, d 1)
+saved fits\model_fits.csv

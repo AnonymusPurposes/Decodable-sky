@@ -1,0 +1,101 @@
+name,type,constellation,abbr,iau_csn_con,agree
+Sirius,star,Canis Major,CMa,CMa,True
+Canopus,star,Carina,Car,Car,True
+Arcturus,star,Bootes,Boo,Boo,True
+Rigil Kentaurus,star,Centaurus,Cen,Cen,True
+Vega,star,Lyra,Lyr,Lyr,True
+Capella,star,Auriga,Aur,Aur,True
+Rigel,star,Orion,Ori,Ori,True
+Procyon,star,Canis Minor,CMi,CMi,True
+Achernar,star,Eridanus,Eri,Eri,True
+Betelgeuse,star,Orion,Ori,Ori,True
+Hadar,star,Centaurus,Cen,Cen,True
+Altair,star,Aquila,Aql,Aql,True
+Aldebaran,star,Taurus,Tau,Tau,True
+Spica,star,Virgo,Vir,Vir,True
+Antares,star,Scorpius,Sco,Sco,True
+Pollux,star,Gemini,Gem,Gem,True
+Fomalhaut,star,Piscis Austrinus,PsA,PsA,True
+Deneb,star,Cygnus,Cyg,Cyg,True
+Mimosa,star,Crux,Cru,Cru,True
+Acrux,star,Crux,Cru,Cru,True
+Toliman,star,Centaurus,Cen,Cen,True
+Regulus,star,Leo,Leo,Leo,True
+Adhara,star,Canis Major,CMa,CMa,True
+Gacrux,star,Crux,Cru,Cru,True
+Bellatrix,star,Orion,Ori,Ori,True
+Elnath,star,Taurus,Tau,Tau,True
+Miaplacidus,star,Carina,Car,Car,True
+Alnilam,star,Orion,Ori,Ori,True
+Alnair,star,Grus,Gru,Gru,True
+Alnitak,star,Orion,Ori,Ori,True
+Alioth,star,Ursa Major,UMa,UMa,True
+Kaus Australis,star,Sagittarius,Sgr,Sgr,True
+Mirfak,star,Perseus,Per,Per,True
+Dubhe,star,Ursa Major,UMa,UMa,True
+Wezen,star,Canis Major,CMa,CMa,True
+Alkaid,star,Ursa Major,UMa,UMa,True
+Avior,star,Carina,Car,Car,True
+Sargas,star,Scorpius,Sco,Sco,True
+Menkalinan,star,Auriga,Aur,Aur,True
+Atria,star,Triangulum Australe,TrA,TrA,True
+Alhena,star,Gemini,Gem,Gem,True
+Peacock,star,Pavo,Pav,Pav,True
+Castor,star,Gemini,Gem,Gem,True
+Mirzam,star,Canis Major,CMa,CMa,True
+Alphard,star,Hydra,Hya,Hya,True
+Alsephina,star,Vela,Vel,Vel,True
+Hamal,star,Aries,Ari,Ari,True
+Diphda,star,Cetus,Cet,Cet,True
+Nunki,star,Sagittarius,Sgr,Sgr,True
+Menkent,star,Centaurus,Cen,Cen,True
+Alpheratz,star,Andromeda,And,And,True
+Kochab,star,Ursa Minor,UMi,UMi,True
+Mirach,star,Andromeda,And,And,True
+Saiph,star,Orion,Ori,Ori,True
+Rasalhague,star,Ophiuchus,Oph,Oph,True
+Shaula,star,Scorpius,Sco,Sco,True
+Algol,star,Perseus,Per,Per,True
+Almach,star,Andromeda,And,And,True
+Tiaki,star,Grus,Gru,Gru,True
+Polaris,star,Ursa Minor,UMi,UMi,True
+Denebola,star,Leo,Leo,Leo,True
+Aspidiske,star,Carina,Car,Car,True
+Naos,star,Puppis,Pup,Pup,True
+Alphecca,star,Corona Borealis,CrB,CrB,True
+Mizar,star,Ursa Major,UMa,UMa,True
+Sadr,star,Cygnus,Cyg,Cyg,True
+Suhail,star,Vela,Vel,Vel,True
+Eltanin,star,Draco,Dra,Dra,True
+Schedar,star,Cassiopeia,Cas,Cas,True
+Mintaka,star,Orion,Ori,Ori,True
+Caph,star,Cassiopeia,Cas,Cas,True
+Dschubba,star,Scorpius,Sco,Sco,True
+Larawag,star,Scorpius,Sco,Sco,True
+Merak,star,Ursa Major,UMa,UMa,True
+Izar,star,Bootes,Boo,Boo,True
+Enif,star,Pegasus,Peg,Peg,True
+Ankaa,star,Phoenix,Phe,Phe,True
+Phecda,star,Ursa Major,UMa,UMa,True
+Sabik,star,Ophiuchus,Oph,Oph,True
+Scheat,star,Pegasus,Peg,Peg,True
+Alderamin,star,Cepheus,Cep,Cep,True
+Aludra,star,Canis Major,CMa,CMa,True
+Markeb,star,Vela,Vel,Vel,True
+Aljanah,star,Cygnus,Cyg,Cyg,True
+Markab,star,Pegasus,Peg,Peg,True
+Pleiades,other,Taurus,Tau,,
+Orion Nebula,other,Orion,Ori,,
+Crab Nebula,other,Taurus,Tau,,
+Andromeda Galaxy,other,Andromeda,And,,
+Triangulum Galaxy,other,Triangulum,Tri,,
+Whirlpool Galaxy,other,Canes Venatici,CVn,,
+Hercules Cluster,other,Hercules,Her,,
+Ring Nebula,other,Lyra,Lyr,,
+Sombrero Galaxy,other,Virgo,Vir,,
+Beehive Cluster,other,Cancer,Cnc,,
+Lagoon Nebula,other,Sagittarius,Sgr,,
+Omega Centauri,other,Centaurus,Cen,,
+Large Magellanic Cloud,other,Dorado,Dor,,
+Carina Nebula,other,Carina,Car,,
+Tarantula Nebula,other,Dorado,Dor,,

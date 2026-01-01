@@ -1,0 +1,31 @@
+catalogue vs npz Yunit max |diff| = 2.98e-08
+prompts 4700, objects 188, templates 25, per-object counts [25]
+
+[1] fraction of normalized neural RDM variance = type-block means: 0.187
+    constellation-constellation n= 3828  mean sq-dist   4646.4
+    constellation-other         n= 1320  mean sq-dist   5503.9
+    constellation-star          n= 7480  mean sq-dist   5796.1
+    other-other                 n=  105  mean sq-dist   4701.1
+    other-star                  n= 1275  mean sq-dist   5164.8
+    star-star                   n= 3570  mean sq-dist   4323.1
+
+[2] Pearson RSA neural vs sphere (loss = 2 - 2r)
+    top-8      all 0.579  all|type-blocks removed 0.663  constellation-constellation 0.794  star-star 0.570  constellation-star 0.641
+    top-16     all 0.561  all|type-blocks removed 0.634  constellation-constellation 0.768  star-star 0.542  constellation-star 0.609
+    top-32     all 0.552  all|type-blocks removed 0.618  constellation-constellation 0.766  star-star 0.532  constellation-star 0.583
+    top-128    all 0.541  all|type-blocks removed 0.600  constellation-constellation 0.764  star-star 0.475  constellation-star 0.579
+
+[3] split-half reliability over templates (50 random 12/13 splits), top-128
+    all                         split-half r 0.966  -> Spearman-Brown 0.983
+    constellation-constellation split-half r 0.986  -> Spearman-Brown 0.993
+    star-star                   split-half r 0.972  -> Spearman-Brown 0.986
+
+[4] SH embedding check (real orthonormal Y_lm, f(lambda)=exp(-beta*lambda), l<=12)
+    beta 0.300: max|explicit - zonal| / max D = 1.9e-05 ; corr with sphere 0.9933 ; with neural 0.558
+    beta 0.030: max|explicit - zonal| / max D = 5.8e-05 ; corr with sphere 0.5637 ; with neural 0.438
+    beta 0.003: max|explicit - zonal| / max D = 1.2e-04 ; corr with sphere 0.2001 ; with neural 0.183
+
+[5] isotropic ceiling (neural RDM ~ binned function of angular separation)
+    10 bins: r(any f(angle)) 0.567 ;  r(f(angle) per type block) 0.726 ;  sphere 0.541
+    30 bins: r(any f(angle)) 0.572 ;  r(f(angle) per type block) 0.733 ;  sphere 0.541
+    60 bins: r(any f(angle)) 0.574 ;  r(f(angle) per type block) 0.737 ;  sphere 0.541

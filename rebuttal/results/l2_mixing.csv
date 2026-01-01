@@ -1,0 +1,12 @@
+model,n_layers,C_fro_median,pred_angle_deg_median,l2perp_change_deg
+qwen32b,14,0.5364,9.22,10.64
+qwen235b,12,0.5598,9.61,4.3
+gptoss120b,5,0.7846,13.48,19.81
+gptoss120b_harmony,7,1.1923,23.9,15.63
+llama33_70b,42,0.4096,7.89,4.18
+mixtral8x22b,25,0.4441,8.59,3.11
+mistrallarge123b,43,0.4634,7.78,4.83
+glm45air,22,0.5254,8.89,6.12
+spearman all 8,,,0.69,0.0347
+"spearman 7, harmony gpt-oss only",,,0.571,0.1
+"spearman 6, no gpt-oss",,,0.314,0.2819

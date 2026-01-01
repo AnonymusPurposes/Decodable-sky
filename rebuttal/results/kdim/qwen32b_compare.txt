@@ -1,0 +1,10 @@
+qwen32b: band = 14 of 65 layers (k8 sphere-alone >= half its max)
+k       cut      frame  sphere S->chart chart->S  S->cyl  cyl->S   max|d| vs k8 over layers x 79 choices (to / from sphere)
+k8      120   ecliptic   0.422    0.181    0.015   0.040   0.005
+k32      30 equatorial   0.320    0.175    0.006   0.045  -0.003   0.230 / 0.029  (band: 0.230 / 0.029)
+k128    120 equatorial   0.143    0.169    0.017   0.042  -0.006   0.278 / 0.037  (band: 0.278 / 0.037)
+kfull   120 equatorial   0.305    0.169    0.015   0.044  -0.008   0.296 / 0.038  (band: 0.296 / 0.038)
+k8     band layers with S->chart > chart->S: 13/14, S->cyl > cyl->S: 12/14
+k32    band layers with S->chart > chart->S: 14/14, S->cyl > cyl->S: 14/14
+k128   band layers with S->chart > chart->S: 14/14, S->cyl > cyl->S: 14/14
+kfull  band layers with S->chart > chart->S: 14/14, S->cyl > cyl->S: 14/14
